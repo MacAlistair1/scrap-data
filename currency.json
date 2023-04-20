@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Indian Rupee",
+    "code": "INR",
+    "unit": "100",
+    "buy": "160.00",
+    "sell": "160.15"
+  },
+  {
+    "name": "U.S. Dollar",
+    "code": "usd",
+    "unit": "1",
+    "buy": "131.27",
+    "sell": "131.87"
+  },
+  {
+    "name": "European Euro",
+    "code": "eur",
+    "unit": "1",
+    "buy": "143.48",
+    "sell": "144.13"
+  },
+  {
+    "name": "UK Pound Sterling",
+    "code": "gbp",
+    "unit": "1",
+    "buy": "162.79",
+    "sell": "163.54"
+  },
+  {
+    "name": "Swiss Franc",
+    "code": "chf",
+    "unit": "1",
+    "buy": "145.90",
+    "sell": "146.57"
+  },
+  {
+    "name": "Australian Dollar",
+    "code": "aud",
+    "unit": "1",
+    "buy": "87.91",
+    "sell": "88.31"
+  },
+  {
+    "name": "Canadian Dollar",
+    "code": "cad",
+    "unit": "1",
+    "buy": "97.65",
+    "sell": "98.09"
+  },
+  {
+    "name": "Singapore Dollar",
+    "code": "sgd",
+    "unit": "1",
+    "buy": "98.16",
+    "sell": "98.61"
+  },
+  {
+    "name": "Japanese Yen",
+    "code": "jpy",
+    "unit": "10",
+    "buy": "9.73",
+    "sell": "9.78"
+  },
+  {
+    "name": "Chinese Yuan",
+    "code": "cny",
+    "unit": "1",
+    "buy": "19.03",
+    "sell": "19.12"
+  },
+  {
+    "name": "Saudi Arabian Riyal",
+    "code": "sar",
+    "unit": "1",
+    "buy": "35.00",
+    "sell": "35.16"
+  },
+  {
+    "name": "Qatari Riyal",
+    "code": "qar",
+    "unit": "1",
+    "buy": "35.98",
+    "sell": "36.15"
+  },
+  {
+    "name": "Thai Baht",
+    "code": "thb",
+    "unit": "1",
+    "buy": "3.80",
+    "sell": "3.82"
+  },
+  {
+    "name": "UAE Dirham",
+    "code": "aed",
+    "unit": "1",
+    "buy": "35.74",
+    "sell": "35.91"
+  },
+  {
+    "name": "Malaysian Ringgit",
+    "code": "myr",
+    "unit": "1",
+    "buy": "29.55",
+    "sell": "29.69"
+  },
+  {
+    "name": "South Korean Won",
+    "code": "krw",
+    "unit": "100",
+    "buy": "9.83",
+    "sell": "9.88"
+  },
+  {
+    "name": "Swedish Kroner",
+    "code": "sek",
+    "unit": "1",
+    "buy": "12.68",
+    "sell": "12.74"
+  },
+  {
+    "name": "Danish Kroner",
+    "code": "dkk",
+    "unit": "1",
+    "buy": "19.26",
+    "sell": "19.34"
+  },
+  {
+    "name": "Hong Kong Dollar",
+    "code": "hkd",
+    "unit": "1",
+    "buy": "16.72",
+    "sell": "16.80"
+  },
+  {
+    "name": "Kuwaity Dinar",
+    "code": "kwd",
+    "unit": "1",
+    "buy": "428.09",
+    "sell": "430.05"
+  },
+  {
+    "name": "Bahrain Dinar",
+    "code": "bhd",
+    "unit": "1",
+    "buy": "348.21",
+    "sell": "349.80"
+  }
+]
