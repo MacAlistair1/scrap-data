@@ -9,7 +9,7 @@
     "code": "RBB",
     "bank": "Rastriya Banijya Bank",
     "saving": "7.40%",
-    "fixed": "11.00%"
+    "fixed": "9.99%"
   },
   {
     "code": "Nabil Bank",
@@ -128,8 +128,8 @@
   {
     "code": "Narayani Dev.",
     "bank": "Narayani Bikas Bank",
-    "saving": "7.50%",
-    "fixed": "12.50%"
+    "saving": "8.60%",
+    "fixed": "11.60%"
   },
   {
     "code": "Karnali Bikas",
@@ -232,6 +232,12 @@
     "bank": "Shree Invest &Finance",
     "saving": "8.75%",
     "fixed": "11.25%"
+  },
+  {
+    "code": "Nepal Finance",
+    "bank": "Nepal Finance Co.",
+    "saving": "--",
+    "fixed": "--"
   },
   {
     "code": "Best Finance",
