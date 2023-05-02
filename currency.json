@@ -5,7 +5,7 @@
     "unit": 1,
     "buy": 1.6,
     "sell": 1.6,
-    "date": "May 1, 2023"
+    "date": "May 2, 2023"
   },
   {
     "name": "U.S. Dollar",
@@ -13,63 +13,63 @@
     "unit": 1,
     "buy": 130.63,
     "sell": 131.23,
-    "date": "May 1, 2023"
+    "date": "May 2, 2023"
   },
   {
     "name": "European Euro",
     "code": "EUR",
     "unit": 1,
-    "buy": 143.98,
-    "sell": 144.64,
-    "date": "May 1, 2023"
+    "buy": 143.81,
+    "sell": 144.47,
+    "date": "May 2, 2023"
   },
   {
     "name": "UK Pound Sterling",
     "code": "GBP",
     "unit": 1,
-    "buy": 164.25,
-    "sell": 165.01,
-    "date": "May 1, 2023"
+    "buy": 163.71,
+    "sell": 164.46,
+    "date": "May 2, 2023"
   },
   {
     "name": "Swiss Franc",
     "code": "CHF",
     "unit": 1,
-    "buy": 146.08,
-    "sell": 146.75,
-    "date": "May 1, 2023"
+    "buy": 146.37,
+    "sell": 147.04,
+    "date": "May 2, 2023"
   },
   {
     "name": "Australian Dollar",
     "code": "AUD",
     "unit": 1,
-    "buy": 86.32,
-    "sell": 86.72,
-    "date": "May 1, 2023"
+    "buy": 86.76,
+    "sell": 87.16,
+    "date": "May 2, 2023"
   },
   {
     "name": "Canadian Dollar",
     "code": "CAD",
     "unit": 1,
-    "buy": 96.39,
-    "sell": 96.83,
-    "date": "May 1, 2023"
+    "buy": 96.25,
+    "sell": 96.69,
+    "date": "May 2, 2023"
   },
   {
     "name": "Singapore Dollar",
     "code": "SGD",
     "unit": 1,
-    "buy": 97.86,
-    "sell": 98.31,
-    "date": "May 1, 2023"
+    "buy": 98.05,
+    "sell": 98.5,
+    "date": "May 2, 2023"
   },
   {
     "name": "Japanese Yen",
     "code": "JPY",
     "unit": 1,
-    "buy": 9.58,
-    "sell": 9.63,
-    "date": "May 1, 2023"
+    "buy": 9.56,
+    "sell": 9.6,
+    "date": "May 2, 2023"
   },
   {
     "name": "Chinese Yuan",
@@ -77,7 +77,7 @@
     "unit": 1,
     "buy": 18.9,
     "sell": 18.99,
-    "date": "May 1, 2023"
+    "date": "May 2, 2023"
   },
   {
     "name": "Saudi Arabian Riyal",
@@ -85,23 +85,23 @@
     "unit": 1,
     "buy": 34.83,
     "sell": 34.99,
-    "date": "May 1, 2023"
+    "date": "May 2, 2023"
   },
   {
     "name": "Qatari Riyal",
     "code": "QAR",
     "unit": 1,
-    "buy": 35.83,
-    "sell": 35.99,
-    "date": "May 1, 2023"
+    "buy": 35.69,
+    "sell": 35.86,
+    "date": "May 2, 2023"
   },
   {
     "name": "Thai Baht",
     "code": "THB",
     "unit": 1,
-    "buy": 3.83,
-    "sell": 3.85,
-    "date": "May 1, 2023"
+    "buy": 3.82,
+    "sell": 3.84,
+    "date": "May 2, 2023"
   },
   {
     "name": "UAE Dirham",
@@ -109,7 +109,7 @@
     "unit": 1,
     "buy": 35.57,
     "sell": 35.74,
-    "date": "May 1, 2023"
+    "date": "May 2, 2023"
   },
   {
     "name": "Malaysian Ringgit",
@@ -117,31 +117,31 @@
     "unit": 1,
     "buy": 29.29,
     "sell": 29.42,
-    "date": "May 1, 2023"
+    "date": "May 2, 2023"
   },
   {
     "name": "South Korean Won",
     "code": "KRW",
     "unit": 1,
-    "buy": 0.09759999999999999,
-    "sell": 0.0981,
-    "date": "May 1, 2023"
+    "buy": 0.0975,
+    "sell": 0.09789999999999999,
+    "date": "May 2, 2023"
   },
   {
     "name": "Swedish Kroner",
     "code": "SEK",
     "unit": 1,
-    "buy": 12.73,
-    "sell": 12.79,
-    "date": "May 1, 2023"
+    "buy": 12.71,
+    "sell": 12.76,
+    "date": "May 2, 2023"
   },
   {
     "name": "Danish Kroner",
     "code": "DKK",
     "unit": 1,
-    "buy": 19.31,
-    "sell": 19.4,
-    "date": "May 1, 2023"
+    "buy": 19.29,
+    "sell": 19.38,
+    "date": "May 2, 2023"
   },
   {
     "name": "Hong Kong Dollar",
@@ -149,22 +149,22 @@
     "unit": 1,
     "buy": 16.64,
     "sell": 16.72,
-    "date": "May 1, 2023"
+    "date": "May 2, 2023"
   },
   {
     "name": "Kuwaity Dinar",
     "code": "KWD",
     "unit": 1,
-    "buy": 426.24,
-    "sell": 428.2,
-    "date": "May 1, 2023"
+    "buy": 426.46,
+    "sell": 428.42,
+    "date": "May 2, 2023"
   },
   {
     "name": "Bahrain Dinar",
     "code": "BHD",
     "unit": 1,
-    "buy": 346.52,
-    "sell": 348.11,
-    "date": "May 1, 2023"
+    "buy": 346.47,
+    "sell": 348.06,
+    "date": "May 2, 2023"
   }
 ]
