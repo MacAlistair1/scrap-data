@@ -35,7 +35,7 @@ function sendPushNotification() {
     .messaging()
     .sendToTopic(topic, payload)
     .then((response) => {
-      const logMessage = `Push notification sent successfully: ${JSON.stringify(
+      const logMessage = `Push notification sent successfully for ${data["name"]}: ${JSON.stringify(
         response
       )}`;
       console.log(logMessage);
@@ -44,7 +44,7 @@ function sendPushNotification() {
       fs.appendFileSync("notification.log", logMessage + "\n");
     })
     .catch((error) => {
-      const errorMessage = `Error sending push notification: ${error}`;
+      const errorMessage = `Error sending push notification for ${data["name"]}: ${error}`;
 
       console.error(errorMessage);
 
