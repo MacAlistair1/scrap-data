@@ -38,7 +38,7 @@ function sendPushNotification() {
       const logMessage = `Push notification sent successfully for ${
         data["name"]
       }: ${JSON.stringify(response)}`;
-      console.log(logMessage);
+      // console.log(logMessage);
 
       // Write the log message to a file
       fs.appendFileSync("notification.log", logMessage + "\n");
@@ -46,7 +46,7 @@ function sendPushNotification() {
     .catch((error) => {
       const errorMessage = `Error sending push notification for ${data["name"]}: ${error}`;
 
-      console.error(errorMessage);
+      // console.error(errorMessage);
 
       // Write the error message to a file
       fs.appendFileSync("notification.log", errorMessage + "\n");
