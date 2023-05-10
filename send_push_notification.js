@@ -1,10 +1,23 @@
 const admin = require('firebase-admin');
 const fs = require('fs');
-const serviceAccount = require('nepalipulse-53df78e3949c.json'); // Path to your service account JSON file
+const serviceAccount = require('./nepalipulse-53df78e3949c.json'); // Path to your service account JSON file
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
 });
+
+
+// Get command-line arguments passed to the script
+const args = process.argv.slice(2);
+
+// Parse and process the command-line arguments
+const data = {};
+args.forEach((arg) => {
+  const [key, value] = arg.split('=');
+  data[key] = value;
+});
+
+
 
 // Function to send push notification
 function sendPushNotification() {
@@ -12,7 +25,7 @@ function sendPushNotification() {
   const payload = {
     notification: {
       title: 'Data Change Notification',
-      body: 'The oil.json file has been modified.',
+      body: `The ${data['name']} file has been modified.`,
     },
   };
 
@@ -30,11 +43,13 @@ function sendPushNotification() {
  })
  .catch((error) => {
    const errorMessage = `Error sending push notification: ${error}`;
+
    console.error(errorMessage);
 
    // Write the error message to a file
    fs.appendFileSync('notification.log', errorMessage + '\n');
  });
 }
+
 
 sendPushNotification();
