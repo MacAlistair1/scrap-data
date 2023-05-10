@@ -1,6 +1,6 @@
 const admin = require('firebase-admin');
 const fs = require('fs');
-const serviceAccount = require('./nepali-pulse-581fdba64d2d.json'); // Path to your service account JSON file
+const serviceAccount = require('./nepali-pulse-firebase-adminsdk-ty2da-303e4efd51.json'); // Path to your service account JSON file
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
