@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nepali-pulse",
+  "private_key_id": "521d50ee6d9708355739bde35ed2871fc652d319",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCaaS8L8/atpXD9\nsfPvPzEFTbUZkDW54YvgUhpaD+0EZfkenGTSV1OydmqQWDpbDBqivlzMSpdZyp8C\nhxR5OXXQis4FNQKUL43+TQJbVr7YUVpN6kLi3xM/AhKeDwE1ZTluEMz0AxpLrjrX\ngyy3NFYYxBWKj6fkX/8ZTi8TtL8d1jOcnzYs9zIuxDHYL0ZUKkd76XV1FMuyVgLc\nGAdpHcAdc1xOhl4P2iJjHsAKQkjC/LDdUH5IKjGh3fQIhvByO6vmZD5xjxwl211n\nJy0MpgxiM4CBBhCL2M57rEGqoyu+3ztCyFpmtaZKy6YOny7uzcq/DVL8FTCtT6Gp\nTbx6UwIbAgMBAAECggEAJSmdjhXoT8CaoiRbHkCqLqmWJZHkrFkRTirUdsqQc9eL\nDof7Z/hmh3Qij5z8Zn9SRcrlELH/HTg77uLN1aMzrL5LeUtZ1IphdUvZflwxUGS8\nBDaWZH3l5us7ydi4pL45BTl76lp40LAdL1M9xtYMxqcivBd5A+jqv49mmyqMOMS+\nAYkvO7aZaK89NmrGKvTdgXla5YpC3lKCFyGlsaobCyvkDZXWOf3hm1lOgG++261o\nPHwnYb7dZjWWlnsVrEN78oKStlh5WirijFeY7q47pCybLDYnGHgA7WKNfH9Gsj8M\nVinxo4FaM/f0Zpq9rjrkBPAOrOI9gejesOb6ke8EQQKBgQDTo/VEjWS03Orm3GLV\n7UqWtQnjBgWfN3n5HiqpVIl8Xe+P6lgR/0Lm/sIeeFeV8OQZSrtx3U+FwDfVKzRx\nZyBtAtDxcRafkfC8sn4p2NR6kUPvoAd3H7UIB2dWt+J9gmeTPBaf0CEi7SRy+Mz3\nAx39vkjKCto/PxShybViEhpJIQKBgQC6xnG9/xs2GMGlpsS4Xwi2kMe1Hp6YD5Zr\ndDautRE56HcBW/QyIbIZf9+gx2Q52YJNHCCdXx2ecQskGxVvfTgI5BYYzn6gZ2B2\nz8t7LAqplj4+oHlT3ZqbVxyi5rrZzlU9HSsqu2ggy1GHu7VbPPmQNQtOH/E8L0yy\nbSDf3rm3uwKBgAzUgrjuLW29eswWDjPT19K9FOVbZxnY3h8ZEhMD2fXdJ/m8hixJ\nIkAor5HzT7P6T4ms+yIS/ZApL/lPTjWVv+R76DjK10lDKqn11CorR+5KQikTtYAm\nPu5GrKAYM7XSIv9NBD4Z+vhIEg6aQKq02KuaToVZFRQCefi45rMUT92hAoGASwS3\n3LthX5oT9YgFTZSGOGXwgNP6mVLxdNlpuURq1dqEKhyX+abFFS7iUH6lyAKQLo6U\nnwD8MY5wDiF+u5gM8K1EHtSZ0a2T9kTCEwf+hF0fRSJJeSDyH2Ce1ONdu2v/mptj\nojdBvKJNbfo7/piAGKblkoyL5UOOR8BDSwf3ik8CgYBvoLdpUbVelBdyejZfXxCZ\n+1xWDm+3+Ma1tO7DFS5uMA+Rkg9Xgs8ywMuCu2Padb1ySVRFjBpQfIJSBVHKDAhZ\nvv86zIhhm7zPWkvdWq/zgV55Zs+ucq+ENPMAsQ14CS2eZhNPmzgSY24/hXfixBx5\nEEIQfERJeiiFRFkNp9fBNw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-sdk@nepali-pulse.iam.gserviceaccount.com",
+  "client_id": "117022459420529112490",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-sdk%40nepali-pulse.iam.gserviceaccount.com"
+}
