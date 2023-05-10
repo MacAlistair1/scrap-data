@@ -5,7 +5,7 @@ const serviceAccount = require("/home/superx/Documents/nepali-pulse-3586c217f2cd
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
-})
+});
 
 // Get command-line arguments passed to the script
 const args = process.argv.slice(2);
@@ -22,8 +22,8 @@ function sendPushNotification() {
   // Prepare the notification payload
   const payload = {
     notification: {
-      title: "Data Change Notification",
-      body: `The ${data["name"]} file has been modified.`,
+      title: data['title'] ?? "Data Change Notification",
+      body: data['message'] ?? "Click to Check out the latest update!!",
     },
   };
 
@@ -35,9 +35,9 @@ function sendPushNotification() {
     .messaging()
     .sendToTopic(topic, payload)
     .then((response) => {
-      const logMessage = `Push notification sent successfully for ${data["name"]}: ${JSON.stringify(
-        response
-      )}`;
+      const logMessage = `Push notification sent successfully for ${
+        data["name"]
+      }: ${JSON.stringify(response)}`;
       console.log(logMessage);
 
       // Write the log message to a file
