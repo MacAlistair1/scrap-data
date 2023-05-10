@@ -3,9 +3,8 @@ const fs = require("fs");
 
 const serviceAccount = require("/home/superx/Documents/nepali-pulse-3586c217f2cd.json"); // Path to your service account JSON file
 
-
 admin.initializeApp({
-  credential: admin.credential.cert(serviceAccount)
+  credential: admin.credential.cert(serviceAccount),
 })
 
 // Get command-line arguments passed to the script
