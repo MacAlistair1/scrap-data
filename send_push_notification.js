@@ -1,11 +1,16 @@
 const admin = require("firebase-admin");
 const fs = require("fs");
 
-const serviceAccount = require("/home/superx/Documents/nepali-pulse-firebase-adminsdk-qfre1-cdd3cb3711.json"); // Path to your service account JSON file
+const serviceAccount = require("/home/superx/Documents/nepali-pulse-3586c217f2cd.json"); // Path to your service account JSON file
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
 });
+
+
+admin.initializeApp({
+  credential: admin.credential.cert(serviceAccount)
+})
 
 // Get command-line arguments passed to the script
 const args = process.argv.slice(2);
