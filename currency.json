@@ -5,95 +5,95 @@
     "unit": 1,
     "buy": 1.6,
     "sell": 1.6,
-    "date": "November 20, 2023"
+    "date": "November 21, 2023"
   },
   {
     "name": "U.S. Dollar",
     "code": "USD",
     "unit": 1,
-    "buy": 132.94,
-    "sell": 133.54,
-    "date": "November 20, 2023"
+    "buy": 133.05,
+    "sell": 133.65,
+    "date": "November 21, 2023"
   },
   {
     "name": "European Euro",
     "code": "EUR",
     "unit": 1,
-    "buy": 145.02,
-    "sell": 145.68,
-    "date": "November 20, 2023"
+    "buy": 145.36,
+    "sell": 146.01,
+    "date": "November 21, 2023"
   },
   {
     "name": "UK Pound Sterling",
     "code": "GBP",
     "unit": 1,
-    "buy": 165.68,
-    "sell": 166.43,
-    "date": "November 20, 2023"
+    "buy": 165.87,
+    "sell": 166.62,
+    "date": "November 21, 2023"
   },
   {
     "name": "Swiss Franc",
     "code": "CHF",
     "unit": 1,
-    "buy": 150.1,
-    "sell": 150.77,
-    "date": "November 20, 2023"
+    "buy": 150.56,
+    "sell": 151.24,
+    "date": "November 21, 2023"
   },
   {
     "name": "Australian Dollar",
     "code": "AUD",
     "unit": 1,
-    "buy": 86.53,
-    "sell": 86.92,
-    "date": "November 20, 2023"
+    "buy": 87.17,
+    "sell": 87.56,
+    "date": "November 21, 2023"
   },
   {
     "name": "Canadian Dollar",
     "code": "CAD",
     "unit": 1,
-    "buy": 96.9,
-    "sell": 97.33,
-    "date": "November 20, 2023"
+    "buy": 97.0,
+    "sell": 97.43,
+    "date": "November 21, 2023"
   },
   {
     "name": "Singapore Dollar",
     "code": "SGD",
     "unit": 1,
-    "buy": 98.97,
-    "sell": 99.42,
-    "date": "November 20, 2023"
+    "buy": 99.31,
+    "sell": 99.76,
+    "date": "November 21, 2023"
   },
   {
     "name": "Japanese Yen",
     "code": "JPY",
     "unit": 1,
-    "buy": 8.88,
-    "sell": 8.92,
-    "date": "November 20, 2023"
+    "buy": 8.97,
+    "sell": 9.01,
+    "date": "November 21, 2023"
   },
   {
     "name": "Chinese Yuan",
     "code": "CNY",
     "unit": 1,
-    "buy": 18.43,
-    "sell": 18.52,
-    "date": "November 20, 2023"
+    "buy": 18.57,
+    "sell": 18.65,
+    "date": "November 21, 2023"
   },
   {
     "name": "Saudi Arabian Riyal",
     "code": "SAR",
     "unit": 1,
-    "buy": 35.45,
-    "sell": 35.61,
-    "date": "November 20, 2023"
+    "buy": 35.48,
+    "sell": 35.64,
+    "date": "November 21, 2023"
   },
   {
     "name": "Qatari Riyal",
     "code": "QAR",
     "unit": 1,
-    "buy": 36.46,
-    "sell": 36.62,
-    "date": "November 20, 2023"
+    "buy": 36.51,
+    "sell": 36.67,
+    "date": "November 21, 2023"
   },
   {
     "name": "Thai Baht",
@@ -101,70 +101,70 @@
     "unit": 1,
     "buy": 3.78,
     "sell": 3.8,
-    "date": "November 20, 2023"
+    "date": "November 21, 2023"
   },
   {
     "name": "UAE Dirham",
     "code": "AED",
     "unit": 1,
-    "buy": 36.19,
-    "sell": 36.36,
-    "date": "November 20, 2023"
+    "buy": 36.22,
+    "sell": 36.39,
+    "date": "November 21, 2023"
   },
   {
     "name": "Malaysian Ringgit",
     "code": "MYR",
     "unit": 1,
-    "buy": 28.41,
-    "sell": 28.53,
-    "date": "November 20, 2023"
+    "buy": 28.51,
+    "sell": 28.63,
+    "date": "November 21, 2023"
   },
   {
     "name": "South Korean Won",
     "code": "KRW",
     "unit": 1,
-    "buy": 0.1026,
-    "sell": 0.10310000000000001,
-    "date": "November 20, 2023"
+    "buy": 0.10300000000000001,
+    "sell": 0.1035,
+    "date": "November 21, 2023"
   },
   {
     "name": "Swedish Kroner",
     "code": "SEK",
     "unit": 1,
-    "buy": 12.64,
-    "sell": 12.7,
-    "date": "November 20, 2023"
+    "buy": 12.71,
+    "sell": 12.76,
+    "date": "November 21, 2023"
   },
   {
     "name": "Danish Kroner",
     "code": "DKK",
     "unit": 1,
-    "buy": 19.46,
-    "sell": 19.54,
-    "date": "November 20, 2023"
+    "buy": 19.49,
+    "sell": 19.58,
+    "date": "November 21, 2023"
   },
   {
     "name": "Hong Kong Dollar",
     "code": "HKD",
     "unit": 1,
-    "buy": 17.05,
-    "sell": 17.13,
-    "date": "November 20, 2023"
+    "buy": 17.07,
+    "sell": 17.15,
+    "date": "November 21, 2023"
   },
   {
     "name": "Kuwaity Dinar",
     "code": "KWD",
     "unit": 1,
-    "buy": 431.2,
-    "sell": 433.15,
-    "date": "November 20, 2023"
+    "buy": 431.67,
+    "sell": 433.62,
+    "date": "November 21, 2023"
   },
   {
     "name": "Bahrain Dinar",
     "code": "BHD",
     "unit": 1,
-    "buy": 352.63,
-    "sell": 354.22,
-    "date": "November 20, 2023"
+    "buy": 352.93,
+    "sell": 354.52,
+    "date": "November 21, 2023"
   }
 ]
