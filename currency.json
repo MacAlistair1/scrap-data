@@ -5,15 +5,15 @@
     "unit": 1,
     "buy": 1.6,
     "sell": 1.6,
-    "date": "January 19, 2024"
+    "date": "January 22, 2024"
   },
   {
     "name": "U.S. Dollar",
     "code": "USD",
     "unit": 1,
-    "buy": 132.7,
-    "sell": 133.3,
-    "date": "January 19, 2024"
+    "buy": 132.61,
+    "sell": 133.21,
+    "date": "January 22, 2024"
   },
   {
     "name": "European Euro",
@@ -21,79 +21,79 @@
     "unit": 1,
     "buy": 144.52,
     "sell": 145.17,
-    "date": "January 19, 2024"
+    "date": "January 22, 2024"
   },
   {
     "name": "UK Pound Sterling",
     "code": "GBP",
     "unit": 1,
-    "buy": 168.42,
-    "sell": 169.18,
-    "date": "January 19, 2024"
+    "buy": 168.44,
+    "sell": 169.2,
+    "date": "January 22, 2024"
   },
   {
     "name": "Swiss Franc",
     "code": "CHF",
     "unit": 1,
-    "buy": 153.37,
-    "sell": 154.07,
-    "date": "January 19, 2024"
+    "buy": 152.65,
+    "sell": 153.34,
+    "date": "January 22, 2024"
   },
   {
     "name": "Australian Dollar",
     "code": "AUD",
     "unit": 1,
-    "buy": 87.18,
-    "sell": 87.58,
-    "date": "January 19, 2024"
+    "buy": 87.5,
+    "sell": 87.89,
+    "date": "January 22, 2024"
   },
   {
     "name": "Canadian Dollar",
     "code": "CAD",
     "unit": 1,
-    "buy": 98.41,
-    "sell": 98.86,
-    "date": "January 19, 2024"
+    "buy": 98.74,
+    "sell": 99.19,
+    "date": "January 22, 2024"
   },
   {
     "name": "Singapore Dollar",
     "code": "SGD",
     "unit": 1,
-    "buy": 98.79,
-    "sell": 99.24,
-    "date": "January 19, 2024"
+    "buy": 98.92,
+    "sell": 99.37,
+    "date": "January 22, 2024"
   },
   {
     "name": "Japanese Yen",
     "code": "JPY",
     "unit": 1,
-    "buy": 8.98,
-    "sell": 9.02,
-    "date": "January 19, 2024"
+    "buy": 8.95,
+    "sell": 8.99,
+    "date": "January 22, 2024"
   },
   {
     "name": "Chinese Yuan",
     "code": "CNY",
     "unit": 1,
-    "buy": 18.45,
-    "sell": 18.53,
-    "date": "January 19, 2024"
+    "buy": 18.43,
+    "sell": 18.52,
+    "date": "January 22, 2024"
   },
   {
     "name": "Saudi Arabian Riyal",
     "code": "SAR",
     "unit": 1,
-    "buy": 35.38,
-    "sell": 35.54,
-    "date": "January 19, 2024"
+    "buy": 35.36,
+    "sell": 35.52,
+    "date": "January 22, 2024"
   },
   {
     "name": "Qatari Riyal",
     "code": "QAR",
     "unit": 1,
-    "buy": 36.4,
-    "sell": 36.56,
-    "date": "January 19, 2024"
+    "buy": 36.38,
+    "sell": 36.54,
+    "date": "January 22, 2024"
   },
   {
     "name": "Thai Baht",
@@ -101,70 +101,70 @@
     "unit": 1,
     "buy": 3.73,
     "sell": 3.75,
-    "date": "January 19, 2024"
+    "date": "January 22, 2024"
   },
   {
     "name": "UAE Dirham",
     "code": "AED",
     "unit": 1,
-    "buy": 36.13,
-    "sell": 36.29,
-    "date": "January 19, 2024"
+    "buy": 36.1,
+    "sell": 36.27,
+    "date": "January 22, 2024"
   },
   {
     "name": "Malaysian Ringgit",
     "code": "MYR",
     "unit": 1,
-    "buy": 28.13,
-    "sell": 28.25,
-    "date": "January 19, 2024"
+    "buy": 28.11,
+    "sell": 28.24,
+    "date": "January 22, 2024"
   },
   {
     "name": "South Korean Won",
     "code": "KRW",
     "unit": 1,
-    "buy": 0.0992,
-    "sell": 0.09960000000000001,
-    "date": "January 19, 2024"
+    "buy": 0.09939999999999999,
+    "sell": 0.0998,
+    "date": "January 22, 2024"
   },
   {
     "name": "Swedish Kroner",
     "code": "SEK",
     "unit": 1,
-    "buy": 12.7,
-    "sell": 12.76,
-    "date": "January 19, 2024"
+    "buy": 12.67,
+    "sell": 12.73,
+    "date": "January 22, 2024"
   },
   {
     "name": "Danish Kroner",
     "code": "DKK",
     "unit": 1,
     "buy": 19.38,
-    "sell": 19.46,
-    "date": "January 19, 2024"
+    "sell": 19.47,
+    "date": "January 22, 2024"
   },
   {
     "name": "Hong Kong Dollar",
     "code": "HKD",
     "unit": 1,
-    "buy": 16.97,
+    "buy": 16.96,
     "sell": 17.04,
-    "date": "January 19, 2024"
+    "date": "January 22, 2024"
   },
   {
     "name": "Kuwaity Dinar",
     "code": "KWD",
     "unit": 1,
-    "buy": 431.21,
-    "sell": 433.16,
-    "date": "January 19, 2024"
+    "buy": 430.9,
+    "sell": 432.85,
+    "date": "January 22, 2024"
   },
   {
     "name": "Bahrain Dinar",
     "code": "BHD",
     "unit": 1,
-    "buy": 352.01,
-    "sell": 353.6,
-    "date": "January 19, 2024"
+    "buy": 351.75,
+    "sell": 353.34,
+    "date": "January 22, 2024"
   }
 ]
