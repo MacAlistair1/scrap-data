@@ -5,7 +5,7 @@
     "unit": 1,
     "buy": 1.6,
     "sell": 1.6,
-    "date": "April 9, 2024"
+    "date": "April 10, 2024"
   },
   {
     "name": "U.S. Dollar",
@@ -13,55 +13,55 @@
     "unit": 1,
     "buy": 133.01,
     "sell": 133.61,
-    "date": "April 9, 2024"
+    "date": "April 10, 2024"
   },
   {
     "name": "European Euro",
     "code": "EUR",
     "unit": 1,
-    "buy": 144.01,
-    "sell": 144.66,
-    "date": "April 9, 2024"
+    "buy": 144.56,
+    "sell": 145.21,
+    "date": "April 10, 2024"
   },
   {
     "name": "UK Pound Sterling",
     "code": "GBP",
     "unit": 1,
-    "buy": 167.93,
-    "sell": 168.68,
-    "date": "April 9, 2024"
+    "buy": 168.74,
+    "sell": 169.5,
+    "date": "April 10, 2024"
   },
   {
     "name": "Swiss Franc",
     "code": "CHF",
     "unit": 1,
-    "buy": 146.81,
-    "sell": 147.47,
-    "date": "April 9, 2024"
+    "buy": 147.3,
+    "sell": 147.96,
+    "date": "April 10, 2024"
   },
   {
     "name": "Australian Dollar",
     "code": "AUD",
     "unit": 1,
-    "buy": 87.63,
-    "sell": 88.02,
-    "date": "April 9, 2024"
+    "buy": 88.11,
+    "sell": 88.5,
+    "date": "April 10, 2024"
   },
   {
     "name": "Canadian Dollar",
     "code": "CAD",
     "unit": 1,
-    "buy": 97.84,
-    "sell": 98.28,
-    "date": "April 9, 2024"
+    "buy": 98.0,
+    "sell": 98.45,
+    "date": "April 10, 2024"
   },
   {
     "name": "Singapore Dollar",
     "code": "SGD",
     "unit": 1,
-    "buy": 98.58,
-    "sell": 99.03,
-    "date": "April 9, 2024"
+    "buy": 98.85,
+    "sell": 99.3,
+    "date": "April 10, 2024"
   },
   {
     "name": "Japanese Yen",
@@ -69,7 +69,7 @@
     "unit": 1,
     "buy": 8.76,
     "sell": 8.8,
-    "date": "April 9, 2024"
+    "date": "April 10, 2024"
   },
   {
     "name": "Chinese Yuan",
@@ -77,7 +77,7 @@
     "unit": 1,
     "buy": 18.39,
     "sell": 18.47,
-    "date": "April 9, 2024"
+    "date": "April 10, 2024"
   },
   {
     "name": "Saudi Arabian Riyal",
@@ -85,7 +85,7 @@
     "unit": 1,
     "buy": 35.46,
     "sell": 35.62,
-    "date": "April 9, 2024"
+    "date": "April 10, 2024"
   },
   {
     "name": "Qatari Riyal",
@@ -93,15 +93,15 @@
     "unit": 1,
     "buy": 36.47,
     "sell": 36.63,
-    "date": "April 9, 2024"
+    "date": "April 10, 2024"
   },
   {
     "name": "Thai Baht",
     "code": "THB",
     "unit": 1,
-    "buy": 3.63,
-    "sell": 3.64,
-    "date": "April 9, 2024"
+    "buy": 3.66,
+    "sell": 3.67,
+    "date": "April 10, 2024"
   },
   {
     "name": "UAE Dirham",
@@ -109,62 +109,62 @@
     "unit": 1,
     "buy": 36.22,
     "sell": 36.38,
-    "date": "April 9, 2024"
+    "date": "April 10, 2024"
   },
   {
     "name": "Malaysian Ringgit",
     "code": "MYR",
     "unit": 1,
-    "buy": 27.99,
-    "sell": 28.12,
-    "date": "April 9, 2024"
+    "buy": 28.02,
+    "sell": 28.14,
+    "date": "April 10, 2024"
   },
   {
     "name": "South Korean Won",
     "code": "KRW",
     "unit": 1,
-    "buy": 0.0981,
-    "sell": 0.09849999999999999,
-    "date": "April 9, 2024"
+    "buy": 0.0983,
+    "sell": 0.0987,
+    "date": "April 10, 2024"
   },
   {
     "name": "Swedish Kroner",
     "code": "SEK",
     "unit": 1,
-    "buy": 12.56,
-    "sell": 12.62,
-    "date": "April 9, 2024"
+    "buy": 12.6,
+    "sell": 12.66,
+    "date": "April 10, 2024"
   },
   {
     "name": "Danish Kroner",
     "code": "DKK",
     "unit": 1,
-    "buy": 19.31,
-    "sell": 19.39,
-    "date": "April 9, 2024"
+    "buy": 19.38,
+    "sell": 19.47,
+    "date": "April 10, 2024"
   },
   {
     "name": "Hong Kong Dollar",
     "code": "HKD",
     "unit": 1,
-    "buy": 16.98,
+    "buy": 16.99,
     "sell": 17.06,
-    "date": "April 9, 2024"
+    "date": "April 10, 2024"
   },
   {
     "name": "Kuwaity Dinar",
     "code": "KWD",
     "unit": 1,
-    "buy": 432.47,
-    "sell": 434.42,
-    "date": "April 9, 2024"
+    "buy": 432.68,
+    "sell": 434.63,
+    "date": "April 10, 2024"
   },
   {
     "name": "Bahrain Dinar",
     "code": "BHD",
     "unit": 1,
-    "buy": 352.8,
-    "sell": 354.39,
-    "date": "April 9, 2024"
+    "buy": 352.79,
+    "sell": 354.38,
+    "date": "April 10, 2024"
   }
 ]
