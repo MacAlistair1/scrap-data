@@ -120,10 +120,22 @@
     "fixed": "6.90%"
   },
   {
+    "code": "Narayani Dev.",
+    "bank": "Narayani Bikas Bank",
+    "saving": "6.00%",
+    "fixed": "9.00%"
+  },
+  {
     "code": "Karnali Bikas",
     "bank": "Karnali Bikas Bank",
     "saving": "5.00%",
     "fixed": "8.50%"
+  },
+  {
+    "code": "Excel Bikas",
+    "bank": "Excel Bikas Bank",
+    "saving": "5.25%",
+    "fixed": "8.00%"
   },
   {
     "code": "Miteri Bikas",
@@ -198,6 +210,12 @@
     "fixed": "7.75%"
   },
   {
+    "code": "Saptakoshi Dev",
+    "bank": "Saptakoshi Bikas Bank",
+    "saving": "5.15%",
+    "fixed": "8.00%"
+  },
+  {
     "code": "Gurkhas Finan",
     "bank": "Gurkhas Finance Ltd",
     "saving": "6.50%",
@@ -232,6 +250,12 @@
     "bank": "Progressive Fin. Co.",
     "saving": "7.50%",
     "fixed": "8.50%"
+  },
+  {
+    "code": "Janaki Finan.",
+    "bank": "Janaki Finance Co.",
+    "saving": "0.00%",
+    "fixed": "8.75%"
   },
   {
     "code": "Pokhara Finan.",
