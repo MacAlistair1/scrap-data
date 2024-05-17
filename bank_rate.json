@@ -270,6 +270,12 @@
     "fixed": "8.50%"
   },
   {
+    "code": "Multipurpose",
+    "bank": "Multipurpose Finance",
+    "saving": "6.50%",
+    "fixed": "8.75%"
+  },
+  {
     "code": "Samriddhi Fin",
     "bank": "Samriddhi Finance Co.",
     "saving": "6.35%",
@@ -298,5 +304,11 @@
     "bank": "Reliance Finance Ltd.",
     "saving": "6.75%",
     "fixed": "9.25%"
+  },
+  {
+    "code": "Salapa Bikas",
+    "bank": "Salapa Bikas Bank",
+    "saving": "4.73%",
+    "fixed": "8.50%"
   }
 ]
