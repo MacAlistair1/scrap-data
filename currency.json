@@ -5,7 +5,7 @@
     "unit": 1,
     "buy": 1.6,
     "sell": 1.6,
-    "date": "June 13, 2024"
+    "date": "June 14, 2024"
   },
   {
     "name": "U.S. Dollar",
@@ -13,55 +13,55 @@
     "unit": 1,
     "buy": 133.38,
     "sell": 133.98,
-    "date": "June 13, 2024"
+    "date": "June 14, 2024"
   },
   {
     "name": "European Euro",
     "code": "EUR",
     "unit": 1,
-    "buy": 143.52,
-    "sell": 144.16,
-    "date": "June 13, 2024"
+    "buy": 143.94,
+    "sell": 144.59,
+    "date": "June 14, 2024"
   },
   {
     "name": "UK Pound Sterling",
     "code": "GBP",
     "unit": 1,
-    "buy": 170.16,
-    "sell": 170.92,
-    "date": "June 13, 2024"
+    "buy": 170.37,
+    "sell": 171.14,
+    "date": "June 14, 2024"
   },
   {
     "name": "Swiss Franc",
     "code": "CHF",
     "unit": 1,
-    "buy": 148.9,
-    "sell": 149.57,
-    "date": "June 13, 2024"
+    "buy": 148.8,
+    "sell": 149.46,
+    "date": "June 14, 2024"
   },
   {
     "name": "Australian Dollar",
     "code": "AUD",
     "unit": 1,
-    "buy": 88.21,
-    "sell": 88.61,
-    "date": "June 13, 2024"
+    "buy": 88.64,
+    "sell": 89.04,
+    "date": "June 14, 2024"
   },
   {
     "name": "Canadian Dollar",
     "code": "CAD",
     "unit": 1,
-    "buy": 97.04,
-    "sell": 97.47,
-    "date": "June 13, 2024"
+    "buy": 97.02,
+    "sell": 97.46,
+    "date": "June 14, 2024"
   },
   {
     "name": "Singapore Dollar",
     "code": "SGD",
     "unit": 1,
-    "buy": 98.65,
-    "sell": 99.1,
-    "date": "June 13, 2024"
+    "buy": 98.84,
+    "sell": 99.28,
+    "date": "June 14, 2024"
   },
   {
     "name": "Japanese Yen",
@@ -69,7 +69,7 @@
     "unit": 1,
     "buy": 8.48,
     "sell": 8.52,
-    "date": "June 13, 2024"
+    "date": "June 14, 2024"
   },
   {
     "name": "Chinese Yuan",
@@ -77,7 +77,7 @@
     "unit": 1,
     "buy": 18.39,
     "sell": 18.47,
-    "date": "June 13, 2024"
+    "date": "June 14, 2024"
   },
   {
     "name": "Saudi Arabian Riyal",
@@ -85,7 +85,7 @@
     "unit": 1,
     "buy": 35.56,
     "sell": 35.72,
-    "date": "June 13, 2024"
+    "date": "June 14, 2024"
   },
   {
     "name": "Qatari Riyal",
@@ -93,7 +93,7 @@
     "unit": 1,
     "buy": 36.58,
     "sell": 36.74,
-    "date": "June 13, 2024"
+    "date": "June 14, 2024"
   },
   {
     "name": "Thai Baht",
@@ -101,7 +101,7 @@
     "unit": 1,
     "buy": 3.64,
     "sell": 3.65,
-    "date": "June 13, 2024"
+    "date": "June 14, 2024"
   },
   {
     "name": "UAE Dirham",
@@ -109,39 +109,39 @@
     "unit": 1,
     "buy": 36.31,
     "sell": 36.48,
-    "date": "June 13, 2024"
+    "date": "June 14, 2024"
   },
   {
     "name": "Malaysian Ringgit",
     "code": "MYR",
     "unit": 1,
-    "buy": 28.27,
-    "sell": 28.4,
-    "date": "June 13, 2024"
+    "buy": 28.33,
+    "sell": 28.46,
+    "date": "June 14, 2024"
   },
   {
     "name": "South Korean Won",
     "code": "KRW",
     "unit": 1,
     "buy": 0.09699999999999999,
-    "sell": 0.0974,
-    "date": "June 13, 2024"
+    "sell": 0.0975,
+    "date": "June 14, 2024"
   },
   {
     "name": "Swedish Kroner",
     "code": "SEK",
     "unit": 1,
-    "buy": 12.78,
-    "sell": 12.83,
-    "date": "June 13, 2024"
+    "buy": 12.82,
+    "sell": 12.88,
+    "date": "June 14, 2024"
   },
   {
     "name": "Danish Kroner",
     "code": "DKK",
     "unit": 1,
-    "buy": 19.24,
-    "sell": 19.33,
-    "date": "June 13, 2024"
+    "buy": 19.3,
+    "sell": 19.38,
+    "date": "June 14, 2024"
   },
   {
     "name": "Hong Kong Dollar",
@@ -149,22 +149,22 @@
     "unit": 1,
     "buy": 17.08,
     "sell": 17.15,
-    "date": "June 13, 2024"
+    "date": "June 14, 2024"
   },
   {
     "name": "Kuwaity Dinar",
     "code": "KWD",
     "unit": 1,
-    "buy": 435.06,
-    "sell": 437.01,
-    "date": "June 13, 2024"
+    "buy": 435.23,
+    "sell": 437.19,
+    "date": "June 14, 2024"
   },
   {
     "name": "Bahrain Dinar",
     "code": "BHD",
     "unit": 1,
-    "buy": 353.84,
-    "sell": 355.43,
-    "date": "June 13, 2024"
+    "buy": 353.88,
+    "sell": 355.47,
+    "date": "June 14, 2024"
   }
 ]
