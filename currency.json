@@ -5,71 +5,71 @@
     "unit": 1,
     "buy": 1.6,
     "sell": 1.6,
-    "date": "July 5, 2024"
+    "date": "July 8, 2024"
   },
   {
     "name": "U.S. Dollar",
     "code": "USD",
     "unit": 1,
-    "buy": 133.3,
-    "sell": 133.9,
-    "date": "July 5, 2024"
+    "buy": 133.28,
+    "sell": 133.88,
+    "date": "July 8, 2024"
   },
   {
     "name": "European Euro",
     "code": "EUR",
     "unit": 1,
-    "buy": 143.92,
-    "sell": 144.57,
-    "date": "July 5, 2024"
+    "buy": 144.45,
+    "sell": 145.1,
+    "date": "July 8, 2024"
   },
   {
     "name": "UK Pound Sterling",
     "code": "GBP",
     "unit": 1,
-    "buy": 170.02,
-    "sell": 170.78,
-    "date": "July 5, 2024"
+    "buy": 170.73,
+    "sell": 171.5,
+    "date": "July 8, 2024"
   },
   {
     "name": "Swiss Franc",
     "code": "CHF",
     "unit": 1,
-    "buy": 148.07,
-    "sell": 148.74,
-    "date": "July 5, 2024"
+    "buy": 148.73,
+    "sell": 149.39,
+    "date": "July 8, 2024"
   },
   {
     "name": "Australian Dollar",
     "code": "AUD",
     "unit": 1,
-    "buy": 89.68,
-    "sell": 90.09,
-    "date": "July 5, 2024"
+    "buy": 89.96,
+    "sell": 90.37,
+    "date": "July 8, 2024"
   },
   {
     "name": "Canadian Dollar",
     "code": "CAD",
     "unit": 1,
-    "buy": 97.85,
-    "sell": 98.29,
-    "date": "July 5, 2024"
+    "buy": 97.71,
+    "sell": 98.15,
+    "date": "July 8, 2024"
   },
   {
     "name": "Singapore Dollar",
     "code": "SGD",
     "unit": 1,
-    "buy": 98.62,
-    "sell": 99.06,
-    "date": "July 5, 2024"
+    "buy": 98.83,
+    "sell": 99.27,
+    "date": "July 8, 2024"
   },
   {
     "name": "Japanese Yen",
     "code": "JPY",
     "unit": 1,
-    "buy": 8.27,
-    "sell": 8.31,
-    "date": "July 5, 2024"
+    "buy": 8.29,
+    "sell": 8.33,
+    "date": "July 8, 2024"
   },
   {
     "name": "Chinese Yuan",
@@ -77,7 +77,7 @@
     "unit": 1,
     "buy": 18.34,
     "sell": 18.42,
-    "date": "July 5, 2024"
+    "date": "July 8, 2024"
   },
   {
     "name": "Saudi Arabian Riyal",
@@ -85,31 +85,31 @@
     "unit": 1,
     "buy": 35.53,
     "sell": 35.69,
-    "date": "July 5, 2024"
+    "date": "July 8, 2024"
   },
   {
     "name": "Qatari Riyal",
     "code": "QAR",
     "unit": 1,
-    "buy": 36.56,
+    "buy": 36.55,
     "sell": 36.72,
-    "date": "July 5, 2024"
+    "date": "July 8, 2024"
   },
   {
     "name": "Thai Baht",
     "code": "THB",
     "unit": 1,
-    "buy": 3.64,
-    "sell": 3.66,
-    "date": "July 5, 2024"
+    "buy": 3.66,
+    "sell": 3.67,
+    "date": "July 8, 2024"
   },
   {
     "name": "UAE Dirham",
     "code": "AED",
     "unit": 1,
     "buy": 36.29,
-    "sell": 36.46,
-    "date": "July 5, 2024"
+    "sell": 36.45,
+    "date": "July 8, 2024"
   },
   {
     "name": "Malaysian Ringgit",
@@ -117,54 +117,54 @@
     "unit": 1,
     "buy": 28.3,
     "sell": 28.43,
-    "date": "July 5, 2024"
+    "date": "July 8, 2024"
   },
   {
     "name": "South Korean Won",
     "code": "KRW",
     "unit": 1,
-    "buy": 0.0966,
-    "sell": 0.09699999999999999,
-    "date": "July 5, 2024"
+    "buy": 0.0968,
+    "sell": 0.09720000000000001,
+    "date": "July 8, 2024"
   },
   {
     "name": "Swedish Kroner",
     "code": "SEK",
     "unit": 1,
-    "buy": 12.69,
-    "sell": 12.75,
-    "date": "July 5, 2024"
+    "buy": 12.72,
+    "sell": 12.77,
+    "date": "July 8, 2024"
   },
   {
     "name": "Danish Kroner",
     "code": "DKK",
     "unit": 1,
-    "buy": 19.3,
-    "sell": 19.38,
-    "date": "July 5, 2024"
+    "buy": 19.37,
+    "sell": 19.46,
+    "date": "July 8, 2024"
   },
   {
     "name": "Hong Kong Dollar",
     "code": "HKD",
     "unit": 1,
-    "buy": 17.07,
-    "sell": 17.15,
-    "date": "July 5, 2024"
+    "buy": 17.06,
+    "sell": 17.14,
+    "date": "July 8, 2024"
   },
   {
     "name": "Kuwaity Dinar",
     "code": "KWD",
     "unit": 1,
-    "buy": 435.32,
-    "sell": 437.28,
-    "date": "July 5, 2024"
+    "buy": 435.36,
+    "sell": 437.32,
+    "date": "July 8, 2024"
   },
   {
     "name": "Bahrain Dinar",
     "code": "BHD",
     "unit": 1,
-    "buy": 353.61,
-    "sell": 355.2,
-    "date": "July 5, 2024"
+    "buy": 353.56,
+    "sell": 355.15,
+    "date": "July 8, 2024"
   }
 ]
