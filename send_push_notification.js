@@ -22,8 +22,8 @@ function sendPushNotification() {
   // Prepare the notification payload
   const payload = {
     notification: {
-      title: data['title'] ?? "Data Change Notification",
-      body: data['message'] ?? "Click to Check out the latest update!!",
+      title: data["title"] ?? "Data Change Notification",
+      body: data["message"] ?? "Click to Check out the latest update!!",
     },
   };
 
