@@ -8,7 +8,7 @@
   {
     "code": "RBB",
     "bank": "Rastriya Banijya Bank",
-    "saving": "3.10%",
+    "saving": "3.25%",
     "fixed": "6.00%"
   },
   {
@@ -32,7 +32,7 @@
   {
     "code": "Himalayan",
     "bank": "Himalayan Bank",
-    "saving": "4.60%",
+    "saving": "4.55%",
     "fixed": "6.25%"
   },
   {
@@ -50,8 +50,8 @@
   {
     "code": "NIC Asia",
     "bank": "NIC ASIA Bank",
-    "saving": "5.27%",
-    "fixed": "6.99%"
+    "saving": "5.10%",
+    "fixed": "6.79%"
   },
   {
     "code": "Machhapuchhre",
@@ -63,7 +63,7 @@
     "code": "Kumari Bank",
     "bank": "Kumari Bank",
     "saving": "4.51%",
-    "fixed": "5.81%"
+    "fixed": "5.71%"
   },
   {
     "code": "Laxmi Sunrise",
@@ -87,25 +87,25 @@
     "code": "Global IME",
     "bank": "Global IME Bank",
     "saving": "3.50%",
-    "fixed": "6.25%"
+    "fixed": "5.75%"
   },
   {
     "code": "Citizens Bank",
     "bank": "Citizens Bank Int'l",
     "saving": "5.005%",
-    "fixed": "5.75%"
+    "fixed": "5.65%"
   },
   {
     "code": "Prime Bank",
     "bank": "Prime Commercial Bank",
     "saving": "4.95%",
-    "fixed": "6.00%"
+    "fixed": "5.75%"
   },
   {
     "code": "NMB Bank",
     "bank": "NMB Bank",
-    "saving": "4.52%",
-    "fixed": "6.50%"
+    "saving": "4.50%",
+    "fixed": "5.57%"
   },
   {
     "code": "Prabhu Bank",
@@ -201,7 +201,7 @@
     "code": "Kamana Sewa",
     "bank": "Kamana Sewa B.Bank",
     "saving": "6.00%",
-    "fixed": "7.00%"
+    "fixed": "6.75%"
   },
   {
     "code": "Gurkhas Finan",
