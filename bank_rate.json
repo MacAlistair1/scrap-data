@@ -2,7 +2,7 @@
   {
     "code": "Nepal Bank",
     "bank": "Nepal Bank Ltd.",
-    "saving": "4.25%",
+    "saving": "5.01%",
     "fixed": "5.95%"
   },
   {
@@ -15,7 +15,7 @@
     "code": "Nabil Bank",
     "bank": "Nabil Bank",
     "saving": "5.00%",
-    "fixed": "6.25%"
+    "fixed": "5.75%"
   },
   {
     "code": "NIMB",
@@ -26,8 +26,8 @@
   {
     "code": "SCB",
     "bank": "Standard Chartered Bank",
-    "saving": "3.70%",
-    "fixed": "6.50%"
+    "saving": "4.05%",
+    "fixed": "6.25%"
   },
   {
     "code": "Himalayan",
@@ -56,7 +56,7 @@
   {
     "code": "Machhapuchhre",
     "bank": "Machhapuchhre Bank",
-    "saving": "4.50%",
+    "saving": "5.00%",
     "fixed": "6.00%"
   },
   {
@@ -68,20 +68,20 @@
   {
     "code": "Laxmi Sunrise",
     "bank": "Laxmi Sunrise",
-    "saving": "4.50%",
-    "fixed": "6.00%"
+    "saving": "5.00%",
+    "fixed": "5.75%"
   },
   {
     "code": "Siddhartha",
     "bank": "Siddhartha Bank",
-    "saving": "4.25%",
+    "saving": "4.50%",
     "fixed": "6.00%"
   },
   {
     "code": "Krishi Bikas",
     "bank": "Agriculture Dev. Bank",
-    "saving": "4.26%",
-    "fixed": "5.756%"
+    "saving": "4.76%",
+    "fixed": "5.536%"
   },
   {
     "code": "Global IME",
@@ -132,21 +132,15 @@
     "fixed": "7.50%"
   },
   {
-    "code": "Excel Bikas",
-    "bank": "Excel Bikas Bank",
-    "saving": "4.00%",
-    "fixed": "6.60%"
-  },
-  {
     "code": "Miteri Bikas",
     "bank": "Miteri Bikas Bank",
     "saving": "5.00%",
-    "fixed": "7.00%"
+    "fixed": "6.50%"
   },
   {
     "code": "Muktinath",
     "bank": "Muktinath Bikas Bank",
-    "saving": "5.05%",
+    "saving": "5.02%",
     "fixed": "6.50%"
   },
   {
@@ -156,16 +150,10 @@
     "fixed": "7.11%"
   },
   {
-    "code": "Green Develop.",
-    "bank": "Green Dev. Bank",
-    "saving": "5.25%",
-    "fixed": "7.15%"
-  },
-  {
     "code": "Shangrila Dev.",
     "bank": "Shangrila Bikas Bank",
     "saving": "3.50%",
-    "fixed": "6.75%"
+    "fixed": "6.50%"
   },
   {
     "code": "Shine Resunga",
@@ -204,12 +192,6 @@
     "fixed": "6.75%"
   },
   {
-    "code": "Gurkhas Finan",
-    "bank": "Gurkhas Finance Ltd",
-    "saving": "5.50%",
-    "fixed": "7.35%"
-  },
-  {
     "code": "Goodwill Finan.",
     "bank": "Goodwill Finance Co.",
     "saving": "--",
@@ -219,25 +201,25 @@
     "code": "Shree Invest",
     "bank": "Shree Invest &Finance",
     "saving": "6.00%",
-    "fixed": "7.05%"
+    "fixed": "7.00%"
   },
   {
     "code": "Nepal Finance",
     "bank": "Nepal Finance Co.",
     "saving": "--",
-    "fixed": "8.25%"
+    "fixed": "8.00%"
   },
   {
     "code": "Best Finance",
     "bank": "Best Finance Co.",
-    "saving": "6.00%",
-    "fixed": "7.95%"
+    "saving": "5.50%",
+    "fixed": "7.25%"
   },
   {
     "code": "Progressive",
     "bank": "Progressive Fin. Co.",
     "saving": "6.35%",
-    "fixed": "7.75%"
+    "fixed": "7.25%"
   },
   {
     "code": "Janaki Finan.",
@@ -248,19 +230,19 @@
   {
     "code": "Pokhara Finan.",
     "bank": "Pokhara Finance",
-    "saving": "4.75%",
-    "fixed": "7.35%"
+    "saving": "4.55%",
+    "fixed": "7.25%"
   },
   {
     "code": "Central Fin",
     "bank": "Central Finance Ltd",
     "saving": "0.00%",
-    "fixed": "7.50%"
+    "fixed": "7.25%"
   },
   {
     "code": "Multipurpose",
     "bank": "Multipurpose Finance",
-    "saving": "6.00%",
+    "saving": "5.75%",
     "fixed": "8.25%"
   },
   {
@@ -290,13 +272,7 @@
   {
     "code": "Reliance Fin.",
     "bank": "Reliance Finance Ltd.",
-    "saving": "6.00%",
-    "fixed": "8.00%"
-  },
-  {
-    "code": "Salapa Bikas",
-    "bank": "Salapa Bikas Bank",
-    "saving": "4.00%",
-    "fixed": "8.00%"
+    "saving": "5.75%",
+    "fixed": "7.75%"
   }
 ]
