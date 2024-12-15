@@ -2,8 +2,8 @@
   {
     "code": "Nepal Bank",
     "bank": "Nepal Bank Ltd.",
-    "saving": "5.01%",
-    "fixed": "5.95%"
+    "saving": "5.00%",
+    "fixed": "5.60%"
   },
   {
     "code": "RBB",
@@ -32,7 +32,7 @@
   {
     "code": "Himalayan",
     "bank": "Himalayan Bank",
-    "saving": "4.55%",
+    "saving": "4.75%",
     "fixed": "6.25%"
   },
   {
@@ -51,7 +51,7 @@
     "code": "NIC Asia",
     "bank": "NIC ASIA Bank",
     "saving": "5.10%",
-    "fixed": "6.79%"
+    "fixed": "6.60%"
   },
   {
     "code": "Machhapuchhre",
@@ -74,7 +74,7 @@
   {
     "code": "Siddhartha",
     "bank": "Siddhartha Bank",
-    "saving": "4.50%",
+    "saving": "4.55%",
     "fixed": "6.00%"
   },
   {
@@ -126,6 +126,12 @@
     "fixed": "7.25%"
   },
   {
+    "code": "Karnali Bikas",
+    "bank": "Karnali Bikas Bank",
+    "saving": "4.50%",
+    "fixed": "7.50%"
+  },
+  {
     "code": "Excel Bikas",
     "bank": "Excel Bikas Bank",
     "saving": "4.00%",
@@ -140,7 +146,7 @@
   {
     "code": "Muktinath",
     "bank": "Muktinath Bikas Bank",
-    "saving": "5.02%",
+    "saving": "5.00%",
     "fixed": "6.50%"
   },
   {
@@ -182,7 +188,7 @@
   {
     "code": "Mahalaxmi",
     "bank": "Mahalaxmi Bikas Bank",
-    "saving": "5.05%",
+    "saving": "4.85%",
     "fixed": "6.50%"
   },
   {
@@ -230,8 +236,8 @@
   {
     "code": "Progressive",
     "bank": "Progressive Fin. Co.",
-    "saving": "5.85%",
-    "fixed": "7.25%"
+    "saving": "5.35%",
+    "fixed": "6.75%"
   },
   {
     "code": "Janaki Finan.",
@@ -261,7 +267,7 @@
     "code": "Samriddhi Fin",
     "bank": "Samriddhi Finance Co.",
     "saving": "5.20%",
-    "fixed": "8.15%"
+    "fixed": "7.50%"
   },
   {
     "code": "Guheshwori",
