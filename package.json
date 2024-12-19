@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "googleapis": "^144.0.0"
+    "googleapis": "^144.0.0",
+    "punycode": "^2.3.1"
   }
 }
