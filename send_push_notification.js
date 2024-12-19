@@ -34,11 +34,20 @@ function sendPushNotification() {
 
     const request = https.request(options, function (resp) {
       resp.setEncoding("utf8");
-      resp.on("data", function (data) {
-        const logMessage = `Push notification sent successfully for ${
-          data["name"]
-        }: ${JSON.stringify(data)}`;
-        fs.appendFileSync("notification.log", logMessage + "\n");
+
+      resp.on("data", function (chunk) {
+        try {
+          const responseData = JSON.parse(chunk);
+          const logMessage = `Push notification sent successfully: ${JSON.stringify(
+            responseData
+          )}`;
+          fs.appendFileSync("notification.log", logMessage + "\n");
+        } catch (e) {
+          fs.appendFileSync(
+            "notification.log",
+            `Response parsing error: ${e.message}\n`
+          );
+        }
       });
     });
 
