@@ -1,10 +1,19 @@
 const admin = require("firebase-admin");
 const fs = require("fs");
+const https = require('https');
 
-const serviceAccount = require("/Users/nepalivlog/Documents/nepali-pulse-3586c217f2cd.json"); // Path to your service account JSON file
+const serviceAccount = require("/Users/nepalivlog/Documents/nepali-pulse-3586c217f2cd.json"); 
+
+const PROJECT_ID = '<YOUR-PROJECT-ID>';
+const HOST = 'fcm.googleapis.com';
+const PATH = '/v1/projects/' + PROJECT_ID + '/messages:send';
+const MESSAGING_SCOPE = 'https://www.googleapis.com/auth/firebase.messaging';
+const SCOPES = [MESSAGING_SCOPE];
+
+
 
 admin.initializeApp({
-  credential: admin.credential.cert(serviceAccount),
+  credential: admin.credential.applicationDefault(),
 });
 
 // Get command-line arguments passed to the script
@@ -19,6 +28,19 @@ args.forEach((arg) => {
 
 // Function to send push notification
 function sendPushNotification() {
+
+  getAccessToken().then(function(accessToken) {
+    const options = {
+      hostname: HOST,
+      path: PATH,
+      method: 'POST',
+      headers: {
+        'Authorization': 'Bearer ' + accessToken
+      }
+    };
+
+
+
   // Prepare the notification payload
   const payload = {
     notification: {
@@ -51,6 +73,26 @@ function sendPushNotification() {
       // Write the error message to a file
       fs.appendFileSync("notification.log", errorMessage + "\n");
     });
+}
+
+function getAccessToken() {
+  return new Promise(function (resolve, reject) {
+    const key = serviceAccount;
+    const jwtClient = new google.auth.JWT(
+      key.client_email,
+      null,
+      key.private_key,
+      SCOPES,
+      null
+    );
+    jwtClient.authorize(function (err, tokens) {
+      if (err) {
+        reject(err);
+        return;
+      }
+      resolve(tokens.access_token);
+    });
+  });
 }
 
 sendPushNotification();

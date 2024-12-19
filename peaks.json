@@ -1,0 +1,3278 @@
+[
+  {
+    "id": "SGRM",
+    "peak": "Sagarmatha",
+    "elevation": "8848.86",
+    "range": "Khumbu",
+    "status": "Opened"
+  },
+  {
+    "id": "KANM",
+    "peak": "Kanchenjunga Main",
+    "elevation": "8586",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "LHOT",
+    "peak": "Lho Tse",
+    "elevation": "8516",
+    "range": "Khumbu",
+    "status": "Opened"
+  },
+  {
+    "id": "YALU",
+    "peak": "Yalung Khang",
+    "elevation": "8505",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "KANC",
+    "peak": "Kanchenjunga Central",
+    "elevation": "8476",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "KANS",
+    "peak": "Kanchenjunga South",
+    "elevation": "8476",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "MAK1",
+    "peak": "Makalu I",
+    "elevation": "8463",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "LHOM",
+    "peak": "Lho Tse Middle",
+    "elevation": "8413",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "LHOS",
+    "peak": "Lho Tse Shar",
+    "elevation": "8400",
+    "range": "Khumbu",
+    "status": "Opened"
+  },
+  {
+    "id": "CHOY",
+    "peak": "Cho Oyu",
+    "elevation": "8201",
+    "range": "Khumbu",
+    "status": "Opened"
+  },
+  {
+    "id": "DHA1",
+    "peak": "Dhaulagiri I",
+    "elevation": "8167",
+    "range": "Dhaulagiri",
+    "status": "Opened"
+  },
+  {
+    "id": "MANA",
+    "peak": "Manaslu",
+    "elevation": "8163",
+    "range": "Mansiri",
+    "status": "Opened"
+  },
+  {
+    "id": "ANN1",
+    "peak": "Annapurna I",
+    "elevation": "8091",
+    "range": "Annapurna",
+    "status": "Opened"
+  },
+  {
+    "id": "YALW",
+    "peak": "Yalung Khang West",
+    "elevation": "8077",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "GYAC",
+    "peak": "Gyachung Khang",
+    "elevation": "7952",
+    "range": "Khumbu",
+    "status": "Opened"
+  },
+  {
+    "id": "KANN",
+    "peak": "Kanchenjunga North",
+    "elevation": "7938",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "ANN2",
+    "peak": "Annapurna II",
+    "elevation": "7937",
+    "range": "Annapurna",
+    "status": "Opened"
+  },
+  {
+    "id": "TENZ",
+    "peak": "Tenzing Peak",
+    "elevation": "7916",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "KANB",
+    "peak": "Khangbachen",
+    "elevation": "7903",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "HIME",
+    "peak": "Himal Chuli East",
+    "elevation": "7893",
+    "range": "Mansiri",
+    "status": "Opened"
+  },
+  {
+    "id": "HARK",
+    "peak": "Dr. Harka Gurung Chuli",
+    "elevation": "7871",
+    "range": "Mansiri",
+    "status": "Opened"
+  },
+  {
+    "id": "NUPT",
+    "peak": "Nup Tse",
+    "elevation": "7855",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "MKSE",
+    "peak": "Makalu South East",
+    "elevation": "7803",
+    "range": "Mahalangur",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "KBNE",
+    "peak": "Khambachen East",
+    "elevation": "7784",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "DHA2",
+    "peak": "Dhaulagiri II",
+    "elevation": "7751",
+    "range": "Dhaulagiri",
+    "status": "Opened"
+  },
+  {
+    "id": "NGOK",
+    "peak": "Ngojumba Khang",
+    "elevation": "7743",
+    "range": "Khumbu",
+    "status": "Opened"
+  },
+  {
+    "id": "DHA3",
+    "peak": "Dhaulagiri III",
+    "elevation": "7715",
+    "range": "Dhaulagiri",
+    "status": "Opened"
+  },
+  {
+    "id": "KUMB",
+    "peak": "Kumbhakarna",
+    "elevation": "7710",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "HILL",
+    "peak": "Hillary Peak",
+    "elevation": "7681",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "MAK2",
+    "peak": "Makalu II (Kangchug Tse)",
+    "elevation": "7678",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "DHA4",
+    "peak": "Dhaulagiri IV",
+    "elevation": "7661",
+    "range": "Dhaulagiri",
+    "status": "Opened"
+  },
+  {
+    "id": "VARA",
+    "peak": "Varaha Shikhar (Fang)",
+    "elevation": "7647",
+    "range": "Annapurna",
+    "status": "Opened"
+  },
+  {
+    "id": "DHA5",
+    "peak": "Dhaulagiri  V",
+    "elevation": "7618",
+    "range": "Dhaulagiri",
+    "status": "Opened"
+  },
+  {
+    "id": "SHAN",
+    "peak": "Shanti Shikhar",
+    "elevation": "7591",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "KGSW",
+    "peak": "Khangsar Khang West",
+    "elevation": "7555",
+    "range": "Annapurna",
+    "status": "Opened"
+  },
+  {
+    "id": "ANN3",
+    "peak": "Annapurna III",
+    "elevation": "7555",
+    "range": "Annapurna",
+    "status": "Opened"
+  },
+  {
+    "id": "HIMW",
+    "peak": "Himal Chuli West",
+    "elevation": "7540",
+    "range": "Mansiri",
+    "status": "Opened"
+  },
+  {
+    "id": "ANN4",
+    "peak": "Annapurna IV",
+    "elevation": "7525",
+    "range": "Annapurna",
+    "status": "Opened"
+  },
+  {
+    "id": "KGSR",
+    "peak": "Khangsar Khang",
+    "elevation": "7485",
+    "range": "Annapurna",
+    "status": "Opened"
+  },
+  {
+    "id": "JONG",
+    "peak": "Jongsang Peak",
+    "elevation": "7483",
+    "range": "Janak",
+    "status": "Opened"
+  },
+  {
+    "id": "SHA2",
+    "peak": "Shartse II",
+    "elevation": "7457",
+    "range": "Khumbu",
+    "status": "Opened"
+  },
+  {
+    "id": "GANM",
+    "peak": "Gangapurna",
+    "elevation": "7455",
+    "range": "Annapurna",
+    "status": "Opened"
+  },
+  {
+    "id": "GAN1",
+    "peak": "Ganesh I",
+    "elevation": "7429",
+    "range": "Ganesh",
+    "status": "Opened"
+  },
+  {
+    "id": "KABC",
+    "peak": "Kabru Central",
+    "elevation": "7412",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "CHRC",
+    "peak": "Churen",
+    "elevation": "7371",
+    "range": "Dhaulagiri",
+    "status": "Opened"
+  },
+  {
+    "id": "CHUR",
+    "peak": "Churen West",
+    "elevation": "7371",
+    "range": "Dhaulagiri",
+    "status": "Opened"
+  },
+  {
+    "id": "KIRA",
+    "peak": "Kirat Chuli",
+    "elevation": "7365",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "PSNG",
+    "peak": "Pasang Lhamu Chuli",
+    "elevation": "7351",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "GIMI",
+    "peak": "Gimigela Chuli",
+    "elevation": "7350",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "TLNG",
+    "peak": "Talung",
+    "elevation": "7349",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "NEMJ",
+    "peak": "Nemjung",
+    "elevation": "7339",
+    "range": "Peri",
+    "status": "Opened"
+  },
+  {
+    "id": "HIMN",
+    "peak": "Himal Chuli North",
+    "elevation": "7331",
+    "range": "Mansiri",
+    "status": "Opened"
+  },
+  {
+    "id": "CHAM",
+    "peak": "Chamlang",
+    "elevation": "7319",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "KABM",
+    "peak": "Kabru",
+    "elevation": "7318",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "NAG1",
+    "peak": "Nagpai Gosum I",
+    "elevation": "7312",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "NAG2",
+    "peak": "Nagpai Gosum II",
+    "elevation": "7296",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "DHA6",
+    "peak": "Dhaulagiri VI",
+    "elevation": "7268",
+    "range": "Dhaulagiri",
+    "status": "Opened"
+  },
+  {
+    "id": "DOMK",
+    "peak": "Dome Khang",
+    "elevation": "7264",
+    "range": "Kanchanjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "PUTH",
+    "peak": "Putha Hiun Chuli",
+    "elevation": "7246",
+    "range": "Dhaulagiri",
+    "status": "Opened"
+  },
+  {
+    "id": "KABN",
+    "peak": "Kabru North",
+    "elevation": "7235",
+    "range": "Kanchenjunga",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "LANG",
+    "peak": "Langtang Lirung",
+    "elevation": "7234",
+    "range": "Langtang",
+    "status": "Opened"
+  },
+  {
+    "id": "ANNS",
+    "peak": "Annapurna South",
+    "elevation": "7219",
+    "range": "Annapurna",
+    "status": "Opened"
+  },
+  {
+    "id": "LANR",
+    "peak": "Langtang Ri",
+    "elevation": "7205",
+    "range": "Langtang",
+    "status": "Opened"
+  },
+  {
+    "id": "TARK",
+    "peak": "Tarke Khang",
+    "elevation": "7193",
+    "range": "Annapurna",
+    "status": "Opened"
+  },
+  {
+    "id": "GURJ",
+    "peak": "Gurja Himal",
+    "elevation": "7193",
+    "range": "Dhaulagiri",
+    "status": "Opened"
+  },
+  {
+    "id": "CHMM",
+    "peak": "Chamar",
+    "elevation": "7187",
+    "range": "Shringi",
+    "status": "Opened"
+  },
+  {
+    "id": "NPPK",
+    "peak": "Nepal Peak",
+    "elevation": "7177",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "CHMN",
+    "peak": "Chamar North",
+    "elevation": "7165",
+    "range": "Shringi",
+    "status": "Opened"
+  },
+  {
+    "id": "PUMO",
+    "peak": "Pumo RI",
+    "elevation": "7161",
+    "range": "Khumbu",
+    "status": "Opened"
+  },
+  {
+    "id": "MANN",
+    "peak": "Manaslu North",
+    "elevation": "7157",
+    "range": "Mansiri",
+    "status": "Opened"
+  },
+  {
+    "id": "NPP2",
+    "peak": "Nepal Peak II",
+    "elevation": "7143",
+    "range": "Kanchenjunga",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "GANW",
+    "peak": "Gangapurna West",
+    "elevation": "7140",
+    "range": "Annapurna",
+    "status": "Opened"
+  },
+  {
+    "id": "GAUS",
+    "peak": "Gaurishankar",
+    "elevation": "7135",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "TILI",
+    "peak": "Tilicho Peak",
+    "elevation": "7134",
+    "range": "Annapurna",
+    "status": "Opened"
+  },
+  {
+    "id": "APIM",
+    "peak": "Api",
+    "elevation": "7132",
+    "range": "Byas-Rishi",
+    "status": "Opened"
+  },
+  {
+    "id": "BARU",
+    "peak": "Barun Tse",
+    "elevation": "7129",
+    "range": "Barun",
+    "status": "Opened"
+  },
+  {
+    "id": "RATN",
+    "peak": "Ratna Chuli",
+    "elevation": "7128",
+    "range": "Peri",
+    "status": "Opened"
+  },
+  {
+    "id": "HMLH",
+    "peak": "Himlung Himal",
+    "elevation": "7126",
+    "range": "Peri",
+    "status": "Opened"
+  },
+  {
+    "id": "PATH",
+    "peak": "Pathibhara Chuli",
+    "elevation": "7125",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "GAN2",
+    "peak": "Ganesh II",
+    "elevation": "7111",
+    "range": "Ganesh",
+    "status": "Opened"
+  },
+  {
+    "id": "NAM3",
+    "peak": "Nampa Chuli",
+    "elevation": "7110",
+    "range": "Gurans",
+    "status": "Opened"
+  },
+  {
+    "id": "GAN3",
+    "peak": "Ganesh III",
+    "elevation": "7110",
+    "range": "Ganesh",
+    "status": "Opened"
+  },
+  {
+    "id": "APIW",
+    "peak": "Api West",
+    "elevation": "7100",
+    "range": "Byas-Rishi",
+    "status": "Opened"
+  },
+  {
+    "id": "HIMG",
+    "peak": "Himlung",
+    "elevation": "7092",
+    "range": "Peri",
+    "status": "Opened"
+  },
+  {
+    "id": "JANK",
+    "peak": "Janak Chuli",
+    "elevation": "7090",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "SPH1",
+    "peak": "Sharphu I",
+    "elevation": "7070",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "NILN",
+    "peak": "Nilgiri North",
+    "elevation": "7061",
+    "range": "Nilgiri",
+    "status": "Opened"
+  },
+  {
+    "id": "THUL",
+    "peak": "Thulagi Peak",
+    "elevation": "7059",
+    "range": "Mansiri",
+    "status": "Opened"
+  },
+  {
+    "id": "GAN4",
+    "peak": "Ganesh IV",
+    "elevation": "7052",
+    "range": "Ganesh",
+    "status": "Opened"
+  },
+  {
+    "id": "GYAJ",
+    "peak": "Gyajikang",
+    "elevation": "7038",
+    "range": "Peri",
+    "status": "Opened"
+  },
+  {
+    "id": "SAIP",
+    "peak": "Saipal",
+    "elevation": "7031",
+    "range": "Gurans/Saipal",
+    "status": "Opened"
+  },
+  {
+    "id": "HNCH",
+    "peak": "Hunchhi",
+    "elevation": "7029",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "NGAP",
+    "peak": "Nepal Gyap Peak",
+    "elevation": "7007",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "GAN5",
+    "peak": "Ganesh V",
+    "elevation": "6986",
+    "range": "Ganesh",
+    "status": "Opened"
+  },
+  {
+    "id": "GAUR",
+    "peak": "Gauri",
+    "elevation": "6983",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "LAMJ",
+    "peak": "Lamjung Himal",
+    "elevation": "6983",
+    "range": "Annapurna",
+    "status": "Opened"
+  },
+  {
+    "id": "KAGU",
+    "peak": "Kang Garu",
+    "elevation": "6981",
+    "range": "Peri",
+    "status": "Opened"
+  },
+  {
+    "id": "LEOG",
+    "peak": "Leonpo Gang",
+    "elevation": "6979",
+    "range": "Jugal",
+    "status": "Opened"
+  },
+  {
+    "id": "DORJ",
+    "peak": "Dorje Lyakpa",
+    "elevation": "6966",
+    "range": "Jugal",
+    "status": "Opened"
+  },
+  {
+    "id": "LNPO",
+    "peak": "Langpo Peak",
+    "elevation": "6965",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "CHAB",
+    "peak": "Chabuk",
+    "elevation": "6960",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "ANID",
+    "peak": "Anidesh Chuli (White Wave)",
+    "elevation": "6960",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "NUMB",
+    "peak": "Numbur",
+    "elevation": "6957",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "BURK",
+    "peak": "Burke Khang",
+    "elevation": "6942",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "NILC",
+    "peak": "Nilgiri Central",
+    "elevation": "6940",
+    "range": "Nilgiri",
+    "status": "Opened"
+  },
+  {
+    "id": "TENR",
+    "peak": "Tengi Ragi Tau",
+    "elevation": "6938",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "CHOR",
+    "peak": "Chota Ri",
+    "elevation": "6934",
+    "range": "Khumbu Himal",
+    "status": "Opened"
+  },
+  {
+    "id": "HMLE",
+    "peak": "Himlung East",
+    "elevation": "6932",
+    "range": "Peri",
+    "status": "Opened"
+  },
+  {
+    "id": "LOS1",
+    "peak": "Loshar I",
+    "elevation": "6930",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "TUKU",
+    "peak": "Tukuche Peak",
+    "elevation": "6920",
+    "range": "Dhaulagiri",
+    "status": "Opened"
+  },
+  {
+    "id": "RON1",
+    "peak": "Rongshar Ri I",
+    "elevation": "6900",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "LUGU",
+    "peak": "Lugula",
+    "elevation": "6899",
+    "range": "Lugula",
+    "status": "Opened"
+  },
+  {
+    "id": "CHAG",
+    "peak": "Chago",
+    "elevation": "6893",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "GURK",
+    "peak": "Gurkarpo Ri",
+    "elevation": "6891",
+    "range": "Jugal",
+    "status": "Opened"
+  },
+  {
+    "id": "PANB",
+    "peak": "Panbari",
+    "elevation": "6887",
+    "range": "Peri",
+    "status": "Opened"
+  },
+  {
+    "id": "SPH3",
+    "peak": "Sharphu III",
+    "elevation": "6885",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "DROM",
+    "peak": "Drohmo",
+    "elevation": "6885",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "KJRM",
+    "peak": "Kanjiroba Main",
+    "elevation": "6883",
+    "range": "Kanjiroba",
+    "status": "Opened"
+  },
+  {
+    "id": "SAIE",
+    "peak": "Saipal East",
+    "elevation": "6882",
+    "range": "Saipal",
+    "status": "Opened"
+  },
+  {
+    "id": "PASE",
+    "peak": "Pathibhara South East",
+    "elevation": "6868",
+    "range": "Kanchenjunga",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "PEMK",
+    "peak": "Pem Thang Karpo Ri",
+    "elevation": "6865",
+    "range": "Langtang",
+    "status": "Opened"
+  },
+  {
+    "id": "YNGS",
+    "peak": "Yangra South",
+    "elevation": "6863",
+    "range": "Ganesh",
+    "status": "Opened"
+  },
+  {
+    "id": "NUPL",
+    "peak": "Nupla Khang",
+    "elevation": "6861",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "LOS2",
+    "peak": "Loshar II",
+    "elevation": "6860",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "KNTH",
+    "peak": "Kanti Himal",
+    "elevation": "6859",
+    "range": "Kanti Himal",
+    "status": "Opened"
+  },
+  {
+    "id": "CHUM",
+    "peak": "Chumbu",
+    "elevation": "6859",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "KJRN",
+    "peak": "Kanjiroba North",
+    "elevation": "6858",
+    "range": "kanjiroba",
+    "status": "Opened"
+  },
+  {
+    "id": "PANE",
+    "peak": "Pathibhara North East",
+    "elevation": "6857",
+    "range": "Kanchenjunga",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "PAND",
+    "peak": "Pandra",
+    "elevation": "6850",
+    "range": "Kanchanjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "JETH",
+    "peak": "Jethi Bahurani Chuli",
+    "elevation": "6850",
+    "range": "Gurans",
+    "status": "Opened"
+  },
+  {
+    "id": "AMP1",
+    "peak": "Amphu I",
+    "elevation": "6840",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "NILS",
+    "peak": "Nilgiri South",
+    "elevation": "6839",
+    "range": "Nilgiri",
+    "status": "Opened"
+  },
+  {
+    "id": "CHUN",
+    "peak": "Chumbu North",
+    "elevation": "6835",
+    "range": "Mahalangur",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "OHMI",
+    "peak": "Ohmi Khang",
+    "elevation": "6829",
+    "range": "Janak",
+    "status": "Opened"
+  },
+  {
+    "id": "PAES",
+    "peak": "Pathibhara East",
+    "elevation": "6825",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "CHEO",
+    "peak": "Cheo Himal",
+    "elevation": "6820",
+    "range": "Peri",
+    "status": "Opened"
+  },
+  {
+    "id": "AMAD",
+    "peak": "Ama Dablam",
+    "elevation": "6814",
+    "range": "Khumbu",
+    "status": "Opened"
+  },
+  {
+    "id": "KGRS",
+    "peak": "Khangri Shar",
+    "elevation": "6811",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "BOBA",
+    "peak": "Bobaye Chuli",
+    "elevation": "6808",
+    "range": "Byas-Rishi",
+    "status": "Opened"
+  },
+  {
+    "id": "BTAK",
+    "peak": "Bhairab Takura",
+    "elevation": "6799",
+    "range": "Jugal",
+    "status": "Opened"
+  },
+  {
+    "id": "KTEG",
+    "peak": "Khangtega",
+    "elevation": "6783",
+    "range": "Khumbu",
+    "status": "Opened"
+  },
+  {
+    "id": "GHAN",
+    "peak": "Ghanyala Hies",
+    "elevation": "6779",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "KGRW",
+    "peak": "Khangri West",
+    "elevation": "6773",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "TKRG",
+    "peak": "Thakar Go",
+    "elevation": "6771",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "KYAS",
+    "peak": "Kyashar",
+    "elevation": "6770",
+    "range": "Mahalangur-Makalu",
+    "status": "Opened"
+  },
+  {
+    "id": "PANN",
+    "peak": "Phu Khang Go (Panbari North)",
+    "elevation": "6767",
+    "range": "Peri",
+    "status": "Opened"
+  },
+  {
+    "id": "HNGU",
+    "peak": "Hongu",
+    "elevation": "6764",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "TUTS",
+    "peak": "Tu Tse ( Peak 6 )",
+    "elevation": "6758",
+    "range": "Mahalangur/Makalu",
+    "status": "Opened"
+  },
+  {
+    "id": "THNK",
+    "peak": "Thaknak Ri",
+    "elevation": "6757",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "NAMP",
+    "peak": "Nampa",
+    "elevation": "6755",
+    "range": "Gurans",
+    "status": "Opened"
+  },
+  {
+    "id": "CHAN",
+    "peak": "Chang Himal",
+    "elevation": "6750",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "FIRW",
+    "peak": "Firankof West",
+    "elevation": "6745",
+    "range": "Saipal",
+    "status": "Opened"
+  },
+  {
+    "id": "GURA",
+    "peak": "Guras",
+    "elevation": "6744",
+    "range": "Gurans",
+    "status": "Opened"
+  },
+  {
+    "id": "PETH",
+    "peak": "Pethangtse",
+    "elevation": "6739",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "KNAG",
+    "peak": "Khang Nachu Go",
+    "elevation": "6737",
+    "range": "Gaurishankar",
+    "status": "Opened"
+  },
+  {
+    "id": "PK04",
+    "peak": "Peak 4",
+    "elevation": "6736",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "JASG",
+    "peak": "Jasemba Go",
+    "elevation": "6734",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "LEOE",
+    "peak": "Leonpo Gang East",
+    "elevation": "6733",
+    "range": "Jugal",
+    "status": "Opened"
+  },
+  {
+    "id": "LCHC",
+    "peak": "Lachama Chuli",
+    "elevation": "6721",
+    "range": "Changla Himal",
+    "status": "Opened"
+  },
+  {
+    "id": "LIK1",
+    "peak": "Linkhu Chuli I",
+    "elevation": "6719",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "PANR",
+    "peak": "Pangbuk Ri",
+    "elevation": "6716",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "LING",
+    "peak": "Lingtren",
+    "elevation": "6714",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "CHOP",
+    "peak": "Cho Polu",
+    "elevation": "6711",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "THRK",
+    "peak": "Tharke Khang",
+    "elevation": "6710",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "DZA1",
+    "peak": "Dzanye I",
+    "elevation": "6710",
+    "range": "Kanchanjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "SALB",
+    "peak": "Salbachum",
+    "elevation": "6707",
+    "range": "Langtang",
+    "status": "Opened"
+  },
+  {
+    "id": "CHAK",
+    "peak": "Chako",
+    "elevation": "6704",
+    "range": "Peri Himal",
+    "status": "Opened"
+  },
+  {
+    "id": "NAM2",
+    "peak": "Nampa II",
+    "elevation": "6700",
+    "range": "Gurans",
+    "status": "Opened"
+  },
+  {
+    "id": "KMJG",
+    "peak": "Khumjung Himal",
+    "elevation": "6699",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "FIRE",
+    "peak": "Firankof East",
+    "elevation": "6697",
+    "range": "Saipal",
+    "status": "Opened"
+  },
+  {
+    "id": "PHUK",
+    "peak": "Phu Khang",
+    "elevation": "6694",
+    "range": "Peri Himal",
+    "status": "Opened"
+  },
+  {
+    "id": "PANT",
+    "peak": "Paniyotippa",
+    "elevation": "6687",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "HUGO",
+    "peak": "Hulang Go",
+    "elevation": "6687",
+    "range": "Peri",
+    "status": "Opened"
+  },
+  {
+    "id": "CHOB",
+    "peak": "Chobuje",
+    "elevation": "6685",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "SHNW",
+    "peak": "Sherson North West",
+    "elevation": "6682",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "RATH",
+    "peak": "Rathong",
+    "elevation": "6682",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "NUMR",
+    "peak": "Numri",
+    "elevation": "6677",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "AGLE",
+    "peak": "Agole East",
+    "elevation": "6675",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "BAUD",
+    "peak": "Baudha",
+    "elevation": "6672",
+    "range": "Mansiri",
+    "status": "Opened"
+  },
+  {
+    "id": "SOBI",
+    "peak": "Sobithongie",
+    "elevation": "6670",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "JOBO",
+    "peak": "Jobo Rinjang",
+    "elevation": "6666",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "ROLK",
+    "peak": "Rolwaling Khang",
+    "elevation": "6664",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "LIK2",
+    "peak": "Linkhu Chuli 2",
+    "elevation": "6659",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "PK41",
+    "peak": "Peak 41",
+    "elevation": "6649",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "KGKP",
+    "peak": "Khang Karpo",
+    "elevation": "6646",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "PHOL",
+    "peak": "Phole",
+    "elevation": "6645",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "YARW",
+    "peak": "Yarwa",
+    "elevation": "6644",
+    "range": "Gurans",
+    "status": "Opened"
+  },
+  {
+    "id": "KHUM",
+    "peak": "Khumbutse",
+    "elevation": "6639",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "DGAR",
+    "peak": "Dhaulagiri",
+    "elevation": "6633",
+    "range": "Saipal",
+    "status": "Opened"
+  },
+  {
+    "id": "PHUR",
+    "peak": "Phurbi Chyachu",
+    "elevation": "6631",
+    "range": "Jugal",
+    "status": "Opened"
+  },
+  {
+    "id": "LCHN",
+    "peak": "Lachama North",
+    "elevation": "6628",
+    "range": "Changla",
+    "status": "Opened"
+  },
+  {
+    "id": "KAND",
+    "peak": "Kande Hiun Chuli",
+    "elevation": "6627",
+    "range": "Patrasi",
+    "status": "Opened"
+  },
+  {
+    "id": "THAM",
+    "peak": "Thamserku",
+    "elevation": "6623",
+    "range": "Khumbu",
+    "status": "Opened"
+  },
+  {
+    "id": "CHGD",
+    "peak": "Changdi",
+    "elevation": "6623",
+    "range": "Palchung",
+    "status": "Opened"
+  },
+  {
+    "id": "PUTW",
+    "peak": "Putha West",
+    "elevation": "6620",
+    "range": "Dhaulagiri",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "PANG",
+    "peak": "Pangri Goldumba",
+    "elevation": "6620",
+    "range": "Langtang",
+    "status": "Opened"
+  },
+  {
+    "id": "PAN1",
+    "peak": "Pangpoche I",
+    "elevation": "6620",
+    "range": "Mansiri",
+    "status": "Opened"
+  },
+  {
+    "id": "LMOC",
+    "peak": "Langmoche Ri",
+    "elevation": "6617",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "KJER",
+    "peak": "Kanjerawa",
+    "elevation": "6612",
+    "range": "Kanjiroba",
+    "status": "Opened"
+  },
+  {
+    "id": "SITA",
+    "peak": "Sita Chuchura",
+    "elevation": "6611",
+    "range": "Dhaulagiri",
+    "status": "Opened"
+  },
+  {
+    "id": "THOC",
+    "peak": "Thoche Go",
+    "elevation": "6602",
+    "range": "Peri",
+    "status": "Opened"
+  },
+  {
+    "id": "RAMT",
+    "peak": "Ramtang",
+    "elevation": "6601",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "KYR1",
+    "peak": "Kyunga Ri I",
+    "elevation": "6599",
+    "range": "Langtang",
+    "status": "Opened"
+  },
+  {
+    "id": "PUTS",
+    "peak": "Putha Shoulder",
+    "elevation": "6598",
+    "range": "Dhaulagiri",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "RAKS",
+    "peak": "Raksha Urai",
+    "elevation": "6593",
+    "range": "Urai Lekh",
+    "status": "Opened"
+  },
+  {
+    "id": "FRND",
+    "peak": "Friendship Peak",
+    "elevation": "6592",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "CHUE",
+    "peak": "Chulu East *",
+    "elevation": "6584",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "KHAT",
+    "peak": "Khatang",
+    "elevation": "6582",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "JOMS",
+    "peak": "Jomsom Himal",
+    "elevation": "6581",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "CHKH",
+    "peak": "Changla Khang",
+    "elevation": "6581",
+    "range": "Changla",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "CHIB",
+    "peak": "Chhib Himal",
+    "elevation": "6581",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "PHUN",
+    "peak": "Phu Khang North",
+    "elevation": "6580",
+    "range": "Peri",
+    "status": "Opened"
+  },
+  {
+    "id": "NAMS",
+    "peak": "Nampa South",
+    "elevation": "6580",
+    "range": "Gurans",
+    "status": "Opened"
+  },
+  {
+    "id": "DHAG",
+    "peak": "Dhagpache",
+    "elevation": "6575",
+    "range": "Langtang",
+    "status": "Opened"
+  },
+  {
+    "id": "CHWE",
+    "peak": "Chaw East",
+    "elevation": "6574",
+    "range": "Janak",
+    "status": "Not open for expedition"
+  },
+  {
+    "id": "MALA",
+    "peak": "Malangphulang",
+    "elevation": "6573",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "PETE",
+    "peak": "Pethangtse East",
+    "elevation": "6572",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "GHEN",
+    "peak": "Ghenye Liru",
+    "elevation": "6571",
+    "range": "Langtang",
+    "status": "Opened"
+  },
+  {
+    "id": "KBON",
+    "peak": "Kambong",
+    "elevation": "6570",
+    "range": "Dhaulagiri",
+    "status": "Opened"
+  },
+  {
+    "id": "CHGL",
+    "peak": "Changla",
+    "elevation": "6563",
+    "range": "Changla",
+    "status": "Opened"
+  },
+  {
+    "id": "HONG",
+    "peak": "Hongde",
+    "elevation": "6556",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "TSOK",
+    "peak": "Tso Karpo Khang",
+    "elevation": "6556",
+    "range": "Kanjiroba",
+    "status": "Opened"
+  },
+  {
+    "id": "TRIP",
+    "peak": "Tripura Hiun Chuli",
+    "elevation": "6553",
+    "range": "Kanjiroba",
+    "status": "Opened"
+  },
+  {
+    "id": "NAN1",
+    "peak": "Nangamari I",
+    "elevation": "6537",
+    "range": "Kanchanjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "DOGA",
+    "peak": "Dogari Himal",
+    "elevation": "6536",
+    "range": "Dhaulagiri",
+    "status": "Opened"
+  },
+  {
+    "id": "YANG",
+    "peak": "Yangri",
+    "elevation": "6535",
+    "range": "Jugal",
+    "status": "Opened"
+  },
+  {
+    "id": "KARY",
+    "peak": "Karyolung",
+    "elevation": "6530",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "GHUN",
+    "peak": "Ghustung North",
+    "elevation": "6529",
+    "range": "Dhaulagiri",
+    "status": "Opened"
+  },
+  {
+    "id": "MARI",
+    "peak": "Mariyang",
+    "elevation": "6528",
+    "range": "Palchunghamga",
+    "status": "Opened"
+  },
+  {
+    "id": "LAMA",
+    "peak": "Mt Lama",
+    "elevation": "6527",
+    "range": "Gurans",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "ROKN",
+    "peak": "Rolwaling Khang North",
+    "elevation": "6526",
+    "range": "Rolwaling",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "PHGE",
+    "peak": "Phunge",
+    "elevation": "6524",
+    "range": "Mansiri",
+    "status": "Opened"
+  },
+  {
+    "id": "PHGI",
+    "peak": "Phungi",
+    "elevation": "6524",
+    "range": "Peri",
+    "status": "Opened"
+  },
+  {
+    "id": "SURM",
+    "peak": "Surma Sarovar North",
+    "elevation": "6523",
+    "range": "Surma Saravar Lekh",
+    "status": "Opened"
+  },
+  {
+    "id": "TSKP",
+    "peak": "Tso Karpo",
+    "elevation": "6518",
+    "range": "Kanjiroba",
+    "status": "Opened"
+  },
+  {
+    "id": "KNTE",
+    "peak": "Kanti East",
+    "elevation": "6516",
+    "range": "Kanti",
+    "status": "Opened"
+  },
+  {
+    "id": "KYR2",
+    "peak": "Kyunga Ri II",
+    "elevation": "6506",
+    "range": "Langtang",
+    "status": "Opened"
+  },
+  {
+    "id": "PAN2",
+    "peak": "Pangpoche II",
+    "elevation": "6504",
+    "range": "Mansiri",
+    "status": "Opened"
+  },
+  {
+    "id": "RON2",
+    "peak": "Rongshar Ri II",
+    "elevation": "6502",
+    "range": "Mahalangur",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "TAWO",
+    "peak": "Tawoche",
+    "elevation": "6501",
+    "range": "Khumbu",
+    "status": "Opened"
+  },
+  {
+    "id": "SING",
+    "peak": "Singu Chuli *",
+    "elevation": "6501",
+    "range": "Annapurna",
+    "status": "Opened"
+  },
+  {
+    "id": "TKPO",
+    "peak": "Tengkhangpoche",
+    "elevation": "6500",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "PURB",
+    "peak": "Purbung",
+    "elevation": "6500",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "PANN",
+    "peak": "Pangbuk North",
+    "elevation": "6496",
+    "range": "Rolwaling",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "KTUN",
+    "peak": "Khatung Khang",
+    "elevation": "6484",
+    "range": "Patrung Himal",
+    "status": "Opened"
+  },
+  {
+    "id": "YAKA",
+    "peak": "Yakawa Kang",
+    "elevation": "6482",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "GAN6",
+    "peak": "Ganesh VI",
+    "elevation": "6480",
+    "range": "Ganesh",
+    "status": "Opened"
+  },
+  {
+    "id": "BHRI",
+    "peak": "Bhrikuti",
+    "elevation": "6476",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "LNGK",
+    "peak": "Langchung Khang",
+    "elevation": "6475",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "JARK",
+    "peak": "Jarkya Peak",
+    "elevation": "6473",
+    "range": "Peri",
+    "status": "Opened"
+  },
+  {
+    "id": "MERA",
+    "peak": "Mera Peak *",
+    "elevation": "6470",
+    "range": "Khumbu",
+    "status": "Opened"
+  },
+  {
+    "id": "GHUS",
+    "peak": "Ghustung South",
+    "elevation": "6465",
+    "range": "Dhaulagiri",
+    "status": "Opened"
+  },
+  {
+    "id": "MAHA",
+    "peak": "Mahalangur Peak",
+    "elevation": "6464",
+    "range": "Mahalangur",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "YASE",
+    "peak": "Yanme Khang South East",
+    "elevation": "6462",
+    "range": "Janak",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "MARW",
+    "peak": "Mariyang West",
+    "elevation": "6455",
+    "range": "Palchunghamga",
+    "status": "Opened"
+  },
+  {
+    "id": "SPH2",
+    "peak": "Sharphu II",
+    "elevation": "6454",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "PATR",
+    "peak": "Patrasi",
+    "elevation": "6450",
+    "range": "Patrasi",
+    "status": "Opened"
+  },
+  {
+    "id": "MAYT",
+    "peak": "Mayung Thang Khang",
+    "elevation": "6449",
+    "range": "Kanti",
+    "status": "Opened"
+  },
+  {
+    "id": "KNCH",
+    "peak": "Kanchauni",
+    "elevation": "6444",
+    "range": "Kanjiroba",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "KOJC",
+    "peak": "Kojichwa Chuli",
+    "elevation": "6439",
+    "range": "Kanti Himal",
+    "status": "Opened"
+  },
+  {
+    "id": "HIUC",
+    "peak": "Hiun Chuli *",
+    "elevation": "6434",
+    "range": "Annapurna",
+    "status": "Opened"
+  },
+  {
+    "id": "SPH4",
+    "peak": "Sharphu IV",
+    "elevation": "6433",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "YAUP",
+    "peak": "Yaupa",
+    "elevation": "6432",
+    "range": "Mahalangur/Makalu",
+    "status": "Opened"
+  },
+  {
+    "id": "LNJU",
+    "peak": "Langju",
+    "elevation": "6426",
+    "range": "Puchen",
+    "status": "Opened"
+  },
+  {
+    "id": "CHOL",
+    "peak": "Chola Tse *",
+    "elevation": "6423",
+    "range": "Khumbu",
+    "status": "Opened"
+  },
+  {
+    "id": "SHER",
+    "peak": "Sherson",
+    "elevation": "6422",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "CHUW",
+    "peak": "Chulu West *",
+    "elevation": "6419",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "LARK",
+    "peak": "Larkya Peak *",
+    "elevation": "6416",
+    "range": "Manaslu",
+    "status": "Opened"
+  },
+  {
+    "id": "LSIS",
+    "peak": "Langshisha Ri *",
+    "elevation": "6412",
+    "range": "Jugal",
+    "status": "Opened"
+  },
+  {
+    "id": "LHAS",
+    "peak": "Lhashamma",
+    "elevation": "6412",
+    "range": "Kanjirowa",
+    "status": "Opened"
+  },
+  {
+    "id": "SWAK",
+    "peak": "Swaksa Khang",
+    "elevation": "6405",
+    "range": "Kanjiroba",
+    "status": "Opened"
+  },
+  {
+    "id": "CHAP",
+    "peak": "Chaw Peak",
+    "elevation": "6404",
+    "range": "Kanchanjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "YOKO",
+    "peak": "Yoko Pahad",
+    "elevation": "6401",
+    "range": "Gurans",
+    "status": "Opened"
+  },
+  {
+    "id": "BAMO",
+    "peak": "Bamongo",
+    "elevation": "6400",
+    "range": "Gaurishankar",
+    "status": "Opened"
+  },
+  {
+    "id": "TSAR",
+    "peak": "Tsar Tse",
+    "elevation": "6398",
+    "range": "Mukut Himal",
+    "status": "Opened"
+  },
+  {
+    "id": "LHAY",
+    "peak": "Lhayul Peak",
+    "elevation": "6397",
+    "range": "Api Himal",
+    "status": "Opened"
+  },
+  {
+    "id": "TAKP",
+    "peak": "Takphu Himal",
+    "elevation": "6395",
+    "range": "Nalakankar",
+    "status": "Opened"
+  },
+  {
+    "id": "AMOT",
+    "peak": "Amotsang",
+    "elevation": "6392",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "SALW",
+    "peak": "Saldim West",
+    "elevation": "6388",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "JYAC",
+    "peak": "Jyachhung",
+    "elevation": "6388",
+    "range": "Byas-Rishi",
+    "status": "Opened"
+  },
+  {
+    "id": "TASH",
+    "peak": "Tashi Khang",
+    "elevation": "6386",
+    "range": "Dhaulagiri",
+    "status": "Opened"
+  },
+  {
+    "id": "KASI",
+    "peak": "Kasi Dalpha",
+    "elevation": "6386",
+    "range": "Kanjiroba",
+    "status": "Opened"
+  },
+  {
+    "id": "MANP",
+    "peak": "Manapathi",
+    "elevation": "6380",
+    "range": "Dhaulagiri",
+    "status": "Opened"
+  },
+  {
+    "id": "GANC",
+    "peak": "Ganchenpo",
+    "elevation": "6378",
+    "range": "Jugal",
+    "status": "Opened"
+  },
+  {
+    "id": "SALD",
+    "peak": "Saldim",
+    "elevation": "6374",
+    "range": "Mahalangur/Makalu",
+    "status": "Opened"
+  },
+  {
+    "id": "TILK",
+    "peak": "Til Kang",
+    "elevation": "6369",
+    "range": "Nalakankar",
+    "status": "Opened"
+  },
+  {
+    "id": "CHH1",
+    "peak": "Chhuama Peak I",
+    "elevation": "6366",
+    "range": "Mustang Himal",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "BHRS",
+    "peak": "Bhrikuti Shail",
+    "elevation": "6364",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "GYLA",
+    "peak": "Gyala",
+    "elevation": "6363",
+    "range": "Gyala",
+    "status": "Opened"
+  },
+  {
+    "id": "KUSU",
+    "peak": "Kusum Kanguru *",
+    "elevation": "6360",
+    "range": "Khumbu",
+    "status": "Opened"
+  },
+  {
+    "id": "DANG",
+    "peak": "Danga",
+    "elevation": "6355",
+    "range": "Kanchanjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "KAKU",
+    "peak": "Kang Kuru",
+    "elevation": "6355",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "POKR",
+    "peak": "Pokhar Khang",
+    "elevation": "6348",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "SARI",
+    "peak": "Saribung",
+    "elevation": "6346",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "NANW",
+    "peak": "Nangamari North West",
+    "elevation": "6345",
+    "range": "Janak",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "PAMK",
+    "peak": "Pamalka",
+    "elevation": "6344",
+    "range": "Rolwaling",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "TAPL",
+    "peak": "Taple Shikhar",
+    "elevation": "6341",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "OMBG",
+    "peak": "Ombigaichan *",
+    "elevation": "6340",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "MERR",
+    "peak": "Merra",
+    "elevation": "6335",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "SAMD",
+    "peak": "Samdo Peak",
+    "elevation": "6335",
+    "range": "Mansiri",
+    "status": "Opened"
+  },
+  {
+    "id": "KYAB",
+    "peak": "Kyabura",
+    "elevation": "6332",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "OMIT",
+    "peak": "Omi Tso Go",
+    "elevation": "6332",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "DOLM",
+    "peak": "Dolma Khang",
+    "elevation": "6332",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "KAIM",
+    "peak": "Kaipuchonam Main",
+    "elevation": "6329",
+    "range": "Palchung",
+    "status": "Opened"
+  },
+  {
+    "id": "SPH5",
+    "peak": "Sharphu V",
+    "elevation": "6328",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "CHDE",
+    "peak": "Changdi East",
+    "elevation": "6328",
+    "range": "Kanti",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "LDNG",
+    "peak": "Langdung",
+    "elevation": "6326",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "CHH2",
+    "peak": "Chhuama Peak II",
+    "elevation": "6325",
+    "range": "Mustang Himal",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "DZA2",
+    "peak": "Dzanye II",
+    "elevation": "6322",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "DGRS",
+    "peak": "Dogari South",
+    "elevation": "6315",
+    "range": "Dhaulagiri",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "TNK1",
+    "peak": "Tankya I",
+    "elevation": "6305",
+    "range": "Palchung",
+    "status": "Opened"
+  },
+  {
+    "id": "PAMA",
+    "peak": "Pama Himal",
+    "elevation": "6300",
+    "range": "Peri",
+    "status": "Opened"
+  },
+  {
+    "id": "PERH",
+    "peak": "Peri Himal",
+    "elevation": "6296",
+    "range": "Peri",
+    "status": "Opened"
+  },
+  {
+    "id": "KTOK",
+    "peak": "Khang Tokal",
+    "elevation": "6294",
+    "range": "Kanjiroba",
+    "status": "Opened"
+  },
+  {
+    "id": "TNK2",
+    "peak": "Tankya II",
+    "elevation": "6291",
+    "range": "Palchunghamga",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "CHFW",
+    "peak": "Chaw Far West",
+    "elevation": "6290",
+    "range": "Janak",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "PARC",
+    "peak": "Pharchamo *",
+    "elevation": "6279",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "TAKL",
+    "peak": "Takla Khang",
+    "elevation": "6276",
+    "range": "Kanti",
+    "status": "Opened"
+  },
+  {
+    "id": "KOGN",
+    "peak": "Kogi Khang North",
+    "elevation": "6275",
+    "range": "Kanti",
+    "status": "Opened"
+  },
+  {
+    "id": "KNTC",
+    "peak": "Kanti Central",
+    "elevation": "6275",
+    "range": "Kanti",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "TSIS",
+    "peak": "MDM Peak(Tsisima)",
+    "elevation": "6270",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "NYAL",
+    "peak": "Nyalu",
+    "elevation": "6265",
+    "range": "Chandi",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "ASJM",
+    "peak": "Asajya Tuppa",
+    "elevation": "6265",
+    "range": "Gorakh",
+    "status": "Opened"
+  },
+  {
+    "id": "KOJS",
+    "peak": "Kojichwa South",
+    "elevation": "6264",
+    "range": "Kanti",
+    "status": "Opened"
+  },
+  {
+    "id": "PKAR",
+    "peak": "Pankar Himal",
+    "elevation": "6264",
+    "range": "Shringi",
+    "status": "Opened"
+  },
+  {
+    "id": "CHH3",
+    "peak": "Chhuama Peak III",
+    "elevation": "6262",
+    "range": "Mustang Himal",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "TNK3",
+    "peak": "Tankya III",
+    "elevation": "6261",
+    "range": "Palchunghamga",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "CPHH",
+    "peak": "Chhochenphu Himal",
+    "elevation": "6260",
+    "range": "Kanchanjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "CHUG",
+    "peak": "Chukyima Go",
+    "elevation": "6258",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "SENP",
+    "peak": "Senup",
+    "elevation": "6257",
+    "range": "Umbak",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "GNG1",
+    "peak": "Ganglung Gangri I",
+    "elevation": "6256",
+    "range": "Chandi",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "GORK",
+    "peak": "Gorakh Khang",
+    "elevation": "6254",
+    "range": "Gorakh Himal",
+    "status": "Opened"
+  },
+  {
+    "id": "TNK4",
+    "peak": "Tankya IV",
+    "elevation": "6254",
+    "range": "Palchunghamga",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "PBUK",
+    "peak": "Pabuk Khang",
+    "elevation": "6253",
+    "range": "Janak",
+    "status": "Opened"
+  },
+  {
+    "id": "MNSS",
+    "peak": "Mansail South",
+    "elevation": "6251",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "SIMN",
+    "peak": "Simnang Himal",
+    "elevation": "6251",
+    "range": "Manaslu",
+    "status": "Opened"
+  },
+  {
+    "id": "DINN",
+    "peak": "Dingjung North",
+    "elevation": "6249",
+    "range": "Gaurishankar",
+    "status": "Opened"
+  },
+  {
+    "id": "DINR",
+    "peak": "Dingjung Ri",
+    "elevation": "6249",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "GAND",
+    "peak": "Gandharva Chuli",
+    "elevation": "6248",
+    "range": "Annapurna",
+    "status": "Opened"
+  },
+  {
+    "id": "CHAW",
+    "peak": "Chaw West",
+    "elevation": "6246",
+    "range": "Janak",
+    "status": "Not open for expedition"
+  },
+  {
+    "id": "MNSL",
+    "peak": "Mansail",
+    "elevation": "6242",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "NAUL",
+    "peak": "Naulekh",
+    "elevation": "6240",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "YARA",
+    "peak": "Yara Chuli",
+    "elevation": "6236",
+    "range": "Palchung",
+    "status": "Opened"
+  },
+  {
+    "id": "SAUL",
+    "peak": "Saula",
+    "elevation": "6235",
+    "range": "Kutang",
+    "status": "Opened"
+  },
+  {
+    "id": "CHNW",
+    "peak": "Changla Khang North West",
+    "elevation": "6233",
+    "range": "Changla",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "RAUN",
+    "peak": "Raungsiyar",
+    "elevation": "6224",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "LDAK",
+    "peak": "Langdak",
+    "elevation": "6220",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "SATP",
+    "peak": "Sat Peak",
+    "elevation": "6220",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "CHMA",
+    "peak": "Chungen Changma",
+    "elevation": "6219",
+    "range": "Mustang Himal",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "KANW",
+    "peak": "Kaipuchonam North West",
+    "elevation": "6218",
+    "range": "Kanti",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "TENG",
+    "peak": "Tengkoma",
+    "elevation": "6215",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "EKRA",
+    "peak": "Ek Rate Danda",
+    "elevation": "6212",
+    "range": "Makalu",
+    "status": "Opened"
+  },
+  {
+    "id": "RHIM",
+    "peak": "Rhimbu",
+    "elevation": "6210",
+    "range": "Puchen",
+    "status": "Opened"
+  },
+  {
+    "id": "NAN2",
+    "peak": "Nangamari II",
+    "elevation": "6209",
+    "range": "Kanchanjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "SANC",
+    "peak": "Sanctuary Peak",
+    "elevation": "6207",
+    "range": "Kanjiroba",
+    "status": "Opened"
+  },
+  {
+    "id": "YANK",
+    "peak": "Yanme Khang",
+    "elevation": "6206",
+    "range": "Kanchanjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "MUSH",
+    "peak": "Mustang Himal",
+    "elevation": "6195",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "LASA",
+    "peak": "Lasa",
+    "elevation": "6189",
+    "range": "Byas-Rishi",
+    "status": "Opened"
+  },
+  {
+    "id": "KEK1",
+    "peak": "Kekyap Ri I",
+    "elevation": "6187",
+    "range": "Mustang Himal",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "MNSE",
+    "peak": "Mansail East",
+    "elevation": "6186",
+    "range": "Mustang Himal",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "KHAY",
+    "peak": "Khayang",
+    "elevation": "6186",
+    "range": "Mansiri",
+    "status": "Opened"
+  },
+  {
+    "id": "THMR",
+    "peak": "Thakmorpa Ri",
+    "elevation": "6185",
+    "range": "Langtang",
+    "status": "Opened"
+  },
+  {
+    "id": "POTA",
+    "peak": "Pota North",
+    "elevation": "6182",
+    "range": "Dhaulagiri",
+    "status": "Opened"
+  },
+  {
+    "id": "SWEL",
+    "peak": "Swelo Khang",
+    "elevation": "6180",
+    "range": "Mansiri",
+    "status": "Opened"
+  },
+  {
+    "id": "CHH4",
+    "peak": "Chhuama Peak IV",
+    "elevation": "6179",
+    "range": "Mustang Himal",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "PASH",
+    "peak": "Pashuwo",
+    "elevation": "6177",
+    "range": "Tsum",
+    "status": "Opened"
+  },
+  {
+    "id": "PERI",
+    "peak": "Peri",
+    "elevation": "6174",
+    "range": "Langtang",
+    "status": "Opened"
+  },
+  {
+    "id": "DWIJ",
+    "peak": "Dwijen Himal",
+    "elevation": "6169",
+    "range": "Shringi",
+    "status": "Opened"
+  },
+  {
+    "id": "JBRM",
+    "peak": "Jabou Ri",
+    "elevation": "6166",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "IMJA",
+    "peak": "Imja Tse  *",
+    "elevation": "6165",
+    "range": "Khumbu",
+    "status": "Opened"
+  },
+  {
+    "id": "PAL1",
+    "peak": "Palchung I",
+    "elevation": "6159",
+    "range": "Palchunghamga",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "NREK",
+    "peak": "Nirekha *",
+    "elevation": "6159",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "TKRE",
+    "peak": "Thakar Go East",
+    "elevation": "6152",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "GYLZ",
+    "peak": "Gyalzen Peak",
+    "elevation": "6151",
+    "range": "Jugal",
+    "status": "Opened"
+  },
+  {
+    "id": "KYAZ",
+    "peak": "Kyazo Ri *",
+    "elevation": "6151",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "URKM",
+    "peak": "Urkenmang",
+    "elevation": "6150",
+    "range": "Jugal",
+    "status": "Opened"
+  },
+  {
+    "id": "BHEM",
+    "peak": "Bhemdang Ri",
+    "elevation": "6150",
+    "range": "Langtang",
+    "status": "Opened"
+  },
+  {
+    "id": "KOKT",
+    "peak": "Kokthang",
+    "elevation": "6148",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "TAKN",
+    "peak": "Takphu North",
+    "elevation": "6142",
+    "range": "Nalakankar",
+    "status": "Opened"
+  },
+  {
+    "id": "YASA",
+    "peak": "Yasa Thak",
+    "elevation": "6141",
+    "range": "Rolwaling",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "CPHN",
+    "peak": "Chhochenphu North",
+    "elevation": "6139",
+    "range": "Umbak",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "SHEY",
+    "peak": "Shey Shikhar",
+    "elevation": "6139",
+    "range": "Kanjiroba",
+    "status": "Opened"
+  },
+  {
+    "id": "LOBW",
+    "peak": "Lobuje West *",
+    "elevation": "6135",
+    "range": "Khumbu",
+    "status": "Opened"
+  },
+  {
+    "id": "MUS2",
+    "peak": "Mustang Himal II",
+    "elevation": "6130",
+    "range": "Mustang Himal",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "PURK",
+    "peak": "Purkung",
+    "elevation": "6126",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "CHWT",
+    "peak": "Changwathang",
+    "elevation": "6125",
+    "range": "Chandi ",
+    "status": "Opened"
+  },
+  {
+    "id": "BEDG",
+    "peak": "Bedding Go",
+    "elevation": "6125",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "CHEK",
+    "peak": "Cheki Go *",
+    "elevation": "6121",
+    "range": "Gaurishankar",
+    "status": "Opened"
+  },
+  {
+    "id": "HUNK",
+    "peak": "Hunku Chuli",
+    "elevation": "6119",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "BOKT",
+    "peak": "Bokta *",
+    "elevation": "6114",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "YOLU",
+    "peak": "Yolungma Khang",
+    "elevation": "6114",
+    "range": "Kanti",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "JBRN",
+    "peak": "Jabou Ri North",
+    "elevation": "6112",
+    "range": "Rolwaling",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "BIJO",
+    "peak": "Bijora Hiun Chuli",
+    "elevation": "6111",
+    "range": "Kanjiroba",
+    "status": "Opened"
+  },
+  {
+    "id": "JING",
+    "peak": "Jijang",
+    "elevation": "6111",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "GAUG",
+    "peak": "Gaugiri",
+    "elevation": "6110",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "CBAM",
+    "peak": "Chhopa Bamare",
+    "elevation": "6109",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "DANS",
+    "peak": "Danfe Shail",
+    "elevation": "6103",
+    "range": "Kanjirowa",
+    "status": "Opened"
+  },
+  {
+    "id": "BHUL",
+    "peak": "Bhulu Lhasa",
+    "elevation": "6102",
+    "range": "Kanjiroba",
+    "status": "Opened"
+  },
+  {
+    "id": "TOBS",
+    "peak": "Tobsar",
+    "elevation": "6100",
+    "range": "Shringi",
+    "status": "Opened"
+  },
+  {
+    "id": "LSAM",
+    "peak": "Lung Sampa",
+    "elevation": "6100",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "GHY1",
+    "peak": "Ghyun Himal I",
+    "elevation": "6099",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "CHND",
+    "peak": "Chandi Himal",
+    "elevation": "6096",
+    "range": "Chandi ",
+    "status": "Opened"
+  },
+  {
+    "id": "KOGK",
+    "peak": "Kogi Khang",
+    "elevation": "6095",
+    "range": "Kanti",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "KAIW",
+    "peak": "Kaipuchonam West",
+    "elevation": "6093",
+    "range": "Kanti",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "GORH",
+    "peak": "Gorakh Himal",
+    "elevation": "6092",
+    "range": "Gorakh",
+    "status": "Opened"
+  },
+  {
+    "id": "PISA",
+    "peak": "Pisang *",
+    "elevation": "6091",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "LOBE",
+    "peak": "Lobuje East *",
+    "elevation": "6090",
+    "range": "Khumbu",
+    "status": "Opened"
+  },
+  {
+    "id": "MUKT",
+    "peak": "Mukot Himal",
+    "elevation": "6087",
+    "range": "Dhaulagiri",
+    "status": "Opened"
+  },
+  {
+    "id": "KWAN",
+    "peak": "Kwangde *",
+    "elevation": "6086",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "SPH6",
+    "peak": "Sharphu VI",
+    "elevation": "6076",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "LNAK",
+    "peak": "Lhonak",
+    "elevation": "6070",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "MERS",
+    "peak": "Mera South",
+    "elevation": "6064",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "KESH",
+    "peak": "Kesang Khang / UAAA Peak",
+    "elevation": "6063",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "KGCH",
+    "peak": "Khangchung(UIAA Peak)",
+    "elevation": "6063",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "NALA",
+    "peak": "Nalakankar",
+    "elevation": "6062",
+    "range": "Nalakankar",
+    "status": "Opened"
+  },
+  {
+    "id": "JYLT",
+    "peak": "Jyanglatunpu Peak",
+    "elevation": "6062",
+    "range": "Mustang Himal",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "ROLM",
+    "peak": "Rolmi",
+    "elevation": "6056",
+    "range": "Puchen",
+    "status": "Opened"
+  },
+  {
+    "id": "ASJW",
+    "peak": "Asajya Tuppa West",
+    "elevation": "6055",
+    "range": "Gorakh",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "ACHN",
+    "peak": "Aichyn",
+    "elevation": "6055",
+    "range": "Chanwathan",
+    "status": "Opened"
+  },
+  {
+    "id": "PUCH",
+    "peak": "Punchen Himal",
+    "elevation": "6049",
+    "range": "Mansiri",
+    "status": "Opened"
+  },
+  {
+    "id": "YUBR",
+    "peak": "Yubra Himal *",
+    "elevation": "6048",
+    "range": "Langtang",
+    "status": "Opened"
+  },
+  {
+    "id": "DUDH",
+    "peak": "Dudh Kundali",
+    "elevation": "6045",
+    "range": "Kanjiroba",
+    "status": "Opened"
+  },
+  {
+    "id": "NUPC",
+    "peak": "Nupchu Peak",
+    "elevation": "6044",
+    "range": "Janak",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "ABIM",
+    "peak": "Abi *",
+    "elevation": "6043",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "LUNG",
+    "peak": "Lungchhung",
+    "elevation": "6043",
+    "range": "Palchung",
+    "status": "Opened"
+  },
+  {
+    "id": "ARNK",
+    "peak": "Araniko Chuli",
+    "elevation": "6039",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "ARDN",
+    "peak": "Ardang",
+    "elevation": "6034",
+    "range": "Chandi",
+    "status": "Opened"
+  },
+  {
+    "id": "MOJK",
+    "peak": "Mojka Peak",
+    "elevation": "6032",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "GHY2",
+    "peak": "Ghyun Himal II",
+    "elevation": "6029",
+    "range": "Mustang Himal",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "GHY3",
+    "peak": "Ghyun Himal III",
+    "elevation": "6027",
+    "range": "Mustang Himal",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "PAL2",
+    "peak": "Palchung II",
+    "elevation": "6025",
+    "range": "Palchunghamga",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "KHNG",
+    "peak": "Khung",
+    "elevation": "6024",
+    "range": "Palchung",
+    "status": "Opened"
+  },
+  {
+    "id": "DHEC",
+    "peak": "Dhechyan Khang",
+    "elevation": "6019",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "PHAR",
+    "peak": "Phari Lapcha *",
+    "elevation": "6017",
+    "range": "Mahalangur",
+    "status": "Opened"
+  },
+  {
+    "id": "KARK",
+    "peak": "Karko",
+    "elevation": "6015",
+    "range": "Gurans",
+    "status": "Opened"
+  },
+  {
+    "id": "THAP",
+    "peak": "Thapa Peak",
+    "elevation": "6012",
+    "range": "Dhaulagiri",
+    "status": "Opened"
+  },
+  {
+    "id": "KEK2",
+    "peak": "Kekyap Ri II",
+    "elevation": "6011",
+    "range": "Mustang Himal",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "GHOD",
+    "peak": "Ghodchadi",
+    "elevation": "6009",
+    "range": "Rolwaling",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "PAL3",
+    "peak": "Palchung III",
+    "elevation": "6009",
+    "range": "Palchunghamga",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "NORB",
+    "peak": "Norbu Kang",
+    "elevation": "6005",
+    "range": "Kanjirowa",
+    "status": "Opened"
+  },
+  {
+    "id": "TILJ",
+    "peak": "Tilje",
+    "elevation": "5984",
+    "range": "Peri",
+    "status": "Opened"
+  },
+  {
+    "id": "TINJ",
+    "peak": "Tinje Peak",
+    "elevation": "5984",
+    "range": "Gautam",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "THNE",
+    "peak": "Thakmorpa North East",
+    "elevation": "5966",
+    "range": "Langtang",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "KAPT",
+    "peak": "Kaptang",
+    "elevation": "5965",
+    "range": "Kanti Himal",
+    "status": "Opened"
+  },
+  {
+    "id": "KAGM",
+    "peak": "Kagmara",
+    "elevation": "5960",
+    "range": "Kanjiroba",
+    "status": "Opened"
+  },
+  {
+    "id": "SYKG",
+    "peak": "Suyao kang",
+    "elevation": "5960",
+    "range": "Kanchenjunga",
+    "status": "Opened"
+  },
+  {
+    "id": "LAPU",
+    "peak": "Lapuchun",
+    "elevation": "5960",
+    "range": "Tanje",
+    "status": "Opened"
+  },
+  {
+    "id": "NOBK",
+    "peak": "Nobuk",
+    "elevation": "5938",
+    "range": "Umbak",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "NHES",
+    "peak": "Nheserku",
+    "elevation": "5927",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "SAMJ",
+    "peak": "Samjang",
+    "elevation": "5924",
+    "range": "Dhaulagiri",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "KNGT",
+    "peak": "Kangfu Gaton Kanta Gaton",
+    "elevation": "5916",
+    "range": "Kanjirowa",
+    "status": "Opened"
+  },
+  {
+    "id": "PALD",
+    "peak": "Paldor Peak *",
+    "elevation": "5903",
+    "range": "Ganesh",
+    "status": "Opened"
+  },
+  {
+    "id": "RAMD",
+    "peak": "Ramdong Go*",
+    "elevation": "5900",
+    "range": "Rolwaling",
+    "status": "Opened"
+  },
+  {
+    "id": "CHBL",
+    "peak": "Chanabolo",
+    "elevation": "5897",
+    "range": "Gautam",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "YRSK",
+    "peak": "Yarsang Khang",
+    "elevation": "5897",
+    "range": "Damodar",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "JYAG",
+    "peak": "Jyangche",
+    "elevation": "5893",
+    "range": "Gautam",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "GHYM",
+    "peak": "Ghyambu Peak",
+    "elevation": "5870",
+    "range": "Gautam",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "NIMK",
+    "peak": "Nimku",
+    "elevation": "5864",
+    "range": "Dhaulagiri",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "GHJA",
+    "peak": "Ghanja La Chuli  *",
+    "elevation": "5863",
+    "range": "Langtang",
+    "status": "Opened"
+  },
+  {
+    "id": "BPSP",
+    "peak": "Baden Powell Scout Peak",
+    "elevation": "5857",
+    "range": "Jugal",
+    "status": "Opened"
+  },
+  {
+    "id": "SIS2",
+    "peak": "Sisne II",
+    "elevation": "5854",
+    "range": "Dhaulagiri",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "SISN",
+    "peak": "Sisne",
+    "elevation": "5849",
+    "range": "Sisne Himal",
+    "status": "Opened"
+  },
+  {
+    "id": "KHON",
+    "peak": "Khongma Tse  *",
+    "elevation": "5849",
+    "range": "Khumbu",
+    "status": "Opened"
+  },
+  {
+    "id": "LUNA",
+    "peak": "Lunadhar Khang",
+    "elevation": "5811",
+    "range": "Damodar",
+    "status": "Proposed to open"
+  },
+  {
+    "id": "THOR",
+    "peak": "Thorong Peak",
+    "elevation": "5751",
+    "range": "Annapurna",
+    "status": "Opened"
+  },
+  {
+    "id": "NPHU",
+    "peak": "Nar Phu",
+    "elevation": "5748",
+    "range": "Damodar",
+    "status": "Opened"
+  },
+  {
+    "id": "CHUK",
+    "peak": "Chhukung Chuli",
+    "elevation": "5550",
+    "range": "Khumbu",
+    "status": "Opened"
+  },
+  {
+    "id": "KAPC",
+    "peak": "Kap Chuli",
+    "elevation": "5467",
+    "range": "Saipal",
+    "status": "Opened"
+  }
+]
