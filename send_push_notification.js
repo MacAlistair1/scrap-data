@@ -1,5 +1,5 @@
 const https = require("https");
-const { google } = require("googleapis");
+const { google } = require("googleapis-common");
 const fs = require("fs");
 
 const serviceAccount = require("/Users/nepalivlog/Documents/nepali-pulse-3586c217f2cd.json");
