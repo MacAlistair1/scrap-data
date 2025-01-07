@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2081-09-23",
+    "time": "06:50",
+    "lat": "28.31",
+    "long": "87.37",
+    "magnitude": "7.0",
+    "epicenter": "Dinggye, China*"
+  },
+  {
+    "date": "2081-09-19",
+    "time": "08:29",
+    "lat": "28.54",
+    "long": "84.13",
+    "magnitude": "4.1",
+    "epicenter": "Manang"
+  },
+  {
+    "date": "2081-09-19",
+    "time": "08:03",
+    "lat": "29.57",
+    "long": "82.19",
+    "magnitude": "4.4",
+    "epicenter": "Mugu"
+  },
+  {
+    "date": "2081-09-18",
+    "time": "13:02",
+    "lat": "27.77",
+    "long": "85.57",
+    "magnitude": "4.8",
+    "epicenter": "Sindhupalchok"
+  },
+  {
+    "date": "2081-09-16",
+    "time": "07:54",
+    "lat": "29.45",
+    "long": "80.86",
+    "magnitude": "4.6",
+    "epicenter": "Baitadi"
+  },
+  {
+    "date": "2081-09-11",
+    "time": "06:33",
+    "lat": "29.07",
+    "long": "82.32",
+    "magnitude": "4.2",
+    "epicenter": "Jajarkot"
+  },
+  {
+    "date": "2081-09-09",
+    "time": "21:25",
+    "lat": "30.04",
+    "long": "80.85",
+    "magnitude": "4.0",
+    "epicenter": "Darchula"
+  },
+  {
+    "date": "2081-09-05",
+    "time": "04:14",
+    "lat": "29.37",
+    "long": "81.64",
+    "magnitude": "5.2",
+    "epicenter": "Bajura"
+  },
+  {
+    "date": "2081-09-04",
+    "time": "07:37",
+    "lat": "28.55",
+    "long": "84.15",
+    "magnitude": "4.7",
+    "epicenter": "Neshyang, Manang"
+  },
+  {
+    "date": "2081-09-03",
+    "time": "15:02",
+    "lat": "29.70",
+    "long": "81.30",
+    "magnitude": "4.1",
+    "epicenter": "Bajhang"
+  }
+]
