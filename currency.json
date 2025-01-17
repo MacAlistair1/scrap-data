@@ -5,174 +5,174 @@
     "unit": 1,
     "buy": 1.6,
     "sell": 1.6,
-    "date": "January 17, 2025"
+    "date": "January 18, 2025"
   },
   {
     "name": "U.S. Dollar",
     "code": "USD",
     "unit": 1,
-    "buy": 138.19,
-    "sell": 138.79,
-    "date": "January 17, 2025"
+    "buy": 138.28,
+    "sell": 138.88,
+    "date": "January 18, 2025"
   },
   {
     "name": "European Euro",
     "code": "EUR",
     "unit": 1,
-    "buy": 142.17,
-    "sell": 142.79,
-    "date": "January 17, 2025"
+    "buy": 142.53,
+    "sell": 143.15,
+    "date": "January 18, 2025"
   },
   {
     "name": "UK Pound Sterling",
     "code": "GBP",
     "unit": 1,
-    "buy": 168.67,
-    "sell": 169.41,
-    "date": "January 17, 2025"
+    "buy": 168.92,
+    "sell": 169.66,
+    "date": "January 18, 2025"
   },
   {
     "name": "Swiss Franc",
     "code": "CHF",
     "unit": 1,
-    "buy": 151.54,
-    "sell": 152.2,
-    "date": "January 17, 2025"
+    "buy": 151.69,
+    "sell": 152.35,
+    "date": "January 18, 2025"
   },
   {
     "name": "Australian Dollar",
     "code": "AUD",
     "unit": 1,
-    "buy": 85.83,
-    "sell": 86.2,
-    "date": "January 17, 2025"
+    "buy": 85.75,
+    "sell": 86.12,
+    "date": "January 18, 2025"
   },
   {
     "name": "Canadian Dollar",
     "code": "CAD",
     "unit": 1,
-    "buy": 96.13,
-    "sell": 96.55,
-    "date": "January 17, 2025"
+    "buy": 95.96,
+    "sell": 96.38,
+    "date": "January 18, 2025"
   },
   {
     "name": "Singapore Dollar",
     "code": "SGD",
     "unit": 1,
-    "buy": 101.07,
-    "sell": 101.51,
-    "date": "January 17, 2025"
+    "buy": 101.19,
+    "sell": 101.63,
+    "date": "January 18, 2025"
   },
   {
     "name": "Japanese Yen",
     "code": "JPY",
     "unit": 1,
-    "buy": 8.87,
-    "sell": 8.91,
-    "date": "January 17, 2025"
+    "buy": 8.88,
+    "sell": 8.92,
+    "date": "January 18, 2025"
   },
   {
     "name": "Chinese Yuan",
     "code": "CNY",
     "unit": 1,
-    "buy": 18.85,
-    "sell": 18.93,
-    "date": "January 17, 2025"
+    "buy": 18.87,
+    "sell": 18.95,
+    "date": "January 18, 2025"
   },
   {
     "name": "Saudi Arabian Riyal",
     "code": "SAR",
     "unit": 1,
-    "buy": 36.83,
-    "sell": 36.99,
-    "date": "January 17, 2025"
+    "buy": 36.86,
+    "sell": 37.01,
+    "date": "January 18, 2025"
   },
   {
     "name": "Qatari Riyal",
     "code": "QAR",
     "unit": 1,
-    "buy": 37.92,
-    "sell": 38.08,
-    "date": "January 17, 2025"
+    "buy": 37.93,
+    "sell": 38.09,
+    "date": "January 18, 2025"
   },
   {
     "name": "Thai Baht",
     "code": "THB",
     "unit": 1,
-    "buy": 4.0,
-    "sell": 4.01,
-    "date": "January 17, 2025"
+    "buy": 4.01,
+    "sell": 4.03,
+    "date": "January 18, 2025"
   },
   {
     "name": "UAE Dirham",
     "code": "AED",
     "unit": 1,
-    "buy": 37.62,
-    "sell": 37.79,
-    "date": "January 17, 2025"
+    "buy": 37.65,
+    "sell": 37.81,
+    "date": "January 18, 2025"
   },
   {
     "name": "Malaysian Ringgit",
     "code": "MYR",
     "unit": 1,
     "buy": 30.69,
-    "sell": 30.83,
-    "date": "January 17, 2025"
+    "sell": 30.82,
+    "date": "January 18, 2025"
   },
   {
     "name": "South Korean Won",
     "code": "KRW",
     "unit": 1,
-    "buy": 0.09480000000000001,
-    "sell": 0.09519999999999999,
-    "date": "January 17, 2025"
+    "buy": 0.0949,
+    "sell": 0.0953,
+    "date": "January 18, 2025"
   },
   {
     "name": "Swedish Kroner",
     "code": "SEK",
     "unit": 1,
-    "buy": 12.38,
-    "sell": 12.44,
-    "date": "January 17, 2025"
+    "buy": 12.4,
+    "sell": 12.45,
+    "date": "January 18, 2025"
   },
   {
     "name": "Danish Kroner",
     "code": "DKK",
     "unit": 1,
-    "buy": 19.05,
-    "sell": 19.14,
-    "date": "January 17, 2025"
+    "buy": 19.1,
+    "sell": 19.19,
+    "date": "January 18, 2025"
   },
   {
     "name": "Hong Kong Dollar",
     "code": "HKD",
     "unit": 1,
-    "buy": 17.74,
-    "sell": 17.82,
-    "date": "January 17, 2025"
+    "buy": 17.76,
+    "sell": 17.83,
+    "date": "January 18, 2025"
   },
   {
     "name": "Kuwaity Dinar",
     "code": "KWD",
     "unit": 1,
-    "buy": 447.8,
-    "sell": 449.74,
-    "date": "January 17, 2025"
+    "buy": 448.19,
+    "sell": 450.13,
+    "date": "January 18, 2025"
   },
   {
     "name": "Bahrain Dinar",
     "code": "BHD",
     "unit": 1,
-    "buy": 366.61,
-    "sell": 368.2,
-    "date": "January 17, 2025"
+    "buy": 366.84,
+    "sell": 368.44,
+    "date": "January 18, 2025"
   },
   {
     "name": "Omani Rial",
     "code": "OMR",
     "unit": 1,
-    "buy": 358.95,
-    "sell": 360.51,
-    "date": "January 17, 2025"
+    "buy": 359.19,
+    "sell": 360.75,
+    "date": "January 18, 2025"
   }
 ]
