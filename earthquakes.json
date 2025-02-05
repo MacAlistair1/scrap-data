@@ -1,19 +1,19 @@
 [
   {
+    "date": "2081-10-22",
+    "time": "17:20",
+    "lat": "28.98",
+    "long": "81.50",
+    "magnitude": "4.4",
+    "epicenter": "Dailekh*"
+  },
+  {
     "date": "2081-09-23",
     "time": "06:50",
     "lat": "28.31",
     "long": "87.37",
     "magnitude": "7.0",
-    "epicenter": "Dinggye, China*"
-  },
-  {
-    "date": "2081-09-19",
-    "time": "08:29",
-    "lat": "28.54",
-    "long": "84.13",
-    "magnitude": "4.1",
-    "epicenter": "Manang"
+    "epicenter": "Dinggye, China"
   },
   {
     "date": "2081-09-19",
@@ -22,6 +22,14 @@
     "long": "82.19",
     "magnitude": "4.4",
     "epicenter": "Mugu"
+  },
+  {
+    "date": "2081-09-19",
+    "time": "08:29",
+    "lat": "28.54",
+    "long": "84.13",
+    "magnitude": "4.1",
+    "epicenter": "Manang"
   },
   {
     "date": "2081-09-18",
@@ -70,13 +78,5 @@
     "long": "84.15",
     "magnitude": "4.7",
     "epicenter": "Neshyang, Manang"
-  },
-  {
-    "date": "2081-09-03",
-    "time": "15:02",
-    "lat": "29.70",
-    "long": "81.30",
-    "magnitude": "4.1",
-    "epicenter": "Bajhang"
   }
 ]
