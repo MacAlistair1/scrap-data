@@ -87,7 +87,7 @@
     "code": "Global IME",
     "bank": "Global IME Bank",
     "saving": "3.50%",
-    "fixed": "5.75%"
+    "fixed": "6.00%"
   },
   {
     "code": "Citizens Bank",
@@ -126,21 +126,9 @@
     "fixed": "7.25%"
   },
   {
-    "code": "Karnali Bikas",
-    "bank": "Karnali Bikas Bank",
-    "saving": "4.05%",
-    "fixed": "--"
-  },
-  {
-    "code": "Excel Bikas",
-    "bank": "Excel Bikas Bank",
-    "saving": "4.00%",
-    "fixed": "6.50%"
-  },
-  {
     "code": "Miteri Bikas",
     "bank": "Miteri Bikas Bank",
-    "saving": "4.75%",
+    "saving": "4.50%",
     "fixed": "6.50%"
   },
   {
@@ -168,12 +156,6 @@
     "fixed": "6.50%"
   },
   {
-    "code": "Shine Resunga",
-    "bank": "Shine Resunga BB",
-    "saving": "5.00%",
-    "fixed": "6.50%"
-  },
-  {
     "code": "Jyoti Bikas",
     "bank": "Jyoti Bikas Bank",
     "saving": "5.00%",
@@ -194,7 +176,7 @@
   {
     "code": "Lumbini Bikas",
     "bank": "Lumbini Bikas Bank",
-    "saving": "4.00%",
+    "saving": "5.00%",
     "fixed": "6.50%"
   },
   {
@@ -240,10 +222,16 @@
     "fixed": "6.75%"
   },
   {
+    "code": "Janaki Finan.",
+    "bank": "Janaki Finance Co.",
+    "saving": "6.30%",
+    "fixed": "7.80%"
+  },
+  {
     "code": "Pokhara Finan.",
     "bank": "Pokhara Finance",
-    "saving": "4.50%",
-    "fixed": "7.10%"
+    "saving": "4.75%",
+    "fixed": "7.50%"
   },
   {
     "code": "Central Fin",
@@ -261,7 +249,7 @@
     "code": "Samriddhi Fin",
     "bank": "Samriddhi Finance Co.",
     "saving": "4.60%",
-    "fixed": "7.70%"
+    "fixed": "7.85%"
   },
   {
     "code": "Guheshwori",
@@ -286,11 +274,5 @@
     "bank": "Reliance Finance Ltd.",
     "saving": "5.25%",
     "fixed": "7.75%"
-  },
-  {
-    "code": "Salapa Bikas",
-    "bank": "Salapa Bikas Bank",
-    "saving": "4.50%",
-    "fixed": "8.50%"
   }
 ]

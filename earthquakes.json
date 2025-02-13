@@ -1,11 +1,19 @@
 [
   {
+    "date": "2081-10-30",
+    "time": "15:38",
+    "lat": "29.35",
+    "long": "82.18",
+    "magnitude": "4.1",
+    "epicenter": "Jumla*"
+  },
+  {
     "date": "2081-10-22",
     "time": "17:20",
     "lat": "28.98",
     "long": "81.50",
     "magnitude": "4.4",
-    "epicenter": "Dailekh*"
+    "epicenter": "Dailekh"
   },
   {
     "date": "2081-09-23",
@@ -70,13 +78,5 @@
     "long": "81.64",
     "magnitude": "5.2",
     "epicenter": "Bajura"
-  },
-  {
-    "date": "2081-09-04",
-    "time": "07:37",
-    "lat": "28.55",
-    "long": "84.15",
-    "magnitude": "4.7",
-    "epicenter": "Neshyang, Manang"
   }
 ]
