@@ -79,7 +79,7 @@
   },
   {
     "code": "Krishi Bikas",
-    "bank": "Agriculture Dev. Bank",
+    "bank": "Agricultural Dev. Bank",
     "saving": "4.76%",
     "fixed": "5.51%"
   },
@@ -126,6 +126,12 @@
     "fixed": "7.25%"
   },
   {
+    "code": "Excel Bikas",
+    "bank": "Excel Bikas Bank",
+    "saving": "4.00%",
+    "fixed": "6.50%"
+  },
+  {
     "code": "Miteri Bikas",
     "bank": "Miteri Bikas Bank",
     "saving": "4.50%",
@@ -136,6 +142,12 @@
     "bank": "Muktinath Bikas Bank",
     "saving": "5.00%",
     "fixed": "6.50%"
+  },
+  {
+    "code": "Corporate Dev",
+    "bank": "Corporate Bikas Bank",
+    "saving": "5.40%",
+    "fixed": "7.50%"
   },
   {
     "code": "Sindhu Bikas",
@@ -153,6 +165,12 @@
     "code": "Shangrila Dev.",
     "bank": "Shangrila Bikas Bank",
     "saving": "3.50%",
+    "fixed": "6.50%"
+  },
+  {
+    "code": "Shine Resunga",
+    "bank": "Shine Resunga BB",
+    "saving": "5.00%",
     "fixed": "6.50%"
   },
   {
@@ -272,7 +290,13 @@
   {
     "code": "Reliance Fin.",
     "bank": "Reliance Finance Ltd.",
-    "saving": "5.25%",
+    "saving": "5.50%",
     "fixed": "7.75%"
+  },
+  {
+    "code": "Salapa Bikas",
+    "bank": "Salapa Bikas Bank",
+    "saving": "4.50%",
+    "fixed": "8.50%"
   }
 ]
