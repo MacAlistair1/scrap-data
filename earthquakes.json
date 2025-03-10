@@ -1,11 +1,35 @@
 [
   {
+    "date": "2081-11-24",
+    "time": "06:20",
+    "lat": "28.46",
+    "long": "83.22",
+    "magnitude": "4.1",
+    "epicenter": "Baglung*"
+  },
+  {
+    "date": "2081-11-24",
+    "time": "14:35",
+    "lat": "28.42",
+    "long": "87.63",
+    "magnitude": "5.9",
+    "epicenter": "Dinggye, China"
+  },
+  {
+    "date": "2081-11-23",
+    "time": "03:14",
+    "lat": "28.53",
+    "long": "83.33",
+    "magnitude": "4.0",
+    "epicenter": "Myagdi"
+  },
+  {
     "date": "2081-11-15",
     "time": "02:51",
     "lat": "27.98",
     "long": "85.88",
     "magnitude": "6.1",
-    "epicenter": "Sindhupalchowk*"
+    "epicenter": "Sindhupalchowk"
   },
   {
     "date": "2081-10-30",
@@ -54,29 +78,5 @@
     "long": "85.57",
     "magnitude": "4.8",
     "epicenter": "Sindhupalchok"
-  },
-  {
-    "date": "2081-09-16",
-    "time": "07:54",
-    "lat": "29.45",
-    "long": "80.86",
-    "magnitude": "4.6",
-    "epicenter": "Baitadi"
-  },
-  {
-    "date": "2081-09-11",
-    "time": "06:33",
-    "lat": "29.07",
-    "long": "82.32",
-    "magnitude": "4.2",
-    "epicenter": "Jajarkot"
-  },
-  {
-    "date": "2081-09-09",
-    "time": "21:25",
-    "lat": "30.04",
-    "long": "80.85",
-    "magnitude": "4.0",
-    "epicenter": "Darchula"
   }
 ]
