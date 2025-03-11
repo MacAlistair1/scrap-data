@@ -1,11 +1,19 @@
 [
   {
+    "date": "2081-11-26",
+    "time": "04:11",
+    "lat": "28.28",
+    "long": "84.13",
+    "magnitude": "4.3",
+    "epicenter": "Kaski*"
+  },
+  {
     "date": "2081-11-24",
     "time": "06:20",
     "lat": "28.46",
     "long": "83.22",
     "magnitude": "4.1",
-    "epicenter": "Baglung*"
+    "epicenter": "Baglung"
   },
   {
     "date": "2081-11-24",
@@ -70,13 +78,5 @@
     "long": "84.13",
     "magnitude": "4.1",
     "epicenter": "Manang"
-  },
-  {
-    "date": "2081-09-18",
-    "time": "13:02",
-    "lat": "27.77",
-    "long": "85.57",
-    "magnitude": "4.8",
-    "epicenter": "Sindhupalchok"
   }
 ]
