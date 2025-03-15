@@ -1,38 +1,38 @@
 [
   {
-    "name": "फागुपूर्णिमा",
-    "img": "https://nepalipulse.jeevenlamichhane.com.np/assets/NepaliPulse.png",
-    "date": "चैत ०१, २०८१ - 14  Mar, 2025",
-    "status": "आज "
-  },
-  {
-    "name": "पाई डे",
-    "img": "https://nepalipulse.jeevenlamichhane.com.np/assets/NepaliPulse.png",
-    "date": "चैत ०१, २०८१ - 14  Mar, 2025",
-    "status": "आज "
-  },
-  {
-    "name": "तराईमा होली",
-    "img": "https://nepalipulse.jeevenlamichhane.com.np/assets/NepaliPulse.png",
-    "date": "चैत ०१, २०८१ - 14  Mar, 2025",
-    "status": "आज "
-  },
-  {
     "name": "नेपाल अन्तर्राष्ट्रिय नाट्य महोत्सव २०२५ आरम्भ",
     "img": "https://api.nepalipatro.com.np/storage/banners/3cG6zcEsyLwBYeRb.png",
     "date": "चैत ०६, २०८१ - 19  Mar, 2025",
-    "status": "५ दिन बाँकी"
+    "status": "३ दिन बाँकी"
   },
   {
     "name": "विश्व मौसम दिवस",
     "img": "https://api.nepalipatro.com.np/storage/banners/jbOD2XaeYxkyij6C.png",
     "date": "चैत १०, २०८१ - 23  Mar, 2025",
-    "status": "९ दिन बाँकी"
+    "status": "७ दिन बाँकी"
   },
   {
     "name": "नेपाल अन्तर्राष्ट्रिय नाट्य महोत्सव २०२५ समाप्ति",
     "img": "https://api.nepalipatro.com.np/storage/banners/3cG6zcEsyLwBYeRb.png",
     "date": "चैत १२, २०८१ - 25  Mar, 2025",
-    "status": "११ दिन बाँकी"
+    "status": "९ दिन बाँकी"
+  },
+  {
+    "name": "घोडेजात्रा (काठमाडौं मात्र)",
+    "img": "https://api.nepalipatro.com.np/storage/banners/oVnr2Va4URVqILlo.jpg",
+    "date": "चैत १६, २०८१ - 29  Mar, 2025",
+    "status": "१३ दिन बाँकी"
+  },
+  {
+    "name": "विश्व खेलकूद दिवस",
+    "img": "https://api.nepalipatro.com.np/storage/banners/I2xUD7kKgJdRdLpt.png",
+    "date": "चैत २४, २०८१ - 06  Apr, 2025",
+    "status": "२१ दिन बाँकी"
+  },
+  {
+    "name": "रामनवमी ब्रत (रामजयन्ती )",
+    "img": "https://nepalipatro.com.np/calendar/getimageeid/id/15",
+    "date": "चैत २४, २०८१ - 06  Apr, 2025",
+    "status": "२१ दिन बाँकी"
   }
 ]
