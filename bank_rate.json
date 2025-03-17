@@ -138,6 +138,12 @@
     "fixed": "6.50%"
   },
   {
+    "code": "Corporate Dev",
+    "bank": "Corporate Bikas Bank",
+    "saving": "5.40%",
+    "fixed": "7.50%"
+  },
+  {
     "code": "Sindhu Bikas",
     "bank": "Sindhu Bikas Bank",
     "saving": "5.00%",
@@ -226,6 +232,12 @@
     "bank": "Progressive Fin. Co.",
     "saving": "5.35%",
     "fixed": "6.75%"
+  },
+  {
+    "code": "Janaki Finan.",
+    "bank": "Janaki Finance Co.",
+    "saving": "6.30%",
+    "fixed": "7.80%"
   },
   {
     "code": "Pokhara Finan.",
