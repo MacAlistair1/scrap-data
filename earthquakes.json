@@ -1,19 +1,19 @@
 [
   {
+    "date": "2081-12-04",
+    "time": "06:33",
+    "lat": "29.19",
+    "long": "81.44",
+    "magnitude": "4.3",
+    "epicenter": "Achham*"
+  },
+  {
     "date": "2081-11-26",
     "time": "04:11",
     "lat": "28.28",
     "long": "84.13",
     "magnitude": "4.3",
-    "epicenter": "Kaski*"
-  },
-  {
-    "date": "2081-11-24",
-    "time": "06:20",
-    "lat": "28.46",
-    "long": "83.22",
-    "magnitude": "4.1",
-    "epicenter": "Baglung"
+    "epicenter": "Kaski"
   },
   {
     "date": "2081-11-24",
@@ -22,6 +22,14 @@
     "long": "87.63",
     "magnitude": "5.9",
     "epicenter": "Dinggye, China"
+  },
+  {
+    "date": "2081-11-24",
+    "time": "06:20",
+    "lat": "28.46",
+    "long": "83.22",
+    "magnitude": "4.1",
+    "epicenter": "Baglung"
   },
   {
     "date": "2081-11-23",
@@ -62,14 +70,6 @@
     "long": "87.37",
     "magnitude": "7.0",
     "epicenter": "Dinggye, China"
-  },
-  {
-    "date": "2081-09-19",
-    "time": "08:03",
-    "lat": "29.57",
-    "long": "82.19",
-    "magnitude": "4.4",
-    "epicenter": "Mugu"
   },
   {
     "date": "2081-09-19",
