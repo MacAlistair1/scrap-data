@@ -17,19 +17,19 @@
   },
   {
     "date": "2081-11-24",
-    "time": "14:35",
-    "lat": "28.42",
-    "long": "87.63",
-    "magnitude": "5.9",
-    "epicenter": "Dinggye, China"
-  },
-  {
-    "date": "2081-11-24",
     "time": "06:20",
     "lat": "28.46",
     "long": "83.22",
     "magnitude": "4.1",
     "epicenter": "Baglung"
+  },
+  {
+    "date": "2081-11-24",
+    "time": "14:35",
+    "lat": "28.42",
+    "long": "87.63",
+    "magnitude": "5.9",
+    "epicenter": "Dinggye, China"
   },
   {
     "date": "2081-11-23",
@@ -73,10 +73,10 @@
   },
   {
     "date": "2081-09-19",
-    "time": "08:29",
-    "lat": "28.54",
-    "long": "84.13",
-    "magnitude": "4.1",
-    "epicenter": "Manang"
+    "time": "08:03",
+    "lat": "29.57",
+    "long": "82.19",
+    "magnitude": "4.4",
+    "epicenter": "Mugu"
   }
 ]
