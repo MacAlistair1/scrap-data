@@ -1,11 +1,19 @@
 [
   {
+    "date": "2081-12-20",
+    "time": "17:04",
+    "lat": "30.02",
+    "long": "80.84",
+    "magnitude": "4.0",
+    "epicenter": "Darchula*"
+  },
+  {
     "date": "2081-12-12",
     "time": "19:44",
     "lat": "29.69",
     "long": "81.82",
     "magnitude": "4.5",
-    "epicenter": "Humla*"
+    "epicenter": "Humla"
   },
   {
     "date": "2081-12-12",
@@ -70,13 +78,5 @@
     "long": "82.18",
     "magnitude": "4.1",
     "epicenter": "Jumla"
-  },
-  {
-    "date": "2081-10-22",
-    "time": "17:20",
-    "lat": "28.98",
-    "long": "81.50",
-    "magnitude": "4.4",
-    "epicenter": "Dailekh"
   }
 ]
