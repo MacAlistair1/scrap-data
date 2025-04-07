@@ -1,11 +1,27 @@
 [
   {
+    "date": "2081-12-21",
+    "time": "20:10",
+    "lat": "28.96",
+    "long": "82.12",
+    "magnitude": "5.5",
+    "epicenter": "Jajarkot*"
+  },
+  {
+    "date": "2081-12-21",
+    "time": "20:07",
+    "lat": "28.95",
+    "long": "82.12",
+    "magnitude": "5.2",
+    "epicenter": "Jajarkot"
+  },
+  {
     "date": "2081-12-20",
     "time": "17:04",
     "lat": "30.02",
     "long": "80.84",
     "magnitude": "4.0",
-    "epicenter": "Darchula*"
+    "epicenter": "Darchula"
   },
   {
     "date": "2081-12-12",
@@ -62,21 +78,5 @@
     "long": "83.33",
     "magnitude": "4.0",
     "epicenter": "Myagdi"
-  },
-  {
-    "date": "2081-11-15",
-    "time": "02:51",
-    "lat": "27.98",
-    "long": "85.88",
-    "magnitude": "6.1",
-    "epicenter": "Sindhupalchowk"
-  },
-  {
-    "date": "2081-10-30",
-    "time": "15:38",
-    "lat": "29.35",
-    "long": "82.18",
-    "magnitude": "4.1",
-    "epicenter": "Jumla"
   }
 ]
