@@ -126,6 +126,12 @@
     "fixed": "7.25%"
   },
   {
+    "code": "Excel Bikas",
+    "bank": "Excel Bikas Bank",
+    "saving": "3.50%",
+    "fixed": "6.50%"
+  },
+  {
     "code": "Miteri Bikas",
     "bank": "Miteri Bikas Bank",
     "saving": "4.50%",
@@ -156,6 +162,12 @@
     "fixed": "7.00%"
   },
   {
+    "code": "Shine Resunga",
+    "bank": "Shine Resunga BB",
+    "saving": "5.00%",
+    "fixed": "6.50%"
+  },
+  {
     "code": "Jyoti Bikas",
     "bank": "Jyoti Bikas Bank",
     "saving": "5.00%",
@@ -170,7 +182,7 @@
   {
     "code": "Mahalaxmi",
     "bank": "Mahalaxmi Bikas Bank",
-    "saving": "4.70%",
+    "saving": "4.55%",
     "fixed": "6.50%"
   },
   {
@@ -220,6 +232,12 @@
     "bank": "Progressive Fin. Co.",
     "saving": "5.35%",
     "fixed": "6.75%"
+  },
+  {
+    "code": "Janaki Finan.",
+    "bank": "Janaki Finance Co.",
+    "saving": "6.30%",
+    "fixed": "7.80%"
   },
   {
     "code": "Pokhara Finan.",
