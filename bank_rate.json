@@ -3,7 +3,7 @@
     "code": "Nepal Bank",
     "bank": "Nepal Bank Ltd.",
     "saving": "5.00%",
-    "fixed": "5.15%"
+    "fixed": "5.42%"
   },
   {
     "code": "RBB",
@@ -126,6 +126,12 @@
     "fixed": "7.25%"
   },
   {
+    "code": "Karnali Bikas",
+    "bank": "Karnali Bikas Bank",
+    "saving": "1.50%",
+    "fixed": "--"
+  },
+  {
     "code": "Excel Bikas",
     "bank": "Excel Bikas Bank",
     "saving": "3.50%",
@@ -142,6 +148,12 @@
     "bank": "Muktinath Bikas Bank",
     "saving": "5.00%",
     "fixed": "6.50%"
+  },
+  {
+    "code": "Corporate Dev",
+    "bank": "Corporate Bikas Bank",
+    "saving": "5.70%",
+    "fixed": "7.10%"
   },
   {
     "code": "Sindhu Bikas",
