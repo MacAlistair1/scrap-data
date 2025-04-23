@@ -2,7 +2,7 @@ const https = require("https");
 const { google } = require("googleapis");
 const fs = require("fs");
 
-const serviceAccount = require("/home/mac/Documents/nepali-pulse-3586c217f2cd.json");
+const serviceAccount = require("/home4/clickeat/nepali-pulse-3586c217f2cd.json");
 
 const PROJECT_ID = "nepali-pulse";
 const HOST = "fcm.googleapis.com";
