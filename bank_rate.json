@@ -126,6 +126,12 @@
     "fixed": "7.25%"
   },
   {
+    "code": "Karnali Bikas",
+    "bank": "Karnali Bikas Bank",
+    "saving": "1.00%",
+    "fixed": "--"
+  },
+  {
     "code": "Excel Bikas",
     "bank": "Excel Bikas Bank",
     "saving": "3.80%",
@@ -142,6 +148,12 @@
     "bank": "Muktinath Bikas Bank",
     "saving": "4.75%",
     "fixed": "6.25%"
+  },
+  {
+    "code": "Corporate Dev",
+    "bank": "Corporate Bikas Bank",
+    "saving": "5.75%",
+    "fixed": "7.50%"
   },
   {
     "code": "Sindhu Bikas",
@@ -196,6 +208,12 @@
     "bank": "Kamana Sewa B.Bank",
     "saving": "4.25%",
     "fixed": "6.15%"
+  },
+  {
+    "code": "Saptakoshi Dev",
+    "bank": "Saptakoshi Bikas Bank",
+    "saving": "4.75%",
+    "fixed": "7.75%"
   },
   {
     "code": "Gurkhas Finan",
