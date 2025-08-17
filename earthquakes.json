@@ -1,11 +1,19 @@
 [
   {
+    "date": "2082-05-01",
+    "time": "15:43",
+    "lat": "27.70",
+    "long": "86.53",
+    "magnitude": "4.0",
+    "epicenter": "Ramechap*"
+  },
+  {
     "date": "2081-12-21",
     "time": "20:10",
     "lat": "28.96",
     "long": "82.12",
     "magnitude": "5.5",
-    "epicenter": "Jajarkot*"
+    "epicenter": "Jajarkot"
   },
   {
     "date": "2081-12-21",
@@ -70,13 +78,5 @@
     "long": "87.63",
     "magnitude": "5.9",
     "epicenter": "Dinggye, China"
-  },
-  {
-    "date": "2081-11-23",
-    "time": "03:14",
-    "lat": "28.53",
-    "long": "83.33",
-    "magnitude": "4.0",
-    "epicenter": "Myagdi"
   }
 ]

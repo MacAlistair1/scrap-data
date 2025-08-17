@@ -27,25 +27,25 @@
     "code": "SCB",
     "bank": "Standard Chartered Bank",
     "saving": "3.20%",
-    "fixed": "6.26%"
+    "fixed": "5.13%"
   },
   {
     "code": "Himalayan",
     "bank": "Himalayan Bank",
-    "saving": "4.35%",
+    "saving": "4.30%",
     "fixed": "6.00%"
   },
   {
     "code": "Nepal SBI",
     "bank": "Nepal SBI Bank",
-    "saving": "2.88%",
-    "fixed": "5.35%"
+    "saving": "2.83%",
+    "fixed": "5.25%"
   },
   {
     "code": "Everest Bank",
     "bank": "Everest Bank",
     "saving": "4.00%",
-    "fixed": "6.25%"
+    "fixed": "5.75%"
   },
   {
     "code": "NIC Asia",
@@ -62,26 +62,26 @@
   {
     "code": "Kumari Bank",
     "bank": "Kumari Bank",
-    "saving": "4.11%",
-    "fixed": "5.41%"
+    "saving": "3.51%",
+    "fixed": "5.01%"
   },
   {
     "code": "Laxmi Sunrise",
     "bank": "Laxmi Sunrise",
-    "saving": "4.25%",
-    "fixed": "5.50%"
+    "saving": "4.00%",
+    "fixed": "5.00%"
   },
   {
     "code": "Siddhartha",
     "bank": "Siddhartha Bank",
-    "saving": "4.00%",
-    "fixed": "5.75%"
+    "saving": "3.75%",
+    "fixed": "5.50%"
   },
   {
     "code": "Krishi Bikas",
     "bank": "Agricultural Dev. Bank",
     "saving": "4.36%",
-    "fixed": "5.40%"
+    "fixed": "5.20%"
   },
   {
     "code": "Global IME",
@@ -92,7 +92,7 @@
   {
     "code": "Citizens Bank",
     "bank": "Citizens Bank Int'l",
-    "saving": "4.00%",
+    "saving": "3.97%",
     "fixed": "5.50%"
   },
   {
@@ -117,7 +117,7 @@
     "code": "Sanima Bank",
     "bank": "Sanima Bank",
     "saving": "3.78%",
-    "fixed": "6.18%"
+    "fixed": "5.75%"
   },
   {
     "code": "Narayani Dev.",
@@ -126,52 +126,28 @@
     "fixed": "7.25%"
   },
   {
-    "code": "Karnali Bikas",
-    "bank": "Karnali Bikas Bank",
-    "saving": "1.00%",
-    "fixed": "--"
-  },
-  {
-    "code": "Excel Bikas",
-    "bank": "Excel Bikas Bank",
-    "saving": "3.80%",
-    "fixed": "6.15%"
-  },
-  {
-    "code": "Miteri Bikas",
-    "bank": "Miteri Bikas Bank",
-    "saving": "4.25%",
-    "fixed": "7.00%"
-  },
-  {
     "code": "Muktinath",
     "bank": "Muktinath Bikas Bank",
     "saving": "4.75%",
     "fixed": "6.25%"
   },
   {
-    "code": "Corporate Dev",
-    "bank": "Corporate Bikas Bank",
-    "saving": "5.75%",
-    "fixed": "7.50%"
-  },
-  {
     "code": "Sindhu Bikas",
     "bank": "Sindhu Bikas Bank",
-    "saving": "4.50%",
-    "fixed": "7.11%"
+    "saving": "4.25%",
+    "fixed": "6.61%"
   },
   {
     "code": "Green Develop.",
     "bank": "Green Dev. Bank",
     "saving": "4.75%",
-    "fixed": "6.50%"
+    "fixed": "6.30%"
   },
   {
     "code": "Shangrila Dev.",
     "bank": "Shangrila Bikas Bank",
     "saving": "4.00%",
-    "fixed": "6.11%"
+    "fixed": "6.00%"
   },
   {
     "code": "Shine Resunga",
@@ -201,7 +177,7 @@
     "code": "Lumbini Bikas",
     "bank": "Lumbini Bikas Bank",
     "saving": "4.75%",
-    "fixed": "6.11%"
+    "fixed": "6.10%"
   },
   {
     "code": "Kamana Sewa",
@@ -210,40 +186,28 @@
     "fixed": "6.15%"
   },
   {
-    "code": "Saptakoshi Dev",
-    "bank": "Saptakoshi Bikas Bank",
-    "saving": "4.75%",
-    "fixed": "7.75%"
-  },
-  {
     "code": "Gurkhas Finan",
     "bank": "Gurkhas Finance Ltd",
     "saving": "--",
-    "fixed": "6.50%"
+    "fixed": "5.85%"
   },
   {
     "code": "Goodwill Finan.",
     "bank": "Goodwill Finance Co.",
     "saving": "--",
-    "fixed": "6.75%"
+    "fixed": "6.00%"
   },
   {
     "code": "Shree Invest",
     "bank": "Shree Invest &Finance",
     "saving": "5.00%",
-    "fixed": "6.50%"
+    "fixed": "6.25%"
   },
   {
     "code": "Nepal Finance",
     "bank": "Nepal Finance Co.",
     "saving": "--",
     "fixed": "7.75%"
-  },
-  {
-    "code": "Best Finance",
-    "bank": "Best Finance Co.",
-    "saving": "5.65%",
-    "fixed": "7.50%"
   },
   {
     "code": "Progressive",
@@ -254,7 +218,7 @@
   {
     "code": "Pokhara Finan.",
     "bank": "Pokhara Finance",
-    "saving": "5.75%",
+    "saving": "5.55%",
     "fixed": "8.50%"
   },
   {
@@ -272,7 +236,7 @@
   {
     "code": "Samriddhi Fin",
     "bank": "Samriddhi Finance Co.",
-    "saving": "5.25%",
+    "saving": "5.05%",
     "fixed": "7.75%"
   },
   {
@@ -285,7 +249,7 @@
     "code": "ICFC Finance",
     "bank": "ICFC Finance Ltd",
     "saving": "4.50%",
-    "fixed": "7.80%"
+    "fixed": "7.00%"
   },
   {
     "code": "Manjushree",
