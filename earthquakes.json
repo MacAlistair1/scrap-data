@@ -1,11 +1,19 @@
 [
   {
+    "date": "2082-05-06",
+    "time": "23:15",
+    "lat": "27.54",
+    "long": "87.14",
+    "magnitude": "4.4",
+    "epicenter": "Sankhuwasabha*"
+  },
+  {
     "date": "2082-05-01",
     "time": "15:43",
     "lat": "27.70",
     "long": "86.53",
     "magnitude": "4.0",
-    "epicenter": "Ramechap*"
+    "epicenter": "Ramechap"
   },
   {
     "date": "2081-12-21",
@@ -62,14 +70,6 @@
     "long": "84.13",
     "magnitude": "4.3",
     "epicenter": "Kaski"
-  },
-  {
-    "date": "2081-11-24",
-    "time": "06:20",
-    "lat": "28.46",
-    "long": "83.22",
-    "magnitude": "4.1",
-    "epicenter": "Baglung"
   },
   {
     "date": "2081-11-24",
