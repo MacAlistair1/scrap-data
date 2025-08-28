@@ -2,152 +2,162 @@
   {
     "name": "Aarambha Chautari Laghubitta Bittiya Sanstha Limited",
     "code": "ACLBSL",
-    "ltp": "1,072.00",
-    "change_%": "-1.99",
+    "ltp": "1,075.40",
+    "change_%": "-1.68",
     "open": "1,072.00",
-    "high": "1,075.00",
+    "high": "1,075.40",
     "low": "1,075.00",
-    "qty": "245"
+    "qty": "268"
   },
   {
     "name": "Agriculture Development Bank Limited",
     "code": "ADBL",
-    "ltp": "330.50",
-    "change_%": "-0.24",
+    "ltp": "330.00",
+    "change_%": "-0.4",
     "open": "327.00",
     "high": "332.00",
     "low": "327.10",
-    "qty": "6,938"
+    "qty": "15,912"
   },
   {
     "name": "Asian Hydropower Limited",
     "code": "AHL",
-    "ltp": "630.00",
-    "change_%": "-1.45",
+    "ltp": "630.40",
+    "change_%": "-1.39",
     "open": "626.50",
     "high": "664.00",
     "low": "626.50",
-    "qty": "190"
+    "qty": "300"
   },
   {
     "name": "Arun Valley Hydropower Development Co. Ltd.",
     "code": "AHPC",
-    "ltp": "297.00",
-    "change_%": "-0.49",
+    "ltp": "298.80",
+    "change_%": "0.11",
     "open": "295.00",
     "high": "299.90",
     "low": "297.00",
-    "qty": "17,913"
+    "qty": "28,224"
   },
   {
     "name": "Ankhu Khola Jalvidhyut Company Ltd",
     "code": "AKJCL",
-    "ltp": "207.50",
-    "change_%": "-0.17",
-    "open": "207.00",
+    "ltp": "206.70",
+    "change_%": "-0.55",
+    "open": "206.40",
     "high": "210.00",
     "low": "210.00",
-    "qty": "2,625"
+    "qty": "7,964"
   },
   {
     "name": "Arun Kabeli Power Ltd.",
     "code": "AKPL",
-    "ltp": "273.90",
-    "change_%": "1.96",
+    "ltp": "274.90",
+    "change_%": "2.33",
     "open": "271.20",
     "high": "275.70",
     "low": "274.00",
-    "qty": "167,637"
+    "qty": "229,523"
   },
   {
     "name": "Asha Laghubitta Bittiya Sanstha Limited",
     "code": "ALBSL",
-    "ltp": "1,020.00",
-    "change_%": "1.39",
+    "ltp": "1,001.00",
+    "change_%": "-0.5",
     "open": "992.00",
     "high": "1,020.00",
     "low": "1,000.00",
-    "qty": "1,298"
+    "qty": "1,468"
   },
   {
     "name": "Asian Life Insurance Co. Limited",
     "code": "ALICL",
-    "ltp": "499.10",
-    "change_%": "-0.63",
+    "ltp": "501.90",
+    "change_%": "-0.08",
     "open": "493.00",
     "high": "507.00",
     "low": "493.00",
-    "qty": "1,582"
+    "qty": "2,857"
   },
   {
     "name": "Aatmanirbhar Laghubitta Bittiya Sanstha Limited",
     "code": "ANLB",
-    "ltp": "5,720.10",
-    "change_%": "-0.99",
+    "ltp": "5,700.00",
+    "change_%": "-1.34",
     "open": "5,666.20",
     "high": "5,720.10",
     "low": "5,666.20",
-    "qty": "22"
+    "qty": "224"
   },
   {
     "name": "Api Power Company Ltd.",
     "code": "API",
-    "ltp": "298.00",
-    "change_%": "-0.3",
-    "open": "297.00",
+    "ltp": "297.00",
+    "change_%": "-0.63",
+    "open": "296.00",
     "high": "300.00",
     "low": "299.00",
-    "qty": "12,963"
+    "qty": "24,305"
   },
   {
     "name": "Aviyan Laghubitta Bittiya Sanstha Limited",
     "code": "AVYAN",
-    "ltp": "1,030.00",
-    "change_%": "-0.38",
+    "ltp": "1,025.10",
+    "change_%": "-0.86",
     "open": "1,018.00",
-    "high": "1,030.00",
+    "high": "1,035.00",
     "low": "1,018.00",
-    "qty": "20"
+    "qty": "80"
   },
   {
     "name": "Barun Hydropower Co. Ltd.",
     "code": "BARUN",
-    "ltp": "366.20",
-    "change_%": "0.58",
-    "open": "366.20",
+    "ltp": "369.00",
+    "change_%": "1.35",
+    "open": "365.00",
     "high": "370.00",
     "low": "370.00",
-    "qty": "10,345"
+    "qty": "14,584"
+  },
+  {
+    "name": "Bishal Bazar Company Limited",
+    "code": "BBC",
+    "ltp": "5,520.00",
+    "change_%": "1.03",
+    "open": "5,473.90",
+    "high": "5,520.00",
+    "low": "5,473.90",
+    "qty": "102"
   },
   {
     "name": " Bhugol Energy Development Company Limited ",
     "code": "BEDC",
-    "ltp": "726.00",
-    "change_%": "-0.64",
+    "ltp": "727.00",
+    "change_%": "-0.5",
     "open": "716.20",
     "high": "730.00",
     "low": "716.20",
-    "qty": "1,147"
+    "qty": "1,970"
   },
   {
     "name": "Best Finance Company Ltd.",
     "code": "BFC",
-    "ltp": "510.00",
-    "change_%": "1.28",
+    "ltp": "503.00",
+    "change_%": "-0.11",
     "open": "497.10",
     "high": "513.00",
     "low": "513.00",
-    "qty": "603"
+    "qty": "3,106"
   },
   {
     "name": "Bhagawati Hydropower Development Company Ltd.",
     "code": "BGWT",
-    "ltp": "906.00",
-    "change_%": "0.1",
+    "ltp": "906.10",
+    "change_%": "0.12",
     "open": "906.00",
-    "high": "906.00",
+    "high": "906.10",
     "low": "906.00",
-    "qty": "12"
+    "qty": "22"
   },
   {
     "name": "Bikash Hydropower Company Limited",
@@ -157,17 +167,17 @@
     "open": "527.50",
     "high": "568.90",
     "low": "527.50",
-    "qty": "8,340"
+    "qty": "15,040"
   },
   {
     "name": "Bindyabasini Hydropower Development Company Limited",
     "code": "BHDC",
-    "ltp": "577.00",
-    "change_%": "0.24",
+    "ltp": "580.60",
+    "change_%": "0.86",
     "open": "564.20",
     "high": "584.70",
     "low": "564.20",
-    "qty": "974"
+    "qty": "8,093"
   },
   {
     "name": "Balephi Hydropower Limited",
@@ -177,57 +187,67 @@
     "open": "198.00",
     "high": "202.00",
     "low": "201.00",
-    "qty": "21,255"
+    "qty": "41,732"
+  },
+  {
+    "name": "Barahi Hydropower Public Limited",
+    "code": "BHPL",
+    "ltp": "794.80",
+    "change_%": "1.38",
+    "open": "784.00",
+    "high": "794.80",
+    "low": "784.00",
+    "qty": "20"
   },
   {
     "name": "Buddhabhumi Nepal Hydropower Company Limited",
     "code": "BNHC",
-    "ltp": "520.30",
-    "change_%": "-0.36",
+    "ltp": "518.10",
+    "change_%": "-0.79",
     "open": "511.80",
     "high": "526.00",
     "low": "511.80",
-    "qty": "80"
+    "qty": "1,111"
   },
   {
     "name": "Bottlers Nepal (Terai",
     "code": "BNT",
-    "ltp": "12,000.00",
-    "change_%": "0.08",
-    "open": "12,000.00",
+    "ltp": "11,999.00",
+    "change_%": "0.07",
+    "open": "11,999.00",
     "high": "12,000.00",
     "low": "12,000.00",
-    "qty": "10"
+    "qty": "20"
   },
   {
     "name": "Butwal Power Company Limited",
     "code": "BPCL",
-    "ltp": "855.00",
-    "change_%": "0.34",
+    "ltp": "856.90",
+    "change_%": "0.56",
     "open": "835.10",
     "high": "868.00",
     "low": "835.10",
-    "qty": "24,553"
+    "qty": "40,452"
   },
   {
     "name": "Citizens Super 30 Mutual Fund",
     "code": "C30MF",
-    "ltp": "9.97",
-    "change_%": "-1.77",
+    "ltp": "10.16",
+    "change_%": "0.1",
     "open": "9.97",
     "high": "10.35",
     "low": "10.35",
-    "qty": "106,200"
+    "qty": "114,700"
   },
   {
     "name": "Chhimek Laghubitta Bittiya Sanstha Limited",
     "code": "CBBL",
-    "ltp": "1,078.00",
-    "change_%": "-0.02",
+    "ltp": "1,075.00",
+    "change_%": "-0.3",
     "open": "1,066.00",
     "high": "1,083.00",
     "low": "1,070.40",
-    "qty": "5,786"
+    "qty": "12,236"
   },
   {
     "name": "Civil Bank Debenture 2088",
@@ -247,87 +267,87 @@
     "open": "518.00",
     "high": "518.00",
     "low": "518.00",
-    "qty": "60"
+    "qty": "506"
   },
   {
     "name": "Chandragiri Hills Limited",
     "code": "CGH",
-    "ltp": "1,076.00",
-    "change_%": "1.26",
+    "ltp": "1,085.00",
+    "change_%": "2.1",
     "open": "1,042.40",
     "high": "1,104.00",
     "low": "1,055.00",
-    "qty": "107,378"
+    "qty": "119,645"
   },
   {
     "name": "Chilime Hydropower Company Limited",
     "code": "CHCL",
-    "ltp": "516.50",
-    "change_%": "-0.25",
+    "ltp": "521.00",
+    "change_%": "0.62",
     "open": "515.00",
     "high": "525.00",
     "low": "519.00",
-    "qty": "1,808"
+    "qty": "3,603"
   },
   {
     "name": "CEDB Holdings Limited",
     "code": "CHDC",
-    "ltp": "2,618.00",
-    "change_%": "-0.85",
-    "open": "2,612.20",
+    "ltp": "2,650.00",
+    "change_%": "0.36",
+    "open": "2,612.00",
     "high": "2,675.00",
     "low": "2,675.00",
-    "qty": "1,353"
+    "qty": "7,344"
   },
   {
     "name": "Chhyangdi Hydropower Ltd.",
     "code": "CHL",
-    "ltp": "288.30",
-    "change_%": "-1.99",
-    "open": "288.00",
+    "ltp": "287.20",
+    "change_%": "-2.36",
+    "open": "287.20",
     "high": "291.00",
     "low": "288.30",
-    "qty": "2,260"
+    "qty": "9,531"
   },
   {
     "name": "Citizen Investment Trust",
     "code": "CIT",
-    "ltp": "1,928.10",
-    "change_%": "-0.65",
+    "ltp": "1,933.00",
+    "change_%": "-0.4",
     "open": "1,928.10",
-    "high": "1,932.10",
+    "high": "1,933.00",
     "low": "1,932.00",
-    "qty": "1,035"
+    "qty": "1,741"
   },
   {
     "name": "City Hotel Limited",
     "code": "CITY",
-    "ltp": "610.00",
-    "change_%": "0",
+    "ltp": "612.10",
+    "change_%": "0.35",
     "open": "602.10",
     "high": "621.00",
     "low": "602.10",
-    "qty": "2,350"
+    "qty": "4,866"
   },
   {
     "name": "Chirkhwa Hydropower Limited",
     "code": "CKHL",
-    "ltp": "689.70",
-    "change_%": "0.79",
+    "ltp": "681.00",
+    "change_%": "-0.48",
     "open": "676.20",
     "high": "689.70",
     "low": "676.20",
-    "qty": "41"
+    "qty": "969"
   },
   {
     "name": "Citizen Life Insurance Company Limited",
     "code": "CLI",
-    "ltp": "484.20",
-    "change_%": "0.67",
+    "ltp": "483.00",
+    "change_%": "0.42",
     "open": "481.00",
     "high": "490.60",
     "low": "490.60",
-    "qty": "3,343"
+    "qty": "4,939"
   },
   {
     "name": "CITIZENS MUTUAL FUND 2",
@@ -342,152 +362,192 @@
   {
     "name": "Corporate Development Bank Limited",
     "code": "CORBL",
-    "ltp": "1,931.00",
-    "change_%": "-1.05",
-    "open": "1,931.00",
-    "high": "1,951.57",
+    "ltp": "1,969.00",
+    "change_%": "0.89",
+    "open": "1,930.50",
+    "high": "1,969.00",
     "low": "1,951.57",
-    "qty": "13"
+    "qty": "193"
   },
   {
     "name": "Crest Micro Life Insurance Ltd.",
     "code": "CREST",
-    "ltp": "1,270.20",
-    "change_%": "-0.6",
+    "ltp": "1,270.00",
+    "change_%": "-0.62",
     "open": "1,260.00",
     "high": "1,285.00",
     "low": "1,281.00",
-    "qty": "1,393"
+    "qty": "3,518"
   },
   {
     "name": "CYC Nepal Laghubitta Bittiya Sanstha Limited",
     "code": "CYCL",
-    "ltp": "1,765.00",
-    "change_%": "-0.91",
+    "ltp": "1,780.00",
+    "change_%": "-0.07",
     "open": "1,752.00",
-    "high": "1,765.00",
+    "high": "1,780.00",
     "low": "1,752.00",
-    "qty": "64"
+    "qty": "90"
   },
   {
     "name": "Citizen Bank International Limited",
     "code": "CZBIL",
-    "ltp": "209.10",
-    "change_%": "-0.94",
-    "open": "209.10",
+    "ltp": "209.00",
+    "change_%": "-0.99",
+    "open": "208.20",
     "high": "211.00",
     "low": "210.00",
-    "qty": "10,373"
+    "qty": "15,923"
   },
   {
     "name": "Deprosc Laghubitta Bittiya Sanstha Limited",
     "code": "DDBL",
-    "ltp": "901.50",
-    "change_%": "-1.29",
+    "ltp": "912.90",
+    "change_%": "-0.04",
     "open": "901.00",
     "high": "913.00",
     "low": "913.00",
-    "qty": "2,501"
+    "qty": "4,708"
   },
   {
     "name": "Dibyashwori Hydropower Ltd.",
     "code": "DHPL",
-    "ltp": "315.40",
-    "change_%": "-1.08",
+    "ltp": "319.00",
+    "change_%": "0.05",
     "open": "314.00",
     "high": "320.00",
     "low": "314.00",
-    "qty": "1,020"
+    "qty": "1,680"
+  },
+  {
+    "name": "Dhaulagiri Laghubitta Bittiya Sanstha Limited",
+    "code": "DLBS",
+    "ltp": "1,440.00",
+    "change_%": "-1.44",
+    "open": "1,440.00",
+    "high": "1,440.00",
+    "low": "1,440.00",
+    "qty": "38"
   },
   {
     "name": "Dolti Power Company Limited",
     "code": "DOLTI",
-    "ltp": "570.30",
-    "change_%": "-1.41",
+    "ltp": "574.20",
+    "change_%": "-0.74",
     "open": "570.30",
     "high": "590.00",
     "low": "589.00",
-    "qty": "360"
+    "qty": "630"
   },
   {
     "name": "Dordi Khola Jal Bidyut Company Limited",
     "code": "DORDI",
-    "ltp": "282.00",
-    "change_%": "1.27",
+    "ltp": "282.30",
+    "change_%": "1.38",
     "open": "278.20",
     "high": "285.00",
     "low": "278.20",
-    "qty": "3,230"
+    "qty": "10,094"
   },
   {
     "name": "Everest Bank Limited",
     "code": "EBL",
-    "ltp": "748.00",
-    "change_%": "-0.47",
+    "ltp": "749.00",
+    "change_%": "-0.34",
     "open": "745.00",
     "high": "755.00",
     "low": "745.00",
-    "qty": "8,571"
+    "qty": "13,625"
+  },
+  {
+    "name": "Everest Bank Limited Rinpatra 2091",
+    "code": "EBLD91",
+    "ltp": "1,003.00",
+    "change_%": "-0.69",
+    "open": "1,003.00",
+    "high": "1,003.00",
+    "low": "1,003.00",
+    "qty": "25"
   },
   {
     "name": "Excel Development Bank Ltd.",
     "code": "EDBL",
-    "ltp": "655.00",
-    "change_%": "1.29",
-    "open": "655.00",
+    "ltp": "649.00",
+    "change_%": "0.36",
+    "open": "649.00",
     "high": "657.00",
     "low": "656.90",
-    "qty": "550"
+    "qty": "9,550"
   },
   {
     "name": "Eastern Hydropower Limited",
     "code": "EHPL",
-    "ltp": "587.00",
-    "change_%": "-0.96",
+    "ltp": "590.00",
+    "change_%": "-0.45",
     "open": "585.00",
-    "high": "587.00",
+    "high": "590.00",
     "low": "585.00",
-    "qty": "20"
+    "qty": "50"
+  },
+  {
+    "name": "Emerging Nepal Limited",
+    "code": "ENL",
+    "ltp": "1,065.00",
+    "change_%": "-0.4",
+    "open": "1,065.00",
+    "high": "1,065.00",
+    "low": "1,065.00",
+    "qty": "10"
   },
   {
     "name": "First Micro Finance Laghubitta Bittiya Sanstha Limited",
     "code": "FMDBL",
-    "ltp": "900.00",
-    "change_%": "0.23",
-    "open": "895.00",
-    "high": "906.90",
+    "ltp": "912.00",
+    "change_%": "1.56",
+    "open": "893.00",
+    "high": "912.00",
     "low": "900.00",
-    "qty": "16,103"
+    "qty": "26,159"
   },
   {
     "name": "Forward Microfinance Laghubitta Bittiya Sanstha Ltd.",
     "code": "FOWAD",
-    "ltp": "1,180.00",
-    "change_%": "1.76",
-    "open": "1,160.00",
+    "ltp": "1,166.00",
+    "change_%": "0.55",
+    "open": "1,140.00",
     "high": "1,180.00",
     "low": "1,160.00",
-    "qty": "20"
+    "qty": "248"
   },
   {
     "name": "Garima Bikas Bank Limited",
     "code": "GBBL",
-    "ltp": "439.10",
-    "change_%": "-0.13",
-    "open": "439.10",
+    "ltp": "443.60",
+    "change_%": "0.89",
+    "open": "438.00",
     "high": "445.00",
     "low": "441.00",
-    "qty": "8,614"
+    "qty": "20,921"
+  },
+  {
+    "name": "8.5% Global IME Bank Limited Debenture 2086/87",
+    "code": "GBILD86/87",
+    "ltp": "1,095.00",
+    "change_%": "-1.97",
+    "open": "1,095.00",
+    "high": "1,095.00",
+    "low": "1,095.00",
+    "qty": "16"
   },
   {
     "name": "Global IME Bank Limited",
     "code": "GBIME",
-    "ltp": "252.00",
-    "change_%": "-1.29",
+    "ltp": "252.10",
+    "change_%": "-1.25",
     "open": "250.20",
     "high": "254.50",
     "low": "253.00",
-    "qty": "13,919"
+    "qty": "30,590"
   },
   {
     "name": "Global IME Samunnat Yojana - II",
@@ -500,54 +560,64 @@
     "qty": "100"
   },
   {
+    "name": "Grameen Bikas Laghubitta Bittiya Sanstha Ltd.",
+    "code": "GBLBS",
+    "ltp": "789.00",
+    "change_%": "-0.26",
+    "open": "782.80",
+    "high": "789.00",
+    "low": "783.00",
+    "qty": "324"
+  },
+  {
     "name": "Ghorahi Cement Industry Limited",
     "code": "GCIL",
-    "ltp": "501.40",
-    "change_%": "-0.5",
+    "ltp": "501.80",
+    "change_%": "-0.42",
     "open": "501.30",
     "high": "510.00",
     "low": "505.00",
-    "qty": "3,842"
+    "qty": "4,669"
   },
   {
     "name": "Goodwill Finance Co. Ltd.",
     "code": "GFCL",
-    "ltp": "642.00",
-    "change_%": "0.42",
-    "open": "642.00",
-    "high": "642.00",
+    "ltp": "640.50",
+    "change_%": "0.19",
+    "open": "640.50",
+    "high": "643.90",
     "low": "642.00",
-    "qty": "50"
+    "qty": "1,279"
   },
   {
     "name": "Ghalemdi Hydro Limited",
     "code": "GHL",
-    "ltp": "241.00",
-    "change_%": "0.33",
+    "ltp": "243.10",
+    "change_%": "1.2",
     "open": "240.10",
-    "high": "243.00",
+    "high": "243.10",
     "low": "240.40",
-    "qty": "11,681"
+    "qty": "20,267"
   },
   {
     "name": "Global IME Balanced Fund-1",
     "code": "GIBF1",
-    "ltp": "10.91",
-    "change_%": "-2.59",
+    "ltp": "11.12",
+    "change_%": "-0.71",
     "open": "10.91",
-    "high": "10.98",
+    "high": "11.12",
     "low": "10.98",
-    "qty": "300"
+    "qty": "400"
   },
   {
     "name": "Global IME Laghubitta Bittiya Sanstha Ltd.",
     "code": "GILB",
     "ltp": "1,320.00",
     "change_%": "-0.53",
-    "open": "1,320.00",
-    "high": "1,320.10",
+    "open": "1,316.50",
+    "high": "1,325.00",
     "low": "1,320.10",
-    "qty": "717"
+    "qty": "1,131"
   },
   {
     "name": "Gurans Laghubitta Bittiya Sanstha Limited",
@@ -557,87 +627,87 @@
     "open": "2,221.56",
     "high": "2,221.56",
     "low": "2,221.56",
-    "qty": "2"
+    "qty": "9"
   },
   {
     "name": "Greenlife Hydropower Limited",
     "code": "GLH",
-    "ltp": "272.00",
-    "change_%": "-0.1",
+    "ltp": "277.00",
+    "change_%": "1.73",
     "open": "270.00",
-    "high": "274.00",
+    "high": "280.00",
     "low": "272.00",
-    "qty": "2,019"
+    "qty": "15,910"
   },
   {
     "name": "Ganapati Microfinance Bittiya Sanstha Ltd",
     "code": "GMFBS",
-    "ltp": "1,631.00",
-    "change_%": "-0.54",
+    "ltp": "1,640.00",
+    "change_%": "0",
     "open": "1,631.00",
     "high": "1,640.00",
     "low": "1,640.00",
-    "qty": "24"
+    "qty": "38"
   },
   {
     "name": "Guheshowori Merchant Bank & Finance Co. Ltd.",
     "code": "GMFIL",
-    "ltp": "482.30",
-    "change_%": "-0.98",
+    "ltp": "488.90",
+    "change_%": "0.37",
     "open": "482.30",
-    "high": "483.00",
+    "high": "488.90",
     "low": "483.00",
-    "qty": "289"
+    "qty": "1,200"
   },
   {
     "name": "Guardian Micro-Life Insurance Limited",
     "code": "GMLI",
-    "ltp": "2,130.00",
-    "change_%": "-1.56",
-    "open": "2,130.00",
+    "ltp": "2,112.00",
+    "change_%": "-2.39",
+    "open": "2,111.20",
     "high": "2,169.90",
     "low": "2,163.00",
-    "qty": "963"
+    "qty": "1,196"
   },
   {
     "name": "Green Development Bank Ltd.",
     "code": "GRDBL",
-    "ltp": "1,173.40",
-    "change_%": "0.65",
+    "ltp": "1,199.00",
+    "change_%": "2.85",
     "open": "1,155.60",
-    "high": "1,178.70",
+    "high": "1,199.00",
     "low": "1,155.60",
-    "qty": "567"
+    "qty": "2,811"
   },
   {
     "name": "Garima Samriddhi Yojana",
     "code": "GSY",
-    "ltp": "9.25",
-    "change_%": "-0.43",
+    "ltp": "9.26",
+    "change_%": "-0.32",
     "open": "9.25",
     "high": "9.40",
     "low": "9.40",
-    "qty": "650"
+    "qty": "950"
   },
   {
     "name": "Gurkhas Finance Ltd.",
     "code": "GUFL",
-    "ltp": "538.00",
-    "change_%": "-0.06",
-    "open": "538.00",
+    "ltp": "541.00",
+    "change_%": "0.5",
+    "open": "537.10",
     "high": "548.90",
     "low": "548.90",
-    "qty": "211"
+    "qty": "521"
   },
   {
     "name": "Green Ventures Limited",
     "code": "GVL",
-    "ltp": "576.00",
-    "change_%": "-0.94",
+    "ltp": "582.10",
+    "change_%": "0.11",
     "open": "570.00",
-    "high": "581.47",
+    "high": "584.90",
     "low": "581.47",
-    "qty": "7,423"
+    "qty": "21,051"
   },
   {
     "name": "Himalayan 80-20",
@@ -645,189 +715,209 @@
     "ltp": "11.50",
     "change_%": "0.35",
     "open": "11.50",
-    "high": "11.50",
+    "high": "11.68",
     "low": "11.50",
-    "qty": "100"
+    "qty": "1,398"
   },
   {
     "name": "Hathway Investment Nepal Limited",
     "code": "HATHY",
-    "ltp": "1,270.00",
-    "change_%": "0.38",
+    "ltp": "1,278.00",
+    "change_%": "1.01",
     "open": "1,265.00",
-    "high": "1,275.00",
+    "high": "1,278.90",
     "low": "1,275.00",
-    "qty": "3,596"
+    "qty": "5,846"
   },
   {
     "name": "Himalayan Bank Limited",
     "code": "HBL",
-    "ltp": "211.00",
-    "change_%": "-0.13",
-    "open": "210.00",
+    "ltp": "211.30",
+    "change_%": "0.01",
+    "open": "209.20",
     "high": "213.00",
     "low": "213.00",
-    "qty": "1,026"
+    "qty": "4,176"
   },
   {
     "name": "Himal Dolakha Hydropower Company Limited",
     "code": "HDHPC",
-    "ltp": "199.00",
-    "change_%": "0.23",
-    "open": "199.00",
+    "ltp": "199.60",
+    "change_%": "0.53",
+    "open": "198.10",
     "high": "200.00",
     "low": "199.20",
-    "qty": "17,126"
+    "qty": "17,591"
   },
   {
     "name": "Himalayan Distillery Limited",
     "code": "HDL",
-    "ltp": "1,445.00",
-    "change_%": "0.35",
+    "ltp": "1,455.00",
+    "change_%": "1.04",
     "open": "1,425.10",
     "high": "1,459.00",
     "low": "1,440.00",
-    "qty": "34,332"
+    "qty": "69,236"
   },
   {
     "name": "Himalayan Everest Insurance Limited",
     "code": "HEI",
-    "ltp": "597.00",
-    "change_%": "1.34",
+    "ltp": "593.40",
+    "change_%": "0.72",
     "open": "590.00",
     "high": "599.70",
     "low": "590.00",
-    "qty": "516"
+    "qty": "836"
+  },
+  {
+    "name": "Himalayan Everest Insurance Limited Promoter",
+    "code": "HEIP",
+    "ltp": "372.60",
+    "change_%": "-2",
+    "open": "372.60",
+    "high": "373.00",
+    "low": "373.00",
+    "qty": "804"
   },
   {
     "name": "Himalayan Hydropower Limited",
     "code": "HHL",
-    "ltp": "381.00",
-    "change_%": "0.63",
+    "ltp": "380.20",
+    "change_%": "0.42",
     "open": "376.10",
     "high": "383.50",
     "low": "376.10",
-    "qty": "2,003"
+    "qty": "7,243"
   },
   {
     "name": "Hydorelectricity Investment and Development Company Ltd",
     "code": "HIDCL",
-    "ltp": "295.00",
-    "change_%": "0.2",
+    "ltp": "293.70",
+    "change_%": "-0.24",
     "open": "291.00",
     "high": "296.00",
     "low": "291.00",
-    "qty": "12,359"
+    "qty": "32,149"
   },
   {
     "name": "Hydroelectricity Investment and Development Company Limited Promoter Share",
     "code": "HIDCLP",
-    "ltp": "208.20",
-    "change_%": "-0.5",
-    "open": "208.00",
+    "ltp": "210.50",
+    "change_%": "0.6",
+    "open": "207.50",
     "high": "211.00",
     "low": "210.00",
-    "qty": "26,580"
+    "qty": "53,922"
   },
   {
     "name": "Himalayan Laghubitta Bittiya Sanstha Limited",
     "code": "HLBSL",
-    "ltp": "999.00",
-    "change_%": "-1.12",
+    "ltp": "1,000.00",
+    "change_%": "-1.02",
     "open": "999.00",
     "high": "1,014.00",
     "low": "1,010.00",
-    "qty": "290"
+    "qty": "432"
   },
   {
     "name": "Himalayan Life Insurance Limited",
     "code": "HLI",
-    "ltp": "411.00",
-    "change_%": "-1",
+    "ltp": "413.00",
+    "change_%": "-0.52",
     "open": "410.00",
     "high": "416.00",
     "low": "416.00",
-    "qty": "3,894"
+    "qty": "10,439"
   },
   {
     "name": "Himalayan Power Partner Ltd.",
     "code": "HPPL",
-    "ltp": "505.00",
-    "change_%": "0.76",
+    "ltp": "506.80",
+    "change_%": "1.12",
     "open": "502.00",
     "high": "509.00",
     "low": "502.00",
-    "qty": "4,797"
+    "qty": "7,268"
   },
   {
     "name": "Himalayan Reinsurance Limited",
     "code": "HRL",
-    "ltp": "1,060.00",
-    "change_%": "0.47",
+    "ltp": "1,061.00",
+    "change_%": "0.56",
     "open": "1,050.00",
     "high": "1,074.80",
     "low": "1,056.00",
-    "qty": "109,264"
+    "qty": "175,415"
   },
   {
     "name": "Himalaya Urja Bikas Company Limited",
     "code": "HURJA",
-    "ltp": "241.10",
-    "change_%": "-0.1",
+    "ltp": "242.00",
+    "change_%": "0.27",
     "open": "240.00",
     "high": "244.00",
     "low": "243.00",
-    "qty": "8,774"
+    "qty": "17,888"
   },
   {
     "name": "ICFC Finance Limited",
     "code": "ICFC",
-    "ltp": "690.10",
-    "change_%": "0.54",
+    "ltp": "690.00",
+    "change_%": "0.52",
     "open": "686.00",
     "high": "690.10",
     "low": "690.00",
-    "qty": "1,898"
+    "qty": "7,221"
+  },
+  {
+    "name": "9% ICFC Finance Limited Debenture-2088",
+    "code": "ICFCD88",
+    "ltp": "1,070.00",
+    "change_%": "0",
+    "open": "1,070.00",
+    "high": "1,070.00",
+    "low": "1,070.00",
+    "qty": "25"
   },
   {
     "name": "IGI Prudential Insurance Company Limited",
     "code": "IGI",
-    "ltp": "543.80",
-    "change_%": "1.1",
-    "open": "540.00",
+    "ltp": "541.10",
+    "change_%": "0.6",
+    "open": "534.30",
     "high": "543.90",
     "low": "540.00",
-    "qty": "70"
+    "qty": "2,260"
   },
   {
     "name": "Ingwa Hydropower Limited",
     "code": "IHL",
-    "ltp": "558.20",
-    "change_%": "-1.64",
+    "ltp": "561.00",
+    "change_%": "-1.15",
     "open": "558.20",
-    "high": "563.00",
+    "high": "567.00",
     "low": "562.00",
-    "qty": "495"
+    "qty": "835"
   },
   {
     "name": "Infinity Laghubitta Bittiya Sanstha Limited",
     "code": "ILBS",
-    "ltp": "1,266.00",
-    "change_%": "-0.02",
+    "ltp": "1,253.50",
+    "change_%": "-1.01",
     "open": "1,242.00",
     "high": "1,291.00",
     "low": "1,242.00",
-    "qty": "634"
+    "qty": "3,574"
   },
   {
     "name": "IME Life Insurance Company Limited",
     "code": "ILI",
-    "ltp": "460.10",
-    "change_%": "0.32",
+    "ltp": "461.00",
+    "change_%": "0.51",
     "open": "458.00",
-    "high": "461.00",
+    "high": "463.00",
     "low": "458.00",
-    "qty": "1,272"
+    "qty": "3,040"
   },
   {
     "name": "Jyoti Bikas Bank Limited",
@@ -837,47 +927,57 @@
     "open": "345.00",
     "high": "352.90",
     "low": "345.00",
-    "qty": "13,650"
+    "qty": "19,420"
   },
   {
     "name": "Jeevan Bikas Laghubitta Bittiya Sanstha Limited",
     "code": "JBLB",
-    "ltp": "1,485.30",
-    "change_%": "-1.06",
-    "open": "1,485.00",
+    "ltp": "1,493.20",
+    "change_%": "-0.53",
+    "open": "1,482.00",
     "high": "1,501.21",
     "low": "1,501.21",
-    "qty": "936"
+    "qty": "2,918"
   },
   {
     "name": "Janaki Finance Ltd.",
     "code": "JFL",
-    "ltp": "485.00",
-    "change_%": "1.68",
-    "open": "480.00",
+    "ltp": "479.00",
+    "change_%": "0.42",
+    "open": "475.60",
     "high": "485.00",
     "low": "480.00",
-    "qty": "748"
+    "qty": "1,555"
   },
   {
     "name": "Joshi Hydropower Development Company Ltd",
     "code": "JOSHI",
-    "ltp": "310.00",
-    "change_%": "0.64",
+    "ltp": "307.10",
+    "change_%": "-0.31",
     "open": "305.20",
     "high": "310.00",
     "low": "310.00",
-    "qty": "690"
+    "qty": "1,290"
+  },
+  {
+    "name": "Janautthan Samudayic Laghubitta Bittiya Sanstha Limited",
+    "code": "JSLBB",
+    "ltp": "1,318.00",
+    "change_%": "1.55",
+    "open": "1,280.00",
+    "high": "1,318.00",
+    "low": "1,280.00",
+    "qty": "150"
   },
   {
     "name": "Kumari Bank Limited",
     "code": "KBL",
-    "ltp": "203.00",
-    "change_%": "-0.46",
+    "ltp": "205.00",
+    "change_%": "0.52",
     "open": "202.40",
     "high": "205.00",
     "low": "204.00",
-    "qty": "40,472"
+    "qty": "75,414"
   },
   {
     "name": "11% KBL Debenture 2089",
@@ -892,102 +992,112 @@
   {
     "name": "Kumari Dhanabriddhi Yojana",
     "code": "KDBY",
-    "ltp": "8.91",
-    "change_%": "-1.66",
+    "ltp": "9.00",
+    "change_%": "-0.66",
     "open": "8.90",
-    "high": "8.91",
+    "high": "9.00",
     "low": "8.90",
-    "qty": "500"
+    "qty": "1,200"
   },
   {
     "name": "Kalinchowk Darshan Limited",
     "code": "KDL",
-    "ltp": "1,087.00",
-    "change_%": "-0.01",
+    "ltp": "1,087.20",
+    "change_%": "0",
     "open": "1,080.10",
     "high": "1,108.80",
     "low": "1,080.10",
-    "qty": "350"
+    "qty": "525"
   },
   {
     "name": "Kumari Equity Fund",
     "code": "KEF",
-    "ltp": "8.71",
-    "change_%": "-2.68",
+    "ltp": "8.88",
+    "change_%": "-0.78",
     "open": "8.71",
-    "high": "8.80",
+    "high": "8.88",
     "low": "8.80",
-    "qty": "200"
+    "qty": "400"
   },
   {
     "name": "Khanikhola Hydropower Co. Ltd.",
     "code": "KKHC",
-    "ltp": "254.10",
-    "change_%": "-1.49",
+    "ltp": "256.80",
+    "change_%": "-0.44",
     "open": "254.10",
-    "high": "254.10",
+    "high": "258.90",
     "low": "254.10",
-    "qty": "20"
+    "qty": "40"
   },
   {
     "name": "Kalika Laghubitta Bittiya Sanstha Limited",
     "code": "KMCDB",
-    "ltp": "1,077.00",
-    "change_%": "-1.91",
+    "ltp": "1,082.00",
+    "change_%": "-1.45",
     "open": "1,077.00",
     "high": "1,090.00",
     "low": "1,086.30",
-    "qty": "941"
+    "qty": "1,067"
   },
   {
     "name": "Kalika power Company Ltd",
     "code": "KPCL",
-    "ltp": "586.00",
-    "change_%": "-0.2",
+    "ltp": "590.00",
+    "change_%": "0.48",
     "open": "585.00",
     "high": "594.00",
     "low": "591.30",
-    "qty": "6,040"
+    "qty": "14,051"
   },
   {
     "name": "Kamana Sewa Bikas Bank Limited",
     "code": "KSBBL",
-    "ltp": "544.10",
-    "change_%": "-0.45",
+    "ltp": "542.20",
+    "change_%": "-0.8",
     "open": "540.10",
     "high": "548.00",
     "low": "547.00",
-    "qty": "65,887"
+    "qty": "78,447"
   },
   {
     "name": "Lumbini Bikas Bank Ltd.",
     "code": "LBBL",
-    "ltp": "569.30",
-    "change_%": "-1.35",
-    "open": "569.30",
+    "ltp": "570.00",
+    "change_%": "-1.23",
+    "open": "566.30",
     "high": "580.00",
     "low": "572.00",
-    "qty": "33,067"
+    "qty": "74,141"
   },
   {
     "name": "Liberty Energy Company Limited",
     "code": "LEC",
-    "ltp": "245.00",
-    "change_%": "1.1",
+    "ltp": "245.90",
+    "change_%": "1.47",
     "open": "238.00",
     "high": "252.20",
     "low": "238.00",
-    "qty": "101,730"
+    "qty": "137,570"
+  },
+  {
+    "name": "Life Insurance Co. Nepal",
+    "code": "LICN",
+    "ltp": "876.00",
+    "change_%": "0.25",
+    "open": "873.00",
+    "high": "879.90",
+    "low": "879.90",
+    "qty": "983"
   },
   {
     "name": "Laxmi Laghubitta Bittiya Sanstha Ltd.",
     "code": "LLBS",
-    "ltp": "1,060.40",
-    "change_%": "-0.04",
-    "open": "1,060.40",
+    "ltp": "1,042.10",
+    "change_%": "-1.76",
+    "open": "1,042.10",
     "high": "1,082.00",
     "low": "1,082.00",
-    "qty": "40"
+    "qty": "140"
   },
   {
     "name": "Laxmi Sunrise Bank Limited",
@@ -997,237 +1107,257 @@
     "open": "235.00",
     "high": "238.00",
     "low": "235.00",
-    "qty": "8,434"
+    "qty": "15,060"
+  },
+  {
+    "name": "Laxmi unnati Kosh",
+    "code": "LUK",
+    "ltp": "9.28",
+    "change_%": "-1.17",
+    "open": "9.27",
+    "high": "9.28",
+    "low": "9.27",
+    "qty": "350"
   },
   {
     "name": "Makar Jitumaya Suri Hydropower Limited",
     "code": "MAKAR",
-    "ltp": "607.10",
-    "change_%": "0.04",
-    "open": "607.10",
+    "ltp": "610.00",
+    "change_%": "0.52",
+    "open": "606.60",
     "high": "618.90",
     "low": "618.90",
-    "qty": "110"
+    "qty": "300"
   },
   {
     "name": "Mandu Hydropower Ltd.",
     "code": "MANDU",
-    "ltp": "855.10",
-    "change_%": "-0.71",
+    "ltp": "856.00",
+    "change_%": "-0.61",
     "open": "850.10",
     "high": "861.00",
     "low": "861.00",
-    "qty": "100"
+    "qty": "120"
   },
   {
     "name": "Matribhumi Laghubitta Bittiya Sanstha Limited ",
     "code": "MATRI",
-    "ltp": "1,105.00",
-    "change_%": "0.37",
-    "open": "1,098.00",
+    "ltp": "1,087.00",
+    "change_%": "-1.27",
+    "open": "1,087.00",
     "high": "1,105.00",
     "low": "1,098.00",
-    "qty": "20"
+    "qty": "632"
   },
   {
     "name": "Madhya Bhotekoshi Jalavidyut Company Limited",
     "code": "MBJC",
-    "ltp": "318.10",
-    "change_%": "-1.49",
+    "ltp": "323.80",
+    "change_%": "0.27",
     "open": "317.50",
     "high": "324.00",
     "low": "322.00",
-    "qty": "1,025"
+    "qty": "3,995"
   },
   {
     "name": "Machhapuchchhre Bank Limited",
     "code": "MBL",
-    "ltp": "250.00",
-    "change_%": "-0.86",
+    "ltp": "250.80",
+    "change_%": "-0.55",
     "open": "248.20",
     "high": "252.00",
     "low": "250.30",
-    "qty": "9,342"
+    "qty": "11,172"
+  },
+  {
+    "name": "MBL Equity Fund",
+    "code": "MBLEF",
+    "ltp": "9.08",
+    "change_%": "-1.84",
+    "open": "9.08",
+    "high": "9.08",
+    "low": "9.08",
+    "qty": "100"
   },
   {
     "name": "Menchhiyam Hydropower Limited",
     "code": "MCHL",
-    "ltp": "527.00",
-    "change_%": "-0.96",
+    "ltp": "528.00",
+    "change_%": "-0.77",
     "open": "524.10",
     "high": "528.00",
     "low": "524.10",
-    "qty": "30"
+    "qty": "50"
   },
   {
     "name": "Miteri Development Bank Limited",
     "code": "MDB",
-    "ltp": "641.00",
-    "change_%": "0.07",
+    "ltp": "641.50",
+    "change_%": "0.15",
     "open": "631.20",
     "high": "645.00",
     "low": "640.00",
-    "qty": "2,200"
+    "qty": "3,891"
   },
   {
     "name": "Manakamana Engineering Hydropower Limited",
     "code": "MEHL",
-    "ltp": "456.00",
-    "change_%": "-0.16",
-    "open": "456.00",
+    "ltp": "453.00",
+    "change_%": "-0.81",
+    "open": "451.20",
     "high": "460.00",
     "low": "456.00",
-    "qty": "600"
+    "qty": "670"
   },
   {
     "name": "Modi Energy Limited",
     "code": "MEL",
-    "ltp": "304.50",
-    "change_%": "-0.22",
+    "ltp": "302.50",
+    "change_%": "-0.88",
     "open": "302.10",
     "high": "308.90",
     "low": "302.10",
-    "qty": "1,810"
+    "qty": "8,756"
   },
   {
     "name": "Mountain Energy Nepal Limited",
     "code": "MEN",
-    "ltp": "640.00",
-    "change_%": "0.37",
+    "ltp": "642.00",
+    "change_%": "0.69",
     "open": "630.10",
     "high": "644.90",
     "low": "634.00",
-    "qty": "6,677"
+    "qty": "16,057"
   },
   {
     "name": "Meromicrofinance Laghubitta Bittiya Sanstha Ltd.",
     "code": "MERO",
-    "ltp": "851.00",
-    "change_%": "-0.68",
-    "open": "851.00",
+    "ltp": "854.00",
+    "change_%": "-0.33",
+    "open": "850.00",
     "high": "872.00",
     "low": "865.00",
-    "qty": "1,740"
+    "qty": "9,888"
   },
   {
     "name": "Manjushree Finance Ltd.",
     "code": "MFIL",
-    "ltp": "695.00",
-    "change_%": "-0.47",
-    "open": "695.00",
+    "ltp": "700.00",
+    "change_%": "0.25",
+    "open": "691.10",
     "high": "707.00",
     "low": "700.00",
-    "qty": "2,984"
+    "qty": "4,918"
   },
   {
     "name": "Molung Hydropower Company Limited",
     "code": "MHCL",
-    "ltp": "445.70",
-    "change_%": "-0.97",
+    "ltp": "472.00",
+    "change_%": "4.87",
     "open": "444.00",
-    "high": "445.70",
+    "high": "472.00",
     "low": "444.00",
-    "qty": "180"
+    "qty": "2,208"
   },
   {
     "name": "Mandakini Hydropower Limited",
     "code": "MHL",
-    "ltp": "531.60",
-    "change_%": "-0.19",
+    "ltp": "530.60",
+    "change_%": "-0.38",
     "open": "528.00",
     "high": "533.00",
     "low": "528.00",
-    "qty": "945"
+    "qty": "4,622"
   },
   {
     "name": "Mountain Hydro Nepal Limited",
     "code": "MHNL",
-    "ltp": "271.90",
-    "change_%": "0.03",
+    "ltp": "268.20",
+    "change_%": "-1.33",
     "open": "267.00",
     "high": "271.90",
     "low": "267.00",
-    "qty": "130"
+    "qty": "241"
   },
   {
     "name": "Muktinath Krishi Company Limited",
     "code": "MKCL",
-    "ltp": "1,669.90",
-    "change_%": "0.7",
+    "ltp": "1,657.00",
+    "change_%": "-0.07",
     "open": "1,650.00",
     "high": "1,669.90",
     "low": "1,650.00",
-    "qty": "210"
+    "qty": "355"
   },
   {
     "name": "Maya Khola Hydropower Company Limited",
     "code": "MKHC",
-    "ltp": "448.00",
-    "change_%": "0.38",
+    "ltp": "443.00",
+    "change_%": "-0.74",
     "open": "437.50",
     "high": "453.00",
     "low": "437.50",
-    "qty": "320"
+    "qty": "721"
   },
   {
     "name": "Mai Khola Hydropower Limited",
     "code": "MKHL",
-    "ltp": "805.50",
-    "change_%": "0.09",
+    "ltp": "805.60",
+    "change_%": "0.1",
     "open": "796.00",
     "high": "817.00",
     "low": "796.00",
-    "qty": "60"
+    "qty": "100"
   },
   {
     "name": "Mailung Khola Jal Vidhyut Company  Limited",
     "code": "MKJC",
-    "ltp": "577.80",
-    "change_%": "1.61",
+    "ltp": "576.00",
+    "change_%": "1.29",
     "open": "569.00",
     "high": "580.00",
     "low": "580.00",
-    "qty": "15,712"
+    "qty": "23,526"
   },
   {
     "name": "Mahalaxmi Bikas Bank Ltd.",
     "code": "MLBL",
-    "ltp": "406.00",
-    "change_%": "-0.78",
-    "open": "406.00",
+    "ltp": "406.90",
+    "change_%": "-0.56",
+    "open": "405.00",
     "high": "411.90",
     "low": "409.00",
-    "qty": "12,330"
+    "qty": "17,348"
   },
   {
     "name": "Mahila Laghubitta Bittiya Sanstha Limited",
     "code": "MLBSL",
-    "ltp": "2,105.00",
-    "change_%": "-0.92",
+    "ltp": "2,120.00",
+    "change_%": "-0.22",
     "open": "2,103.10",
-    "high": "2,105.00",
+    "high": "2,120.00",
     "low": "2,103.10",
-    "qty": "35"
+    "qty": "59"
   },
   {
     "name": "Mega Mutual Fund-1",
     "code": "MMF1",
-    "ltp": "9.30",
-    "change_%": "-0.53",
+    "ltp": "9.32",
+    "change_%": "-0.32",
     "open": "9.18",
-    "high": "9.30",
+    "high": "9.32",
     "low": "9.18",
-    "qty": "1,800"
+    "qty": "2,600"
   },
   {
     "name": "Mathillo Mailun Khola Jalvidhyut Limited",
     "code": "MMKJL",
-    "ltp": "570.20",
-    "change_%": "-1.27",
-    "open": "570.20",
+    "ltp": "570.00",
+    "change_%": "-1.3",
+    "open": "570.00",
     "high": "580.00",
     "low": "580.00",
-    "qty": "20"
+    "qty": "630"
   },
   {
     "name": "Muktinath Bikas Bank Ltd.",
@@ -1237,27 +1367,37 @@
     "open": "456.10",
     "high": "465.00",
     "low": "465.00",
-    "qty": "12,871"
+    "qty": "29,602"
+  },
+  {
+    "name": "8.75% Muktinath Debenture/Rinpatra 2084/85",
+    "code": "MND84/85",
+    "ltp": "1,088.00",
+    "change_%": "-1.98",
+    "open": "1,088.00",
+    "high": "1,088.00",
+    "low": "1,088.00",
+    "qty": "50"
   },
   {
     "name": "Muktinath Mutual Fund 1",
     "code": "MNMF1",
-    "ltp": "9.08",
-    "change_%": "-1.84",
+    "ltp": "9.13",
+    "change_%": "-1.3",
     "open": "9.07",
     "high": "9.25",
     "low": "9.07",
-    "qty": "500"
+    "qty": "1,300"
   },
   {
     "name": "Multipurpose Finance Company Limited",
     "code": "MPFL",
-    "ltp": "610.00",
-    "change_%": "2.04",
+    "ltp": "601.10",
+    "change_%": "0.55",
     "open": "600.10",
     "high": "616.00",
     "low": "600.10",
-    "qty": "563"
+    "qty": "1,243"
   },
   {
     "name": "Mid-Solu Hydropower Limited",
@@ -1277,57 +1417,57 @@
     "open": "1,525.00",
     "high": "1,549.00",
     "low": "1,525.00",
-    "qty": "52"
+    "qty": "212"
   },
   {
     "name": "Narayani Development Bank Limited",
     "code": "NABBC",
-    "ltp": "829.00",
-    "change_%": "-0.13",
+    "ltp": "825.00",
+    "change_%": "-0.61",
     "open": "813.50",
     "high": "846.00",
     "low": "813.50",
-    "qty": "1,965"
+    "qty": "2,215"
   },
   {
     "name": "Nabil Bank Limited",
     "code": "NABIL",
-    "ltp": "530.00",
-    "change_%": "-0.72",
+    "ltp": "533.00",
+    "change_%": "-0.16",
     "open": "527.00",
     "high": "535.80",
     "low": "532.00",
-    "qty": "7,534"
+    "qty": "10,397"
   },
   {
     "name": "Nadep Laghubitta Bittiya Sanstha Ltd.",
     "code": "NADEP",
-    "ltp": "829.80",
-    "change_%": "1.62",
-    "open": "828.00",
+    "ltp": "829.00",
+    "change_%": "1.52",
+    "open": "820.00",
     "high": "829.80",
     "low": "828.00",
-    "qty": "550"
+    "qty": "1,720"
   },
   {
     "name": "NABIL BALANCED FUND-2",
     "code": "NBF2",
-    "ltp": "10.09",
-    "change_%": "-1.27",
+    "ltp": "10.11",
+    "change_%": "-1.08",
     "open": "10.09",
-    "high": "10.09",
+    "high": "10.11",
     "low": "10.09",
-    "qty": "100"
+    "qty": "600"
   },
   {
     "name": "Nabil Balanced Fund-3",
     "code": "NBF3",
-    "ltp": "9.96",
-    "change_%": "-1.48",
+    "ltp": "10.00",
+    "change_%": "-1.09",
     "open": "9.95",
-    "high": "9.96",
+    "high": "10.00",
     "low": "9.95",
-    "qty": "200"
+    "qty": "650"
   },
   {
     "name": "Nepal Bank Limited",
@@ -1337,57 +1477,77 @@
     "open": "254.10",
     "high": "257.70",
     "low": "257.70",
-    "qty": "4,219"
+    "qty": "7,956"
+  },
+  {
+    "name": "8% Nabil Debenture 2085",
+    "code": "NBLD85",
+    "ltp": "1,076.10",
+    "change_%": "2",
+    "open": "1,075.00",
+    "high": "1,076.10",
+    "low": "1,075.00",
+    "qty": "192"
   },
   {
     "name": "NESDO Sambridha Laghubitta Bittiye Sanstha Limited",
     "code": "NESDO",
-    "ltp": "1,598.00",
-    "change_%": "0.39",
+    "ltp": "1,567.00",
+    "change_%": "-1.55",
     "open": "1,560.00",
     "high": "1,599.00",
     "low": "1,560.00",
-    "qty": "351"
+    "qty": "461"
   },
   {
     "name": "Nepal Finance Ltd.",
     "code": "NFS",
-    "ltp": "698.00",
-    "change_%": "0.44",
-    "open": "695.00",
+    "ltp": "690.10",
+    "change_%": "-0.69",
+    "open": "690.10",
     "high": "701.00",
     "low": "700.00",
-    "qty": "2,506"
+    "qty": "4,031"
   },
   {
     "name": "Ngadi Group Power Ltd.",
     "code": "NGPL",
-    "ltp": "413.20",
-    "change_%": "0.39",
+    "ltp": "415.00",
+    "change_%": "0.83",
     "open": "410.00",
     "high": "417.80",
     "low": "413.20",
-    "qty": "43,862"
+    "qty": "85,917"
   },
   {
     "name": "Nepal Hydro Developers Ltd.",
     "code": "NHDL",
-    "ltp": "716.00",
-    "change_%": "-0.09",
+    "ltp": "723.50",
+    "change_%": "0.96",
     "open": "716.00",
     "high": "729.00",
     "low": "729.00",
-    "qty": "185"
+    "qty": "235"
   },
   {
     "name": "National Hydro Power Company Limited",
     "code": "NHPC",
-    "ltp": "211.00",
-    "change_%": "-0.18",
+    "ltp": "211.30",
+    "change_%": "-0.03",
     "open": "209.00",
     "high": "212.00",
     "low": "211.00",
-    "qty": "6,614"
+    "qty": "11,744"
+  },
+  {
+    "name": "NIBL Growth Fund",
+    "code": "NIBLGF",
+    "ltp": "9.40",
+    "change_%": "1.62",
+    "open": "9.30",
+    "high": "9.40",
+    "low": "9.30",
+    "qty": "200"
   },
   {
     "name": "NIBL Stable Fund",
@@ -1397,17 +1557,17 @@
     "open": "8.58",
     "high": "8.58",
     "low": "8.58",
-    "qty": "100"
+    "qty": "300"
   },
   {
     "name": "NIC Asia Bank Ltd.",
     "code": "NICA",
-    "ltp": "353.00",
-    "change_%": "0.44",
+    "ltp": "354.00",
+    "change_%": "0.73",
     "open": "351.00",
     "high": "355.00",
     "low": "352.00",
-    "qty": "7,256"
+    "qty": "12,601"
   },
   {
     "name": "NIC ASIA Flexi CAP Fund",
@@ -1422,62 +1582,62 @@
   {
     "name": "NIC Asia Growth Fund-2",
     "code": "NICGF2",
-    "ltp": "9.00",
-    "change_%": "3.45",
-    "open": "8.83",
+    "ltp": "8.82",
+    "change_%": "1.38",
+    "open": "8.82",
     "high": "9.00",
     "low": "8.83",
-    "qty": "20,923"
+    "qty": "23,223"
   },
   {
     "name": "Nepal Insurance Co. Ltd.",
     "code": "NICL",
-    "ltp": "620.10",
-    "change_%": "0.39",
-    "open": "620.10",
+    "ltp": "620.00",
+    "change_%": "0.37",
+    "open": "618.00",
     "high": "620.20",
     "low": "620.10",
-    "qty": "1,339"
+    "qty": "1,959"
   },
   {
     "name": "NIC Asia Laghubitta Biitiya Sanstha Limited",
     "code": "NICLBSL",
-    "ltp": "618.00",
-    "change_%": "-0.48",
+    "ltp": "620.00",
+    "change_%": "-0.15",
     "open": "615.00",
     "high": "625.80",
     "low": "620.00",
-    "qty": "580"
+    "qty": "1,739"
   },
   {
     "name": "Nepal Infrastructure Bank Limited",
     "code": "NIFRA",
-    "ltp": "286.10",
-    "change_%": "-0.66",
+    "ltp": "288.00",
+    "change_%": "0",
     "open": "282.30",
     "high": "290.00",
     "low": "282.30",
-    "qty": "31,979"
+    "qty": "40,100"
   },
   {
     "name": "Neco Insurance Co. Ltd.",
     "code": "NIL",
-    "ltp": "707.00",
-    "change_%": "-0.56",
+    "ltp": "710.00",
+    "change_%": "-0.14",
     "open": "707.00",
     "high": "725.00",
     "low": "711.00",
-    "qty": "1,013"
+    "qty": "1,191"
   },
   {
     "name": "Nepal Investment Mega Bank Limited ",
     "code": "NIMB",
-    "ltp": "211.30",
-    "change_%": "-0.88",
-    "open": "211.30",
+    "ltp": "213.00",
+    "change_%": "-0.08",
+    "open": "211.00",
     "high": "214.00",
     "low": "214.00",
-    "qty": "7,812"
+    "qty": "15,734"
   },
   {
     "name": "Nepal Investment Mega Bank Ltd. Promoter Share ",
@@ -1492,152 +1652,172 @@
   {
     "name": "NLG Insurance Company Ltd.",
     "code": "NLG",
-    "ltp": "835.00",
-    "change_%": "2.06",
+    "ltp": "858.00",
+    "change_%": "4.87",
     "open": "818.00",
-    "high": "842.00",
+    "high": "867.00",
     "low": "818.00",
-    "qty": "20,772"
+    "qty": "64,689"
   },
   {
     "name": "Nepal Life Insurance Co. Ltd.",
     "code": "NLIC",
-    "ltp": "790.00",
-    "change_%": "-0.38",
+    "ltp": "793.00",
+    "change_%": "0",
     "open": "777.90",
     "high": "797.00",
     "low": "777.90",
-    "qty": "3,126"
+    "qty": "5,761"
   },
   {
     "name": "National Life Insurance Co. Ltd.",
     "code": "NLICL",
-    "ltp": "610.00",
-    "change_%": "-0.92",
-    "open": "610.00",
+    "ltp": "613.00",
+    "change_%": "-0.43",
+    "open": "605.00",
     "high": "619.00",
     "low": "619.00",
-    "qty": "811"
+    "qty": "2,752"
   },
   {
     "name": "NMB Bank Limited",
     "code": "NMB",
-    "ltp": "250.00",
-    "change_%": "-1.29",
+    "ltp": "253.00",
+    "change_%": "-0.11",
     "open": "249.10",
     "high": "253.10",
     "low": "251.60",
-    "qty": "9,644"
+    "qty": "15,994"
   },
   {
     "name": "NMB 50",
     "code": "NMB50",
-    "ltp": "11.62",
-    "change_%": "1.75",
-    "open": "11.62",
+    "ltp": "11.60",
+    "change_%": "1.58",
+    "open": "11.60",
     "high": "11.62",
     "low": "11.62",
-    "qty": "2,000"
+    "qty": "7,400"
   },
   {
     "name": "NMB Hybrid Fund L-II",
     "code": "NMBHF2",
-    "ltp": "8.90",
-    "change_%": "-1.33",
+    "ltp": "9.05",
+    "change_%": "0.33",
     "open": "8.85",
-    "high": "9.02",
+    "high": "9.07",
     "low": "9.02",
-    "qty": "300"
+    "qty": "1,700"
   },
   {
     "name": "NMB Laghubitta Bittiya Sanstha Ltd.",
     "code": "NMBMF",
-    "ltp": "708.00",
-    "change_%": "-0.84",
+    "ltp": "709.00",
+    "change_%": "-0.7",
     "open": "702.00",
-    "high": "708.00",
+    "high": "709.00",
     "low": "702.00",
-    "qty": "31"
+    "qty": "265"
+  },
+  {
+    "name": "National Laghubitta Bittiya Sanstha Limited",
+    "code": "NMFBS",
+    "ltp": "1,309.70",
+    "change_%": "-0.22",
+    "open": "1,309.70",
+    "high": "1,309.70",
+    "low": "1,309.70",
+    "qty": "11"
   },
   {
     "name": "Nepal Micro Insurance Co. Ltd.",
     "code": "NMIC",
-    "ltp": "1,447.00",
-    "change_%": "-0.27",
+    "ltp": "1,442.70",
+    "change_%": "-0.56",
     "open": "1,422.00",
     "high": "1,460.60",
     "low": "1,422.00",
-    "qty": "2,285"
+    "qty": "3,715"
   },
   {
     "name": "Nerude Mirmire Laghubitta Bittiya Sanstha Limited",
     "code": "NMLBBL",
-    "ltp": "704.00",
-    "change_%": "1.22",
-    "open": "695.00",
+    "ltp": "690.00",
+    "change_%": "-0.79",
+    "open": "690.00",
     "high": "704.00",
     "low": "695.00",
-    "qty": "260"
+    "qty": "394"
   },
   {
     "name": "Nepal Re-Insurance Company Limited",
     "code": "NRIC",
-    "ltp": "1,728.10",
-    "change_%": "-0.22",
-    "open": "1,725.00",
+    "ltp": "1,728.50",
+    "change_%": "-0.2",
+    "open": "1,706.00",
     "high": "1,743.00",
     "low": "1,735.00",
-    "qty": "40,557"
+    "qty": "74,725"
   },
   {
     "name": "Nepal Republic Media Limited",
     "code": "NRM",
-    "ltp": "529.00",
-    "change_%": "-1.08",
-    "open": "528.50",
-    "high": "542.90",
+    "ltp": "543.90",
+    "change_%": "1.7",
+    "open": "528.10",
+    "high": "545.00",
     "low": "535.00",
-    "qty": "17,931"
+    "qty": "35,624"
   },
   {
     "name": "NRN Infrastructure and Development Limited",
     "code": "NRN",
-    "ltp": "2,177.00",
-    "change_%": "0.1",
-    "open": "2,171.00",
+    "ltp": "2,179.00",
+    "change_%": "0.2",
+    "open": "2,161.00",
     "high": "2,185.00",
     "low": "2,175.00",
-    "qty": "1,228"
+    "qty": "10,150"
+  },
+  {
+    "name": "NMB Sulav Investment Fund - 2",
+    "code": "NSIF2",
+    "ltp": "11.45",
+    "change_%": "1.87",
+    "open": "11.25",
+    "high": "11.45",
+    "low": "11.25",
+    "qty": "350"
   },
   {
     "name": "Nepal Doorsanchar Comapany Limited",
     "code": "NTC",
-    "ltp": "852.50",
-    "change_%": "0.05",
-    "open": "852.00",
+    "ltp": "850.00",
+    "change_%": "-0.24",
+    "open": "850.00",
     "high": "868.80",
     "low": "868.80",
-    "qty": "1,576"
+    "qty": "6,962"
   },
   {
     "name": "Nirdhan Utthan Laghubitta Bittiya Sanstha Limited",
     "code": "NUBL",
-    "ltp": "800.30",
-    "change_%": "-0.34",
+    "ltp": "801.00",
+    "change_%": "-0.25",
     "open": "787.00",
     "high": "802.70",
     "low": "787.00",
-    "qty": "1,406"
+    "qty": "5,178"
   },
   {
     "name": "Nepal Warehousing Company Limited",
     "code": "NWCL",
-    "ltp": "905.20",
-    "change_%": "-0.43",
+    "ltp": "910.00",
+    "change_%": "0.1",
     "open": "904.40",
-    "high": "905.20",
+    "high": "910.00",
     "low": "904.40",
-    "qty": "40"
+    "qty": "60"
   },
   {
     "name": "Nyadi Hydropower Limited",
@@ -1647,227 +1827,237 @@
     "open": "420.60",
     "high": "435.00",
     "low": "420.60",
-    "qty": "100"
+    "qty": "1,688"
   },
   {
     "name": "Oriental Hotels Limited",
     "code": "OHL",
-    "ltp": "896.00",
-    "change_%": "-0.69",
+    "ltp": "885.00",
+    "change_%": "-1.91",
     "open": "883.50",
     "high": "916.00",
     "low": "916.00",
-    "qty": "2,352"
+    "qty": "3,783"
   },
   {
     "name": "Om Megashree Pharmaceuticals Limited",
     "code": "OMPL",
-    "ltp": "1,388.00",
-    "change_%": "1.26",
+    "ltp": "1,368.00",
+    "change_%": "-0.2",
     "open": "1,350.10",
     "high": "1,397.00",
     "low": "1,350.10",
-    "qty": "584"
+    "qty": "1,170"
   },
   {
     "name": "Prime Commercial Bank Ltd.",
     "code": "PCBL",
-    "ltp": "261.00",
-    "change_%": "0.18",
+    "ltp": "258.20",
+    "change_%": "-0.9",
     "open": "258.00",
     "high": "261.50",
     "low": "258.00",
-    "qty": "6,888"
+    "qty": "11,262"
   },
   {
     "name": "Pokhara Finance Ltd.",
     "code": "PFL",
-    "ltp": "415.00",
-    "change_%": "1.08",
-    "open": "414.90",
+    "ltp": "410.00",
+    "change_%": "-0.14",
+    "open": "410.00",
     "high": "415.90",
     "low": "415.90",
-    "qty": "310"
+    "qty": "1,294"
   },
   {
     "name": "Peoples Hydropower Company Limited",
     "code": "PHCL",
-    "ltp": "463.00",
-    "change_%": "0.22",
+    "ltp": "465.00",
+    "change_%": "0.66",
     "open": "455.50",
     "high": "468.10",
     "low": "455.50",
-    "qty": "215"
+    "qty": "375"
   },
   {
     "name": "Panchakanya Mai Hydropower Ltd",
     "code": "PMHPL",
-    "ltp": "413.30",
-    "change_%": "0.23",
-    "open": "410.00",
+    "ltp": "410.00",
+    "change_%": "-0.57",
+    "open": "406.60",
     "high": "417.00",
     "low": "414.00",
-    "qty": "15,345"
+    "qty": "23,271"
   },
   {
     "name": "Prabhu Mahalaxmi Life Insurance Limited",
     "code": "PMLI",
-    "ltp": "510.00",
-    "change_%": "-0.9",
+    "ltp": "513.00",
+    "change_%": "-0.32",
     "open": "510.00",
     "high": "523.30",
     "low": "513.10",
-    "qty": "488"
+    "qty": "918"
   },
   {
     "name": "Panchthar Power Company Limited",
     "code": "PPCL",
-    "ltp": "343.50",
-    "change_%": "-0.46",
+    "ltp": "346.00",
+    "change_%": "0.26",
     "open": "340.00",
     "high": "346.80",
     "low": "340.00",
-    "qty": "410"
+    "qty": "535"
   },
   {
     "name": "Peopl",
     "code": "PPL",
-    "ltp": "355.00",
-    "change_%": "1.7",
+    "ltp": "355.10",
+    "change_%": "1.73",
     "open": "350.00",
     "high": "358.00",
     "low": "350.00",
-    "qty": "3,206"
+    "qty": "3,711"
   },
   {
     "name": "Prabhu Insurance Ltd.",
     "code": "PRIN",
-    "ltp": "780.10",
-    "change_%": "-0.49",
-    "open": "780.10",
+    "ltp": "780.00",
+    "change_%": "-0.51",
+    "open": "780.00",
     "high": "796.00",
     "low": "796.00",
-    "qty": "1,534"
+    "qty": "1,806"
   },
   {
     "name": "Progressive Finance Limited",
     "code": "PROFL",
-    "ltp": "510.00",
-    "change_%": "1.85",
+    "ltp": "505.00",
+    "change_%": "0.85",
     "open": "497.30",
     "high": "510.00",
     "low": "497.30",
-    "qty": "670"
+    "qty": "770"
   },
   {
     "name": "Prabhu Smart Fund",
     "code": "PRSF",
-    "ltp": "11.42",
-    "change_%": "1.51",
-    "open": "11.42",
+    "ltp": "11.28",
+    "change_%": "0.27",
+    "open": "11.27",
     "high": "11.65",
     "low": "11.47",
-    "qty": "1,700"
+    "qty": "65,928"
   },
   {
     "name": "Prabhu Bank Limited",
     "code": "PRVU",
-    "ltp": "215.00",
-    "change_%": "0.58",
+    "ltp": "215.90",
+    "change_%": "1",
     "open": "212.00",
     "high": "217.00",
     "low": "213.70",
-    "qty": "19,251"
+    "qty": "26,178"
   },
   {
     "name": "Pure Energy Ltd.",
     "code": "PURE",
-    "ltp": "936.00",
-    "change_%": "-0.46",
+    "ltp": "934.00",
+    "change_%": "-0.67",
     "open": "925.10",
     "high": "950.00",
     "low": "925.10",
-    "qty": "340"
+    "qty": "1,130"
   },
   {
     "name": "Radhi Bidyut Company Ltd",
     "code": "RADHI",
-    "ltp": "778.10",
-    "change_%": "0.33",
+    "ltp": "783.70",
+    "change_%": "1.05",
     "open": "773.20",
     "high": "784.80",
     "low": "778.50",
-    "qty": "12,875"
+    "qty": "30,245"
   },
   {
     "name": "Rawa Energy Development Limited",
     "code": "RAWA",
-    "ltp": "760.10",
-    "change_%": "-1.91",
-    "open": "760.00",
-    "high": "761.50",
+    "ltp": "770.00",
+    "change_%": "-0.63",
+    "open": "751.00",
+    "high": "770.00",
     "low": "760.00",
-    "qty": "210"
+    "qty": "430"
+  },
+  {
+    "name": "7% RBBL Debenture 2088 ",
+    "code": "RBBD2088",
+    "ltp": "990.10",
+    "change_%": "-0.99",
+    "open": "990.10",
+    "high": "990.10",
+    "low": "990.10",
+    "qty": "25"
   },
   {
     "name": "River Falls Power Limited",
     "code": "RFPL",
-    "ltp": "381.00",
-    "change_%": "-0.28",
+    "ltp": "385.00",
+    "change_%": "0.77",
     "open": "379.00",
     "high": "388.00",
     "low": "379.00",
-    "qty": "158"
+    "qty": "619"
   },
   {
     "name": "Rapti Hydro and General Construction Limited",
     "code": "RHGCL",
-    "ltp": "302.20",
-    "change_%": "-0.56",
-    "open": "300.40",
+    "ltp": "305.80",
+    "change_%": "0.63",
+    "open": "300.00",
     "high": "306.00",
     "low": "300.40",
-    "qty": "271"
+    "qty": "6,604"
   },
   {
     "name": "RASUWAGADHI HYDROPOWER COMPANY LIMITED",
     "code": "RHPL",
-    "ltp": "308.00",
-    "change_%": "-0.11",
+    "ltp": "309.50",
+    "change_%": "0.37",
     "open": "308.00",
     "high": "314.50",
     "low": "309.00",
-    "qty": "5,557"
+    "qty": "7,709"
   },
   {
     "name": "Ridi Power Company Limited",
     "code": "RIDI",
-    "ltp": "254.00",
-    "change_%": "0.95",
-    "open": "253.00",
+    "ltp": "253.00",
+    "change_%": "0.55",
+    "open": "250.50",
     "high": "255.00",
     "low": "253.00",
-    "qty": "2,312"
+    "qty": "18,443"
   },
   {
     "name": "Reliance Finance Ltd.",
     "code": "RLFL",
-    "ltp": "482.00",
-    "change_%": "-0.66",
+    "ltp": "484.00",
+    "change_%": "-0.25",
     "open": "482.00",
     "high": "491.80",
     "low": "491.80",
-    "qty": "2,814"
+    "qty": "4,454"
   },
   {
     "name": "RBB Mutual Fund 1",
     "code": "RMF1",
-    "ltp": "9.00",
-    "change_%": "0",
-    "open": "9.00",
+    "ltp": "8.92",
+    "change_%": "-0.89",
+    "open": "8.92",
     "high": "9.18",
     "low": "9.18",
-    "qty": "2,300"
+    "qty": "2,700"
   },
   {
     "name": "RBB Mutual Fund 2",
@@ -1882,12 +2072,12 @@
   {
     "name": "Reliable Nepal Life Insurance Limited",
     "code": "RNLI",
-    "ltp": "490.00",
-    "change_%": "0.16",
+    "ltp": "488.10",
+    "change_%": "-0.23",
     "open": "488.00",
     "high": "495.00",
     "low": "491.00",
-    "qty": "51,071"
+    "qty": "58,397"
   },
   {
     "name": "RSDC Laghubitta Bittiya Sanstha Ltd.",
@@ -1897,117 +2087,117 @@
     "open": "698.20",
     "high": "709.00",
     "low": "700.10",
-    "qty": "1,853"
+    "qty": "3,173"
   },
   {
     "name": "Reliable Samriddhi Yojana",
     "code": "RSY",
-    "ltp": "8.90",
-    "change_%": "-3.26",
+    "ltp": "9.15",
+    "change_%": "-0.54",
     "open": "8.90",
-    "high": "9.02",
+    "high": "9.15",
     "low": "9.02",
-    "qty": "500"
+    "qty": "700"
   },
   {
     "name": "Ru Ru Jalbidhyut Pariyojana Limited",
     "code": "RURU",
-    "ltp": "745.40",
-    "change_%": "0",
+    "ltp": "745.60",
+    "change_%": "0.03",
     "open": "745.40",
-    "high": "745.40",
+    "high": "750.00",
     "low": "745.40",
-    "qty": "13"
+    "qty": "170"
   },
   {
     "name": "Shangrila Development Bank Ltd.",
     "code": "SADBL",
-    "ltp": "446.00",
-    "change_%": "-0.61",
-    "open": "445.00",
+    "ltp": "446.80",
+    "change_%": "-0.43",
+    "open": "444.00",
     "high": "453.00",
     "low": "445.00",
-    "qty": "24,889"
+    "qty": "32,275"
   },
   {
     "name": "Sanima Growth Fund",
     "code": "SAGF",
-    "ltp": "9.45",
-    "change_%": "0.32",
+    "ltp": "9.27",
+    "change_%": "-1.59",
     "open": "9.27",
     "high": "9.45",
     "low": "9.27",
-    "qty": "38,004"
+    "qty": "38,104"
   },
   {
     "name": "Sahas Urja Limited",
     "code": "SAHAS",
-    "ltp": "664.00",
-    "change_%": "0.52",
+    "ltp": "665.00",
+    "change_%": "0.68",
     "open": "656.10",
     "high": "669.00",
     "low": "661.00",
-    "qty": "9,677"
+    "qty": "19,724"
   },
   {
     "name": "Sagarmatha Lumbini Insurance Co. Limited",
     "code": "SALICO",
-    "ltp": "670.20",
-    "change_%": "-1.54",
+    "ltp": "689.90",
+    "change_%": "1.36",
     "open": "670.20",
-    "high": "685.10",
+    "high": "689.90",
     "low": "685.10",
-    "qty": "1,000"
+    "qty": "1,020"
   },
   {
     "name": "Samaj Laghubittya Bittiya Sanstha Limited",
     "code": "SAMAJ",
-    "ltp": "2,843.90",
-    "change_%": "-2.37",
+    "ltp": "2,900.00",
+    "change_%": "-0.44",
     "open": "2,843.90",
     "high": "2,971.10",
     "low": "2,971.10",
-    "qty": "239"
+    "qty": "370"
   },
   {
     "name": "Sanima Bank Limited",
     "code": "SANIMA",
-    "ltp": "370.00",
-    "change_%": "-0.33",
+    "ltp": "371.60",
+    "change_%": "0.1",
     "open": "365.00",
     "high": "372.60",
     "low": "369.90",
-    "qty": "15,514"
+    "qty": "25,711"
   },
   {
     "name": "Sanvi Energy Limited",
     "code": "SANVI",
-    "ltp": "710.00",
-    "change_%": "-0.14",
-    "open": "708.10",
+    "ltp": "708.00",
+    "change_%": "-0.42",
+    "open": "705.00",
     "high": "720.00",
     "low": "710.00",
-    "qty": "2,570"
+    "qty": "5,079"
   },
   {
     "name": "Saptakoshi Development Bank Ltd",
     "code": "SAPDBL",
-    "ltp": "870.00",
-    "change_%": "2.61",
+    "ltp": "860.00",
+    "change_%": "1.43",
     "open": "845.10",
-    "high": "870.00",
+    "high": "871.00",
     "low": "854.00",
-    "qty": "2,752"
+    "qty": "8,001"
   },
   {
     "name": "Sarbottam Cement Limited",
     "code": "SARBTM",
-    "ltp": "927.00",
-    "change_%": "-0.02",
-    "open": "927.00",
+    "ltp": "931.80",
+    "change_%": "0.5",
+    "open": "923.00",
     "high": "937.00",
     "low": "930.00",
-    "qty": "7,386"
+    "qty": "7,687"
   },
   {
     "name": "Nepal SBI Bank Limited",
@@ -2015,29 +2205,39 @@
     "ltp": "390.00",
     "change_%": "-1.04",
     "open": "387.50",
-    "high": "390.00",
+    "high": "393.00",
     "low": "387.50",
-    "qty": "94"
+    "qty": "694"
+  },
+  {
+    "name": "10.25% Nepal SBI Bank Debenture 2083",
+    "code": "SBID83",
+    "ltp": "1,081.00",
+    "change_%": "-1.5",
+    "open": "1,081.00",
+    "high": "1,095.00",
+    "low": "1,095.00",
+    "qty": "75"
   },
   {
     "name": "Siddhartha Bank Limited",
     "code": "SBL",
-    "ltp": "370.00",
-    "change_%": "-0.4",
-    "open": "370.00",
+    "ltp": "377.00",
+    "change_%": "1.49",
+    "open": "369.40",
     "high": "378.00",
     "low": "378.00",
-    "qty": "16,447"
+    "qty": "31,609"
   },
   {
     "name": "Standard Chartered Bank Limited",
     "code": "SCB",
-    "ltp": "634.70",
-    "change_%": "0.54",
+    "ltp": "632.50",
+    "change_%": "0.19",
     "open": "623.00",
     "high": "634.70",
     "low": "623.00",
-    "qty": "40"
+    "qty": "868"
   },
   {
     "name": "Siddhartha Equity Fund",
@@ -2055,99 +2255,119 @@
     "ltp": "466.00",
     "change_%": "0.03",
     "open": "466.00",
-    "high": "466.00",
+    "high": "468.00",
     "low": "466.00",
-    "qty": "125"
+    "qty": "1,255"
+  },
+  {
+    "name": "Sunrise Focused Equity Fund",
+    "code": "SFEF",
+    "ltp": "9.03",
+    "change_%": "-1.31",
+    "open": "9.03",
+    "high": "9.03",
+    "low": "9.03",
+    "qty": "200"
+  },
+  {
+    "name": "Sunrise First Mutual Fund",
+    "code": "SFMF",
+    "ltp": "9.50",
+    "change_%": "1.06",
+    "open": "9.50",
+    "high": "9.52",
+    "low": "9.52",
+    "qty": "2,000"
   },
   {
     "name": "Swet-Ganga Hydropower & Construction Limited ",
     "code": "SGHC",
-    "ltp": "372.00",
-    "change_%": "0.44",
+    "ltp": "383.00",
+    "change_%": "3.41",
     "open": "366.00",
-    "high": "379.90",
+    "high": "386.00",
     "low": "366.00",
-    "qty": "580"
+    "qty": "4,982"
   },
   {
     "name": "Sanima GIC Insurance Limited",
     "code": "SGIC",
-    "ltp": "575.60",
-    "change_%": "-0.18",
+    "ltp": "578.00",
+    "change_%": "0.24",
     "open": "571.10",
     "high": "578.00",
     "low": "571.10",
-    "qty": "67"
+    "qty": "1,144"
   },
   {
     "name": "Singati Hydro Energy Limited",
     "code": "SHEL",
-    "ltp": "317.00",
-    "change_%": "-0.08",
+    "ltp": "318.20",
+    "change_%": "0.3",
     "open": "313.00",
     "high": "321.00",
     "low": "320.00",
-    "qty": "40,933"
+    "qty": "92,576"
   },
   {
     "name": "Shine Resunga Development Bank Ltd.",
     "code": "SHINE",
-    "ltp": "441.50",
-    "change_%": "-0.01",
-    "open": "440.00",
+    "ltp": "439.90",
+    "change_%": "-0.37",
+    "open": "438.10",
     "high": "443.00",
     "low": "443.00",
-    "qty": "3,462"
+    "qty": "5,112"
   },
   {
     "name": "SHIVAM CEMENTS LTD",
     "code": "SHIVM",
-    "ltp": "631.10",
-    "change_%": "-0.58",
-    "open": "631.10",
+    "ltp": "639.00",
+    "change_%": "0.66",
+    "open": "630.00",
     "high": "645.00",
     "low": "635.00",
-    "qty": "35,218"
+    "qty": "69,777"
   },
   {
     "name": "Soaltee Hotel Limited",
     "code": "SHL",
-    "ltp": "571.10",
-    "change_%": "-0.01",
-    "open": "571.00",
+    "ltp": "571.60",
+    "change_%": "0.08",
+    "open": "560.00",
     "high": "573.00",
     "low": "571.00",
-    "qty": "3,841"
+    "qty": "14,475"
   },
   {
     "name": "Shrijanshil Laghubitta Bittiya Sanstha Limited",
     "code": "SHLB",
-    "ltp": "1,918.00",
-    "change_%": "0",
-    "open": "1,918.00",
+    "ltp": "1,900.00",
+    "change_%": "-0.94",
+    "open": "1,900.00",
     "high": "1,918.00",
     "low": "1,918.00",
-    "qty": "10"
+    "qty": "20"
   },
   {
     "name": "Sanima Mai Hydropower Ltd.",
     "code": "SHPC",
-    "ltp": "578.50",
-    "change_%": "0.38",
+    "ltp": "581.00",
+    "change_%": "0.82",
     "open": "576.10",
     "high": "587.80",
     "low": "587.80",
-    "qty": "12,470"
+    "qty": "45,934"
   },
   {
     "name": "Shikhar Insurance Co. Ltd.",
     "code": "SICL",
-    "ltp": "757.00",
-    "change_%": "1.69",
-    "open": "756.00",
+    "ltp": "754.80",
+    "change_%": "1.4",
+    "open": "746.00",
     "high": "757.00",
     "low": "757.00",
-    "qty": "242"
+    "qty": "390"
   },
   {
     "name": "Shree Investment Finance Co. Ltd.",
@@ -2157,7 +2377,7 @@
     "open": "520.00",
     "high": "520.20",
     "low": "520.00",
-    "qty": "1,125"
+    "qty": "1,225"
   },
   {
     "name": "Siddhartha Investment Growth Scheme - 2",
@@ -2172,32 +2392,32 @@
   {
     "name": "Sikles Hydropower Limited",
     "code": "SIKLES",
-    "ltp": "868.00",
-    "change_%": "0.29",
-    "open": "864.40",
+    "ltp": "865.00",
+    "change_%": "-0.05",
+    "open": "851.00",
     "high": "879.80",
     "low": "864.40",
-    "qty": "508"
+    "qty": "2,329"
   },
   {
     "name": "Sindhu Bikash Bank Ltd",
     "code": "SINDU",
-    "ltp": "760.00",
-    "change_%": "-0.52",
+    "ltp": "764.00",
+    "change_%": "0",
     "open": "760.00",
     "high": "773.50",
     "low": "773.50",
-    "qty": "1,203"
+    "qty": "2,247"
   },
   {
     "name": "SANJEN JALAVIDHYUT COMPANY LIMITED",
     "code": "SJCL",
-    "ltp": "304.10",
-    "change_%": "-0.42",
+    "ltp": "305.00",
+    "change_%": "-0.12",
     "open": "301.90",
     "high": "311.40",
     "low": "311.40",
-    "qty": "115"
+    "qty": "405"
   },
   {
     "name": "SuryaJyoti Life Insurance Company Limited",
@@ -2207,67 +2427,67 @@
     "open": "440.10",
     "high": "448.00",
     "low": "440.10",
-    "qty": "160"
+    "qty": "590"
   },
   {
     "name": "Sana Kisan Bikas Laghubitta Bittiya sanstha Limited.",
     "code": "SKBBL",
-    "ltp": "932.60",
-    "change_%": "-0.66",
-    "open": "932.30",
+    "ltp": "933.20",
+    "change_%": "-0.6",
+    "open": "927.10",
     "high": "940.00",
     "low": "935.80",
-    "qty": "6,952"
+    "qty": "13,938"
   },
   {
     "name": "Swarojgar Laghubitta Bittiya Sanstha Ltd.",
     "code": "SLBBL",
-    "ltp": "990.00",
-    "change_%": "0.61",
-    "open": "976.00",
+    "ltp": "985.90",
+    "change_%": "0.19",
+    "open": "975.00",
     "high": "990.00",
     "low": "976.00",
-    "qty": "230"
+    "qty": "3,495"
   },
   {
     "name": "Samudayik Laghubitta Bittiya Sanstha Limited",
     "code": "SLBSL",
-    "ltp": "1,530.00",
-    "change_%": "0.41",
+    "ltp": "1,501.00",
+    "change_%": "-1.49",
     "open": "1,500.00",
     "high": "1,530.00",
     "low": "1,520.00",
-    "qty": "850"
+    "qty": "2,819"
   },
   {
     "name": "Sanima Large Cap Fund",
     "code": "SLCF",
-    "ltp": "9.11",
-    "change_%": "-1.83",
+    "ltp": "9.21",
+    "change_%": "-0.75",
     "open": "9.11",
-    "high": "9.11",
+    "high": "9.21",
     "low": "9.11",
-    "qty": "200"
+    "qty": "400"
   },
   {
     "name": "Samata Gharelu Laghubitta Bittiya Sanstha Limited",
     "code": "SMATA",
-    "ltp": "987.00",
-    "change_%": "3.03",
+    "ltp": "1,004.90",
+    "change_%": "4.9",
     "open": "938.90",
     "high": "1,020.00",
     "low": "938.90",
-    "qty": "7,292"
+    "qty": "16,460"
   },
   {
     "name": "Support Microfinance Bittiya Sanstha Ltd.",
     "code": "SMB",
-    "ltp": "2,310.00",
-    "change_%": "0.43",
+    "ltp": "2,321.00",
+    "change_%": "0.91",
     "open": "2,310.00",
-    "high": "2,310.00",
+    "high": "2,321.00",
     "low": "2,310.00",
-    "qty": "10"
+    "qty": "20"
   },
   {
     "name": "Swabhimaan Laghubitta Bittiya Sanstha Ltd",
@@ -2282,22 +2502,22 @@
   {
     "name": "Super Madi Hydropower Limited",
     "code": "SMHL",
-    "ltp": "915.00",
-    "change_%": "-1.13",
+    "ltp": "918.00",
+    "change_%": "-0.81",
     "open": "915.00",
     "high": "920.00",
     "low": "920.00",
-    "qty": "20"
+    "qty": "948"
   },
   {
     "name": "Sagarmatha Jalabidhyut Company Limited",
     "code": "SMJC",
-    "ltp": "581.20",
-    "change_%": "-0.29",
+    "ltp": "589.00",
+    "change_%": "1.04",
     "open": "580.00",
-    "high": "588.00",
+    "high": "589.00",
     "low": "580.00",
-    "qty": "116"
+    "qty": "1,788"
   },
   {
     "name": "Sampada Laghubitta Bittiya Sanstha Limited",
@@ -2307,67 +2527,67 @@
     "open": "916.70",
     "high": "969.00",
     "low": "935.40",
-    "qty": "208"
+    "qty": "264"
   },
   {
     "name": "Sun Nepal Life Insurance Company Limited",
     "code": "SNLI",
-    "ltp": "483.00",
-    "change_%": "0.85",
+    "ltp": "481.50",
+    "change_%": "0.53",
     "open": "480.00",
     "high": "488.40",
     "low": "488.40",
-    "qty": "1,707"
+    "qty": "2,167"
   },
   {
     "name": "Sonapur Minerals and Oil Limited",
     "code": "SONA",
-    "ltp": "464.60",
-    "change_%": "0.03",
+    "ltp": "466.00",
+    "change_%": "0.33",
     "open": "460.10",
     "high": "468.00",
     "low": "468.00",
-    "qty": "1,160"
+    "qty": "5,370"
   },
   {
     "name": "Samling Power Company Limited",
     "code": "SPC",
-    "ltp": "531.00",
-    "change_%": "-0.32",
+    "ltp": "537.20",
+    "change_%": "0.84",
     "open": "530.00",
-    "high": "531.10",
+    "high": "537.20",
     "low": "530.00",
-    "qty": "360"
+    "qty": "1,456"
   },
   {
     "name": "Synergy Power Development Ltd.",
     "code": "SPDL",
-    "ltp": "415.10",
-    "change_%": "0.66",
+    "ltp": "416.00",
+    "change_%": "0.88",
     "open": "404.20",
     "high": "420.00",
     "low": "404.20",
-    "qty": "18,436"
+    "qty": "22,454"
   },
   {
     "name": "Sayapatri Hydropower Limited",
     "code": "SPHL",
-    "ltp": "572.20",
-    "change_%": "-1.86",
+    "ltp": "592.50",
+    "change_%": "1.63",
     "open": "572.20",
-    "high": "572.20",
+    "high": "592.50",
     "low": "572.20",
-    "qty": "10"
+    "qty": "30"
   },
   {
     "name": "Siddhartha Premier Insurance Limited",
     "code": "SPIL",
-    "ltp": "820.21",
-    "change_%": "0",
+    "ltp": "828.00",
+    "change_%": "0.95",
     "open": "820.21",
-    "high": "820.21",
+    "high": "828.00",
     "low": "820.21",
-    "qty": "16"
+    "qty": "351"
   },
   {
     "name": "Shuvam Power Company Limited",
@@ -2377,256 +2597,286 @@
     "open": "953.00",
     "high": "991.00",
     "low": "953.00",
-    "qty": "40"
+    "qty": "71"
+  },
+  {
+    "name": "10.25% Sunrise Bank Debenture 2083",
+    "code": "SRBLD83",
+    "ltp": "1,057.00",
+    "change_%": "-1.6",
+    "open": "1,057.00",
+    "high": "1,057.00",
+    "low": "1,057.00",
+    "qty": "50"
   },
   {
     "name": "Sanima Reliance Life Insurance Limited",
     "code": "SRLI",
-    "ltp": "407.00",
-    "change_%": "-0.15",
+    "ltp": "408.00",
+    "change_%": "0.09",
     "open": "405.50",
-    "high": "407.63",
+    "high": "408.00",
     "low": "407.63",
-    "qty": "1,226"
+    "qty": "2,695"
   },
   {
     "name": "Shiva Shree Hydropower Limited",
     "code": "SSHL",
-    "ltp": "192.00",
-    "change_%": "0.14",
+    "ltp": "192.60",
+    "change_%": "0.45",
     "open": "190.00",
     "high": "195.00",
     "low": "193.00",
-    "qty": "13,424"
+    "qty": "14,305"
   },
   {
     "name": "Salt Trading Corporation",
     "code": "STC",
-    "ltp": "5,369.00",
-    "change_%": "1.23",
-    "open": "5,349.00",
+    "ltp": "5,300.10",
+    "change_%": "-0.07",
+    "open": "5,300.10",
     "high": "5,375.00",
     "low": "5,349.00",
-    "qty": "58"
+    "qty": "68"
   },
   {
     "name": "Swabalamban Laghubitta Bittiya Sanstha Limited",
     "code": "SWBBL",
-    "ltp": "885.00",
-    "change_%": "0.28",
-    "open": "885.00",
+    "ltp": "876.10",
+    "change_%": "-0.73",
+    "open": "876.10",
     "high": "890.00",
     "low": "890.00",
-    "qty": "75"
+    "qty": "828"
   },
   {
     "name": "Suryodaya Womi Laghubitta Bittiya Sanstha Limited ",
     "code": "SWMF",
-    "ltp": "736.00",
-    "change_%": "-0.92",
+    "ltp": "744.00",
+    "change_%": "0.15",
     "open": "734.00",
-    "high": "736.20",
+    "high": "744.00",
     "low": "734.00",
-    "qty": "326"
+    "qty": "616"
   },
   {
     "name": "Sanima Middle Tamor Hydropower Limited",
     "code": "TAMOR",
-    "ltp": "525.00",
-    "change_%": "1.48",
-    "open": "517.00",
+    "ltp": "516.50",
+    "change_%": "-0.16",
+    "open": "515.00",
     "high": "525.00",
     "low": "522.00",
-    "qty": "5,814"
+    "qty": "12,997"
   },
   {
     "name": "Terhathum Power Company Limited",
     "code": "TPC",
-    "ltp": "360.00",
-    "change_%": "0.01",
+    "ltp": "363.80",
+    "change_%": "1.06",
     "open": "360.00",
     "high": "365.00",
     "low": "365.00",
-    "qty": "1,020"
+    "qty": "1,244"
   },
   {
     "name": "Taragaon Regency Hotel Limited",
     "code": "TRH",
-    "ltp": "981.00",
-    "change_%": "0.59",
-    "open": "981.00",
+    "ltp": "980.00",
+    "change_%": "0.49",
+    "open": "975.00",
     "high": "992.00",
     "low": "992.00",
-    "qty": "39"
+    "qty": "1,316"
   },
   {
     "name": "Three Star Hydropower Limited",
     "code": "TSHL",
-    "ltp": "815.10",
-    "change_%": "-1.21",
+    "ltp": "840.00",
+    "change_%": "1.81",
     "open": "815.10",
-    "high": "815.10",
+    "high": "841.50",
     "low": "815.10",
-    "qty": "10"
+    "qty": "1,795"
   },
   {
     "name": "Trade Tower Limited",
     "code": "TTL",
-    "ltp": "891.00",
-    "change_%": "0.2",
+    "ltp": "886.00",
+    "change_%": "-0.36",
     "open": "879.00",
     "high": "896.00",
     "low": "879.00",
-    "qty": "2,483"
+    "qty": "5,237"
   },
   {
     "name": "Trishuli Jal Vidhyut Company Limited",
     "code": "TVCL",
-    "ltp": "475.10",
-    "change_%": "-0.14",
+    "ltp": "476.40",
+    "change_%": "0.13",
     "open": "470.10",
     "high": "484.00",
     "low": "484.00",
-    "qty": "160"
+    "qty": "380"
   },
   {
     "name": "United Ajod Insurance Limited ",
     "code": "UAIL",
-    "ltp": "530.00",
-    "change_%": "-0.34",
-    "open": "530.00",
+    "ltp": "536.60",
+    "change_%": "0.9",
+    "open": "528.00",
     "high": "538.90",
     "low": "538.90",
-    "qty": "4,788"
+    "qty": "13,082"
   },
   {
     "name": "Upper Hewakhola Hydropower Company Limited",
     "code": "UHEWA",
-    "ltp": "604.30",
-    "change_%": "-0.31",
+    "ltp": "603.30",
+    "change_%": "-0.47",
     "open": "596.10",
-    "high": "610.00",
+    "high": "614.00",
     "low": "596.10",
-    "qty": "730"
+    "qty": "2,970"
   },
   {
     "name": "Upakar Laghubitta Bittiya Sanstha Limited",
     "code": "ULBSL",
-    "ltp": "3,550.00",
-    "change_%": "-2.01",
+    "ltp": "3,531.10",
+    "change_%": "-2.54",
     "open": "3,500.00",
     "high": "3,552.00",
     "low": "3,552.00",
-    "qty": "46"
+    "qty": "253"
   },
   {
     "name": "Upper Lohore Khola Hydropower Company Limited",
     "code": "ULHC",
-    "ltp": "500.10",
-    "change_%": "1.3",
+    "ltp": "504.00",
+    "change_%": "2.09",
     "open": "493.00",
     "high": "510.00",
     "low": "493.00",
-    "qty": "820"
+    "qty": "1,698"
   },
   {
     "name": "United Modi Hydropower Ltd.",
     "code": "UMHL",
-    "ltp": "577.00",
-    "change_%": "-0.7",
+    "ltp": "576.10",
+    "change_%": "-0.85",
     "open": "576.00",
     "high": "582.00",
     "low": "582.00",
-    "qty": "29,436"
+    "qty": "63,314"
   },
   {
     "name": "United IDI Mardi RB Hydropower Limited.",
     "code": "UMRH",
-    "ltp": "610.00",
-    "change_%": "-0.02",
+    "ltp": "616.00",
+    "change_%": "0.96",
     "open": "605.10",
     "high": "621.00",
     "low": "621.00",
-    "qty": "3,674"
+    "qty": "4,119"
   },
   {
     "name": "Union Hydropower Limited",
     "code": "UNHPL",
-    "ltp": "402.10",
-    "change_%": "-0.39",
-    "open": "398.90",
+    "ltp": "409.00",
+    "change_%": "1.32",
+    "open": "396.90",
     "high": "410.00",
     "low": "405.00",
-    "qty": "23,630"
+    "qty": "71,033"
+  },
+  {
+    "name": "Unique Nepal Laghubitta Bittiya Sanstha Limited",
+    "code": "UNLB",
+    "ltp": "2,204.00",
+    "change_%": "2",
+    "open": "2,204.00",
+    "high": "2,204.00",
+    "low": "2,204.00",
+    "qty": "40"
   },
   {
     "name": "UNIVERSAL POWER COMPANY LTD",
     "code": "UPCL",
-    "ltp": "403.00",
-    "change_%": "0.74",
+    "ltp": "404.00",
+    "change_%": "0.99",
     "open": "400.50",
     "high": "406.00",
     "low": "400.50",
-    "qty": "18,246"
+    "qty": "49,034"
   },
   {
     "name": "Upper Tamakoshi Hydropower Ltd",
     "code": "UPPER",
-    "ltp": "196.00",
-    "change_%": "0.32",
+    "ltp": "195.00",
+    "change_%": "-0.19",
     "open": "194.50",
     "high": "199.20",
     "low": "199.20",
-    "qty": "6,213"
+    "qty": "13,748"
   },
   {
     "name": "Upper Solu Hydro Electric Company Limited ",
     "code": "USHEC",
-    "ltp": "472.30",
-    "change_%": "-0.08",
+    "ltp": "473.30",
+    "change_%": "0.13",
     "open": "472.10",
-    "high": "472.50",
+    "high": "478.90",
     "low": "472.10",
-    "qty": "120"
+    "qty": "7,674"
   },
   {
     "name": "Upper Syange  Hydropower Limited",
     "code": "USHL",
-    "ltp": "764.00",
-    "change_%": "-0.45",
-    "open": "764.00",
+    "ltp": "762.00",
+    "change_%": "-0.71",
+    "open": "762.00",
     "high": "777.00",
     "low": "775.00",
-    "qty": "280"
+    "qty": "680"
   },
   {
     "name": "Unnati Sahakarya Laghubitta Bittiya Sanstha Limited",
     "code": "USLB",
-    "ltp": "2,205.00",
-    "change_%": "-1.54",
+    "ltp": "2,209.00",
+    "change_%": "-1.36",
     "open": "2,200.00",
-    "high": "2,270.00",
+    "high": "2,273.00",
     "low": "2,200.00",
-    "qty": "271"
+    "qty": "808"
+  },
+  {
+    "name": "Vijaya laghubitta Bittiya Sanstha Ltd.",
+    "code": "VLBS",
+    "ltp": "830.00",
+    "change_%": "0.55",
+    "open": "830.00",
+    "high": "830.10",
+    "low": "830.10",
+    "qty": "37"
   },
   {
     "name": "Vision Lumbini Urja Company Limited",
     "code": "VLUCL",
-    "ltp": "600.00",
-    "change_%": "-0.39",
-    "open": "600.00",
-    "high": "602.00",
+    "ltp": "604.00",
+    "change_%": "0.27",
+    "open": "595.00",
+    "high": "604.00",
     "low": "602.00",
-    "qty": "40"
+    "qty": "556"
   },
   {
     "name": "WEAN Nepal Laghubitta Bittiya Sanstha Limited",
     "code": "WNLB",
-    "ltp": "2,210.00",
-    "change_%": "1.84",
-    "open": "2,210.00",
+    "ltp": "2,166.00",
+    "change_%": "-0.18",
+    "open": "2,166.00",
     "high": "2,210.00",
     "low": "2,210.00",
-    "qty": "10"
+    "qty": "21"
   }
 ]
