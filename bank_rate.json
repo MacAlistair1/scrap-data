@@ -63,7 +63,11 @@
     "code": "Kumari Bank",
     "bank": "Kumari Bank",
     "saving": "3.41%",
+<<<<<<< HEAD
     "fixed": "5.03%"
+=======
+    "fixed": "5.01%"
+>>>>>>> ca96c61e793c30ec4a9606fedafb17aae3840655
   },
   {
     "code": "Laxmi Sunrise",
@@ -128,20 +132,38 @@
   {
     "code": "Excel Bikas",
     "bank": "Excel Bikas Bank",
+<<<<<<< HEAD
     "saving": "3.50%",
     "fixed": "5.90%"
+=======
+    "saving": "3.80%",
+    "fixed": "6.15%"
+>>>>>>> ca96c61e793c30ec4a9606fedafb17aae3840655
   },
   {
     "code": "Miteri Bikas",
     "bank": "Miteri Bikas Bank",
     "saving": "4.25%",
+<<<<<<< HEAD
     "fixed": "6.30%"
+=======
+    "fixed": "7.00%"
+>>>>>>> ca96c61e793c30ec4a9606fedafb17aae3840655
   },
   {
     "code": "Muktinath",
     "bank": "Muktinath Bikas Bank",
     "saving": "4.00%",
     "fixed": "5.90%"
+<<<<<<< HEAD
+=======
+  },
+  {
+    "code": "Corporate Dev",
+    "bank": "Corporate Bikas Bank",
+    "saving": "5.50%",
+    "fixed": "7.25%"
+>>>>>>> ca96c61e793c30ec4a9606fedafb17aae3840655
   },
   {
     "code": "Sindhu Bikas",
@@ -153,13 +175,26 @@
     "code": "Green Develop.",
     "bank": "Green Dev. Bank",
     "saving": "4.75%",
+<<<<<<< HEAD
     "fixed": "6.15%"
+=======
+    "fixed": "6.30%"
+>>>>>>> ca96c61e793c30ec4a9606fedafb17aae3840655
   },
   {
     "code": "Shangrila Dev.",
     "bank": "Shangrila Bikas Bank",
     "saving": "4.00%",
     "fixed": "6.12%"
+<<<<<<< HEAD
+=======
+  },
+  {
+    "code": "Shine Resunga",
+    "bank": "Shine Resunga BB",
+    "saving": "4.75%",
+    "fixed": "6.11%"
+>>>>>>> ca96c61e793c30ec4a9606fedafb17aae3840655
   },
   {
     "code": "Jyoti Bikas",
@@ -201,7 +236,11 @@
     "code": "Goodwill Finan.",
     "bank": "Goodwill Finance Co.",
     "saving": "--",
+<<<<<<< HEAD
     "fixed": "6.25%"
+=======
+    "fixed": "6.00%"
+>>>>>>> ca96c61e793c30ec4a9606fedafb17aae3840655
   },
   {
     "code": "Shree Invest",
@@ -216,34 +255,43 @@
     "fixed": "7.75%"
   },
   {
+<<<<<<< HEAD
     "code": "Best Finance",
     "bank": "Best Finance Co.",
     "saving": "5.50%",
     "fixed": "7.25%"
   },
   {
+=======
+>>>>>>> ca96c61e793c30ec4a9606fedafb17aae3840655
     "code": "Progressive",
     "bank": "Progressive Fin. Co.",
     "saving": "5.00%",
     "fixed": "6.50%"
+<<<<<<< HEAD
   },
   {
     "code": "Pokhara Finan.",
     "bank": "Pokhara Finance",
     "saving": "5.15%",
     "fixed": "8.00%"
+=======
+>>>>>>> ca96c61e793c30ec4a9606fedafb17aae3840655
   },
   {
     "code": "Central Fin",
     "bank": "Central Finance Ltd",
     "saving": "5.25%",
     "fixed": "6.75%"
+<<<<<<< HEAD
   },
   {
     "code": "Multipurpose",
     "bank": "Multipurpose Finance",
     "saving": "5.00%",
     "fixed": "7.00%"
+=======
+>>>>>>> ca96c61e793c30ec4a9606fedafb17aae3840655
   },
   {
     "code": "Samriddhi Fin",
@@ -278,7 +326,12 @@
   {
     "code": "Salapa Bikas",
     "bank": "Salapa Bikas Bank",
+<<<<<<< HEAD
     "saving": "2.90%",
     "fixed": "7.50%"
+=======
+    "saving": "3.00%",
+    "fixed": "8.00%"
+>>>>>>> ca96c61e793c30ec4a9606fedafb17aae3840655
   }
 ]
